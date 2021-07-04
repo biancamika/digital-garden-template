@@ -14,16 +14,28 @@ Hi, I'm Bianca. Welcome to my digital garden, where I nurture my thoughts.
 
 ## Main Maps
 
-Inspired by the Dewey Decimal System:
-+ **Computer science, information and general works**
+Inspired by the [Dewey Decimal System](https://www.printablee.com/postpic/2014/01/dewey-decimal-classification-system-chart_211133.png):
++ **General works**
+  + About
 + **Philosophy and psychology**
+  + Philosophy MOC
+    + Mindfulness MOC
+  + Psychology MOC
+    + Attention MOC
 + **Religion**
+  + Spirituality MOC
 + **Social sciences**
+  + Sociology MOC
+  <!-- Economics MOC>
 + **Pure Science**
 + **Technology**
+  + Technology MOC
+  + Innovation MOC
+  + Business MOC
 + **Arts and recreation**
-+ **Literature**
-+ **History and geography**
+  + Art MOC
+  + Culture MOC
+  + Creativity MOC?
 
 <!--
 
