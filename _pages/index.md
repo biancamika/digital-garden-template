@@ -26,7 +26,7 @@ Inspired by the [Dewey Decimal System](https://www.printablee.com/postpic/2014/0
   + Spirituality MOC
 + **Social sciences**
   + Sociology MOC
-  <!-- Economics MOC>
+  <!-- Economics MOC -->
 + **Pure Science**
 + **Technology**
   + Technology MOC
