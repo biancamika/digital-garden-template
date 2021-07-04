@@ -15,15 +15,15 @@ Hi, I'm Bianca. Welcome to my digital garden, where I nurture my thoughts.
 ## Main Maps
 
 Inspired by the Dewey Decimal System:
-– **Computer science, information and general works**
-– **Philosophy and psychology**
-– **Religion**
-– **Social sciences**
-– **Pure Science**
-– **Technology**
-– **Arts and recreation**
-– **Literature**
-– **History and geography**
++ **Computer science, information and general works**
++ **Philosophy and psychology**
++ **Religion**
++ **Social sciences**
++ **Pure Science**
++ **Technology**
++ **Arts and recreation**
++ **Literature**
++ **History and geography**
 
 <!--
 
