@@ -1,7 +1,6 @@
 ---
 title: Interdisciplinary Approaches to Creation & Innovation (Class)
 ---
-# Interdisciplinary Approaches to Creativity & Innovation (Class)
 ---
 See [[020 School MOC]]
 

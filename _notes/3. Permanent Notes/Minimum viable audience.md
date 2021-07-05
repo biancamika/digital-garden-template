@@ -1,7 +1,6 @@
 ---
 title: Minimum viable audience
 ---
-# Minimum viable audience
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing (Book)]]
 - **Keywords:** [[permanent notes]]

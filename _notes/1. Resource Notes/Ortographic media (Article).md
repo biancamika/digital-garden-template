@@ -1,7 +1,6 @@
 ---
 title: Ortographic Media (Article)
 ---
-# Ortographic Media (Article)
 ## Information
 - **Source:** [[Robin Sloan]]
 - **Tags:** #technology #social #media 

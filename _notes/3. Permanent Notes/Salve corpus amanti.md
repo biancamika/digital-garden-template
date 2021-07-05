@@ -1,7 +1,6 @@
 ---
 title: Salve corpus amanti
 ---
-# Salve corpus amanti
 ## Reference
 - **Source:** [[Alan Moore]]; [[Do Design (Book)]]
 - **Keywords:** [[permanent notes]]

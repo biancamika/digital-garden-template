@@ -1,8 +1,6 @@
 ---
 title: Creativity is power
 ---
-# Creativity is power
-
 ## Reference
 - **Source:** 
 	- Smile Indias, [[Interdisciplinary Approaches to Creation & Innovation (Class)]]

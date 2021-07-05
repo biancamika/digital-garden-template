@@ -1,7 +1,6 @@
 ---
 title: Marketers make change
 ---
-# Marketers make change
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing (Book)]]
 - **Keywords:** [[permanent notes]]

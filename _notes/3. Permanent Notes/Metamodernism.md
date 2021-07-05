@@ -1,8 +1,6 @@
 ---
 title: Metamodernism
 ---
-# Metamodernism
-
 ## Reference
 - **Source:** 
 	- [[Tina He]]; [[Fakepixels (Newsletter)]]

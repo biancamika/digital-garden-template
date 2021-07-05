@@ -1,8 +1,6 @@
 ---
 title: Do Design (Book)
 ---
-# Do Design (Book)
-
 ## Information
 - **Source:** [[Alan Moore]]
 - **Tags:** #nonfiction #design #philosophy

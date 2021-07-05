@@ -1,8 +1,6 @@
 ---
 title: All useful things should be beautiful
 ---
-# All useful things should be beautiful
-
 ## Reference
 - **Source:** [[Alan Moore]]; [[Do Design (Book)]]
 - **Keywords:** [[permanent notes]]

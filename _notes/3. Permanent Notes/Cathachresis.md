@@ -1,8 +1,6 @@
 ---
 title: Cathachresis
 ---
-# Cathachresis
-
 ## Reference
 - **Source:** [[Tina He]]; [[Fakepixels (Newsletter)]]
 - **Keywords:** [[permanent notes]]

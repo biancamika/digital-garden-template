@@ -1,8 +1,6 @@
 ---
 title: Doing nothing is self-care
 ---
-# Doing nothing is self-care
-
 ## Reference
 - **Source:** 
 	- Smile Indias, [[Interdisciplinary Approaches to Creation & Innovation (Class)]]

@@ -1,8 +1,6 @@
 ---
 title: Deep Listening
 ---
-# Deep Listening
-
 ## Reference
 - **Source:** 
 	- Smile Indias; [[Interdisciplinary Approaches to Creation & Innovation (Class)]]

@@ -1,8 +1,6 @@
 ---
 title: Everyone always acts in accordance with their internal narratives
 ---
-# Everything has a cost
-
 ## Reference
 - **Source:** [[John Mark Comer]]; [[Garden City (Book)]]
 - **Keywords:** [[permanent notes]]

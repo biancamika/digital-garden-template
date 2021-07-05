@@ -1,10 +1,9 @@
 ---
 title: Do Design (Literature Notes)
 ---
-# Do Design (Literature Notes)
-#literaturenotes
-
 ## Notes
+#literaturenotes
+See [[Do Design (Book)]]
 - [[Salve corpus amanti]] (save the lover's body): the experience of seeing with your eyes but “experiencing it emotionally and viscerally as with ==ecstasy== and with a sense of ==total unity and oneness.==”
     >salve corpus amanti, literally translated as ‘save the lover’s body’.
    

@@ -1,8 +1,6 @@
 ---
 title: Surrogate activities
 ---
-# Surrogate activities
-
 ## Reference
 - **Source:** [[Nadia Eghbal]]; [[Monomythical (Newsletter)]]
 - **Keywords:** [[permanent notes]]

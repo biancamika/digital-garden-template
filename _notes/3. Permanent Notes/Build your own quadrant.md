@@ -1,7 +1,6 @@
 ---
 title: Build your own quadrant
 ---
-# Build your own quadrant
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing (Book)]]
 - **Keywords:** [[permanent notes]]

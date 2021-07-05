@@ -1,7 +1,6 @@
 ---
 title: long tail
 ---
-# Long Tail
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing (Book)]]
 - **Keywords:** [[permanent notes]]

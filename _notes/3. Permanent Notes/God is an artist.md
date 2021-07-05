@@ -1,8 +1,6 @@
 ---
 title: God is an artist
 ---
-# God is an artist
-
 ## Reference
 - **Source:** [[John Mark Comer]]; [[Garden City (Book)]]
 - **Keywords:** [[permanent notes]]

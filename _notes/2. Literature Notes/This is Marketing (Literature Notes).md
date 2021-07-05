@@ -1,10 +1,8 @@
 ---
 title: This is Marketing (Literature Notes)
 ---
-# This is Marketing (Literature Notes)
-#literaturenotes 
-
 ## Notes
+#literaturenotes 
 - If you want change in the world, then start making it happen.
  >The first step on the path to make things better is to make better things.
 - ==Hijacking attention== is inexcusable.

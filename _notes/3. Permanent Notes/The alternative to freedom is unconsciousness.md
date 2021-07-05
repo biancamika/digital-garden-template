@@ -1,8 +1,6 @@
 ---
 title: The alternative to freedom is unconsciousness
 ---
-# The alternative to freedom is unconsciousness
-
 ## Reference
 - **Source:** [[David Foster Wallace]]; [[This is Water (Speech)]]
 - **Keywords:** [[permanent notes]]

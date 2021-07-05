@@ -1,8 +1,6 @@
 ---
 title: trauma bonding
 ---
-# trauma bonding
-
 ## Reference
 - **Source:** [[Anna Wiener]]; [[Uncanny Valley (Book)]]
 - **Keywords:** [[permanent notes]]

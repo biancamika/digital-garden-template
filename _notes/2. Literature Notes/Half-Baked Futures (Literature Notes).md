@@ -1,7 +1,6 @@
 ---
 title: Half-Baked Futures (Literature Notes)
 ---
-# Half-Baked Futures (Literature Notes)
 See [[Half-Baked Futures (Newsletter)]]
 #literaturenotes 
 ## All the world's a stage + communicative friction

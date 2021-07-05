@@ -1,8 +1,6 @@
 ---
 title: Art is the opposite of hype
 ---
-# Art is the opposite of hype
-
 ## Reference
 - **Source:** [[Anna Andjelic]]; [[The Sociology of Business (Newsletter)]]
 - **Keywords:** [[permanent notes]]

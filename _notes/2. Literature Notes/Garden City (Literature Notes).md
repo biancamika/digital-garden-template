@@ -1,9 +1,9 @@
 ---
 title: Garden City (Literature Notes)
 ---
-# Garden City (Literature Notes)
-#literaturenotes 
 ## Notes
+#literaturenotes 
+See [[Garden City (Book)]]
 - [[Work is a core part of our human identity]].
 >  Because when we stop working, we lose a part of who we are. 
 

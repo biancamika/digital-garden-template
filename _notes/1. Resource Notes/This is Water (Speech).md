@@ -1,8 +1,6 @@
 ---
 title: This is Water (Speech)
 ---
-# This is Water (Speech)
-
 ## Information
 - **Source:** [[David Foster Wallace]]
 - **Tags:** #advice #life 

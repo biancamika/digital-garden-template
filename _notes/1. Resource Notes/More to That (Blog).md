@@ -1,8 +1,6 @@
 ---
 title: More to That (Blog)
 ---
-# More to That (Blog)
-
 ## Information
 - **Source:** [[Lawrence Yeo]]
 - **Tags:** #philosophy #life #people #psychology #sociology 

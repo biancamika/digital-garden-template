@@ -1,8 +1,6 @@
 ---
 title: Technology keeps up stuck in a feedback loop with ourselves
 ---
-# Technology keeps up stuck in a feedback loop with ourselves
-
 ## Reference
 - **Source:** [[Anna Wiener]]; [[Uncanny Valley (Book)]]
 - **Keywords:** [[permanent notes]]

@@ -1,10 +1,8 @@
 ---
 title: This is Water (Literature Notes)
 ---
-# This is Water (Literature Notes)
-#literaturenotes 
-
 ## Notes
+#literaturenotes 
 - We're hard-wired to believe hat we're the ==centre of the universe==
   >everything in my own immediate experience supports my deep belief that I am the absolute centre of the universe; the realest, most vivid and important person in existence. We rarely think about this sort of natural, basic self-centredness because it’s so socially repulsive. But it’s pretty much the same for all of us. It is our default setting, hard-wired into our boards at birth.
 - Learning ==how to think== consists of learning how to ==control== what we pay ==attention== to + how we construct ==meaning== from experience

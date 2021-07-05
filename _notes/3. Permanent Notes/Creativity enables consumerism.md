@@ -1,8 +1,6 @@
 ---
 title: Creativity enables consumerism
 ---
-# Creativity enables consumerism
-
 ## Reference
 - **Source:** 
 	- Smile Indias; [[Interdisciplinary Approaches to Creation & Innovation (Class)]]

@@ -1,8 +1,6 @@
 ---
 title: Uncanny Valley (Book)
 ---
-# Uncanny Valley (Book)
-
 ## Information
 - **Source:** [[Anna Wiener]]
 - **Tags:** #nonfiction #memoir #technology #SiliconValley

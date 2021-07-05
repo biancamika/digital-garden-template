@@ -1,8 +1,6 @@
 ---
 title: The attention economy is when we treat human attention as a finite commodity
 ---
-# The attention economy is when we treat human attention as a finite commodity
-
 ## Reference
 - **Source:** 
 	- Smile Indias; [[Interdisciplinary Approaches to Creation & Innovation (Class)]]

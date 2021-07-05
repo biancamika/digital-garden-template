@@ -1,7 +1,6 @@
 ---
 title: Every purchase is a bargain
 ---
-# Every purchase is a bargain
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing (Book)]]
 - **Keywords:** [[permanent notes]]

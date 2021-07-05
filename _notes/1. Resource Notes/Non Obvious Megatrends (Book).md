@@ -1,8 +1,6 @@
 ---
 title: Non Obvious Megatrends (Book)
 ---
-# Non Obvious Megatrends (Book)
-
 ## Information
 - **Source:** [[Rohit Bhargava]]
 - **Tags:** #nonfiction #business #trends #strategy

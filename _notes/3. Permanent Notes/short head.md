@@ -1,7 +1,6 @@
 ---
 title: short head
 ---
-# Short Head
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing (Book)]]
 - **Keywords:** [[permanent notes]]

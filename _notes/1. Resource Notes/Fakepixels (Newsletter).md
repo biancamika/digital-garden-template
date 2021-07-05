@@ -1,8 +1,6 @@
 ---
 title: Fakepixels (Newsletter)
 ---
-# FakePixels (Newsletter)
-
 ## Information
 - **Source:** [[Tina He]]
 - **Tags:** #creativity #technology #innovation #philosophy

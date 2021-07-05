@@ -1,7 +1,6 @@
 ---
 title: Trick Mirror (Cook)
 ---
-# Trick Mirror (Book)
 #unfinished
 ## Information
 - **Source:** [[Jia Tolentino]]

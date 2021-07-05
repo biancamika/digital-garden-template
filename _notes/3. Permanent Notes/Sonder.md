@@ -1,7 +1,6 @@
 ---
 title: Sonder
 ---
-# Sonder
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing (Book)]]
 - **Keywords:** [[permanent notes]]

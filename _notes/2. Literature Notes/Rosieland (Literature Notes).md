@@ -1,9 +1,9 @@
 ---
 title: Rosieland (Literature Notes)
 ---
-# Rosieland (Literature Notes)
-See [[Rosieland (Newsletter)]]
 ##  Notes
+See [[Rosieland (Newsletter)]]
+#literaturenotes 
 ### Community is dead, long live community!
 - ==People and conversations== are at the heart of any community. This is what people often don’t see, or all too easily forget.
 - Of course, you also need that thing to ==bring people together. A vision. A purpose.== A thing that people get excited over.

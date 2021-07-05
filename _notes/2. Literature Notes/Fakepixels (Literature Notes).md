@@ -1,10 +1,9 @@
 ---
 title: Fakepixels (Literature Notes)
 ---
-# Fakepixels (Literature Notes)
-See [[Fakepixels (Newsletter)]]
-#unfinished
 ## Notes
+See [[Fakepixels (Newsletter)]]
+#unfinished #literaturenotes 
 ### Vol. 58: Dance me to the end of love
 - [[Cathachresis]] is a statement is so astonishingly wrong that it feels right.
 	- It was originally defined by rhetorician Quintilian as ==a transfer of terms from one place to another when no proper word exists.==

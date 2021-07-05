@@ -1,7 +1,6 @@
 ---
 title: Primary reflection
 ---
-# Primary Reflection
 ## Reference
 - **Source:** Doing Philosophy by Dr. Angeles; [[2021-04-29]]
 - **Keywords:** [[permanent notes]]

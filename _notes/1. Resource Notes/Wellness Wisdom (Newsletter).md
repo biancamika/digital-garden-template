@@ -1,8 +1,6 @@
 ---
 title: Wellness Wisdom (Newsletter)
 ---
-# Wellness Wisdom (Newsletter)
-
 ## Information
 - **Source:** [[Patricia Mou]]
 - **Tags:** #wellness #mentalhealth #personaldevelopment #spirituality #philosophy 

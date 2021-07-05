@@ -1,9 +1,6 @@
 ---
 title: To create something from nothing, we must believe in the impossible
 ---
-
-# To create something from nothing, we must believe in the impossible
-
 ## Reference
 - **Source:** 
 	- Smile Indias, [[Interdisciplinary Approaches to Creation & Innovation (Class)]]

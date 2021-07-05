@@ -1,8 +1,6 @@
 ---
 title: Sweet Spot
 ---
-# Sweet Spot
-
 ## Reference
 - **Source:** [[Patricia Mou]]; [[Wellness Wisdom (Newsletter)]]
 - **Keywords:** [[permanent notes]]

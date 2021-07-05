@@ -1,9 +1,6 @@
 ---
 title: The Sociology of Business (Newsletter)
 ---
-
-# The Sociology of Business (Newsletter)
-
 ## Information
 - **Source:** [[Anna Andjelic]]
 - **Tags:** #brand #strategy #business #culture #sociology

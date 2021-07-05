@@ -1,9 +1,9 @@
 ---
 title: Breaking Smart (Literature Notes)
 ---
-# Breaking Smart (Literature Notes)
-See [[Breaking Smart (Newsletter)]]
 ##  Notes
+#literaturenotes 
+See [[Breaking Smart (Newsletter)]]
 ### Against Waldenponding 1
 https://breakingsmart.substack.com/p/against-waldenponding
 - [[Waldenponding]] is a philosophy of relating to technology based on Thoreau's Walden Pond experiment. It's basically all about unplugging and retreating from technology. 

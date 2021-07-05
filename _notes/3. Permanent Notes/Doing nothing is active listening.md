@@ -1,8 +1,6 @@
 ---
 title: Doing nothing is active listening
 ---
-# Doing nothing is active listening
-
 ## Reference
 - **Source:** 
 	- Smile Indias; [[Interdisciplinary Approaches to Creation & Innovation (Class)]]

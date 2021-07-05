@@ -1,8 +1,6 @@
 ---
 title: Garden City (Book)
 ---
-# Garden City (Book)
-
 ## Information
 - **Source:** [[John Mark Comer]]
 - **Tags:** #nonfiction #Christianity #religion

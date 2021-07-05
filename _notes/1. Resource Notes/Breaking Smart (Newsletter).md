@@ -1,7 +1,6 @@
 ---
 title: Breaking Smart (Newsletter)
 ---
-# Breaking Smart (Newsletter)
 ## Information
 - **Source:** [[Venkatesh Rao]]
 - **Tags:** #technology #future

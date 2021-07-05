@@ -1,8 +1,6 @@
 ---
 title: Brand mood
 ---
-# Brand mood
-
 ## Reference
 - **Source:** [[Anna Andjelic]]; [[The Sociology of Business (Newsletter)]]
 - **Keywords:** [[permanent notes]]

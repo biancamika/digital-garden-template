@@ -1,8 +1,6 @@
 ---
 title: Monomythical (Newsletter)
 ---
-# Monomythical (Newsletter)
-
 ## Information
 - **Source:** [[Nadia Eghbal]]
 - **Tags:** #internet #creators 

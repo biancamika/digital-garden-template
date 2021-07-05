@@ -1,8 +1,6 @@
 ---
 title: The purpose of capitalism is to build our culture
 ---
-
-# The purpose of capitalism is to build our culture
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing (Book)]]
 - **Keywords:** [[permanent notes]]

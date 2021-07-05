@@ -1,9 +1,9 @@
 ---
 title: More to That (Literature Notes)
 ---
-# More to That (Literature Notes)
-See [[More to That (Blog)]]
 ## Notes
+#literaturenotes 
+See [[More to That (Blog)]]
 ### The Information Lifecycle: How Three Filters Shape the Mind
 #information #cognition
 - [[Attention is a zero-sum game]].

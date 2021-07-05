@@ -1,10 +1,8 @@
 ---
 title: Uncanny Valley (Literature Notes)
 ---
-# Uncanny Valley (Literature Notes)
-#literaturenotes 
-
 ## Notes
+#literaturenotes 
 - Good interface design is like ==magic/religion== when it cultivates the mass ==suspension of disbelief.==
  > Good interface design was like magic, or religion: it cultivated the mass suspension of disbelief.
 - ==Soft skills were undervalued== despite evidence showing that ==emotional intelligence cannot be taught.==

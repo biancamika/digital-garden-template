@@ -1,7 +1,6 @@
 ---
 title: Information Architecture (Class)
 ---
-# Information Architecture (Class)
 ---
 See [[020 School MOC]] 
 

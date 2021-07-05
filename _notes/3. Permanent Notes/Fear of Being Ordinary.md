@@ -1,8 +1,6 @@
 ---
 title: Fear of Being Ordinary
 ---
-# Fear of Being Ordinary
-
 ## Reference
 - **Source:** [[Venkatesh Rao]]; [[Breaking Smart (Newsletter)]]
 - **Keywords:** [[permanent notes]]

@@ -1,8 +1,6 @@
 ---
 title: The greatest enemy of creative success is the attempt to fortify against failure
 ---
-# The greatest enemy of creative success is the attempt to fortify against failure
-
 ## Reference
 - **Source:** [[Alan Moore]]; [[Do Design (Book)]]
 - **Keywords:** [[permanent notes]]

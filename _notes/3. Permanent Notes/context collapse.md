@@ -1,7 +1,6 @@
 ---
 title: context collapse
 ---
-# context collapse
 ## Reference
 - **Source:** 
 	- [[Robin Sloan]]; [[Ortographic media (Article)]]

@@ -1,8 +1,6 @@
 ---
 title: Grief and resilience live together
 ---
-# Grief and resilience live together
-
 ## Reference
 - **Source:** [[Michelle Obama]]; [[Becoming (Book)]]
 - **Keywords:** [[permanent notes]]

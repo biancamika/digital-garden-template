@@ -1,7 +1,6 @@
 ---
 title: Everyone always acts in accordance with their internal narratives
 ---
-# Everyone always acts in accordance with their internal narratives
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing (Book)]]
 - **Keywords:** [[permanent notes]]

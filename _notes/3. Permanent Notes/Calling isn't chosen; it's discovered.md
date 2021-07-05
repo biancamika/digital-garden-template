@@ -1,8 +1,6 @@
 ---
 title: Calling isn't chosen; it's discovered
 ---
-# Calling isn't chosen; it's discovered
-
 ## Reference
 - **Source:** [[John Mark Comer]]; [[Garden City (Book)]]
 - **Keywords:** [[permanent notes]]

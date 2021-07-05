@@ -1,8 +1,6 @@
 ---
 title: Waldenponding
 ---
-# Waldenponding
-
 ## Reference
 - **Source:** [[Venkatesh Rao]]; [[Breaking Smart (Newsletter)]]
 - **Keywords:** [[permanent notes]]

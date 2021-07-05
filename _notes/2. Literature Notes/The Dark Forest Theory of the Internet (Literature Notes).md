@@ -1,9 +1,9 @@
 ---
 title: The Dark Forest Theory of the Internet (Literature Notes)
 ---
-# The Dark Forest Theory of the Internet (Literature Notes)
-See [[Yancy Strickler]]
 ##  Notes
+See [[Yancy Strickler]]
+#literaturenotes 
 ### The Dark Forest Theory of the Internet
 #internet #social #people 
 - This is based on Liu Ciuxin's [[The Three Body Problem]] about the universe.

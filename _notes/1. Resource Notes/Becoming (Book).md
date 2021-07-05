@@ -1,9 +1,6 @@
 ---
 title: Becoming (Book)
 ---
-
-# Becoming (Book)
-
 ## Information
 - **Source:** [[Michelle Obama]]
 - **Tags:** #memoir 

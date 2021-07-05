@@ -1,8 +1,6 @@
 ---
 title: You have agency over your own attention
 ---
-# You have agency over your own attention
-
 ## Reference
 - **Source:** [[Venkatesh Rao]]; [[Breaking Smart (Newsletter)]]
 - **Keywords:** [[permanent notes]]

@@ -1,8 +1,6 @@
 ---
 title: This is Marketing (Book)
 ---
-# This is Marketing (Book)
-
 ## Information
 - **Source:** [[Seth Godin]]
 - **Tags:** #nonfiction #marketing #business

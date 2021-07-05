@@ -1,9 +1,8 @@
 ---
 title: Wellness Wisdom (Literature Notes)
 ---
-# Wellness Wisdom (Literature Notes)
-See [[Wellness Wisdom (Newsletter)]]
 ## Notes
+See [[Wellness Wisdom (Newsletter)]]
 ### Vol. 23 
 - Optimizing leisure activities is a ==display of the ego.==
 > Optimizing creativity and play as another goal to conquer is also a ==manifestation of an ego== that desires to remain in control and “be the best at x”.

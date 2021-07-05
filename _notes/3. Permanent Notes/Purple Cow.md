@@ -1,8 +1,6 @@
 ---
 title: Purple Cow
 ---
-
-# Purple Cow
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing (Book)]]
 - **Keywords:** [[permanent notes]]

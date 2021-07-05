@@ -1,8 +1,6 @@
 ---
 title: Creativity now has value as a commodity
 ---
-# Creativity now has value as a commodity
-
 ## Reference
 - **Source:** 
 	- Smile Indias, [[Interdisciplinary Approaches to Creation & Innovation (Class)]]

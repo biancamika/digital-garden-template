@@ -1,9 +1,9 @@
 ---
 title: Check Your Pulse (Literature Notes)
 ---
-# Check Your Pulse (Literature Notes)
-See [[Check Your Pulse (Newsletter)]]
 ##  Notes
+#literaturenotes 
+See [[Check Your Pulse (Newsletter)]]
 ### #55: Community-curated Knowledge Networks
 #community #social #people #technology 
 - Potential category: ==online communities at the intersection of content curation and knowledge management. == Knowledge organization is an untapped market.

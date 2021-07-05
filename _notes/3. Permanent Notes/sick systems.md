@@ -1,8 +1,6 @@
 ---
 title: sick systems
 ---
-# sick systems
-
 ## Reference
 - **Source:** [[Anna Wiener]]; [[Uncanny Valley (Book)]]
 - **Keywords:** [[permanent notes]]

@@ -1,8 +1,6 @@
 ---
 title: Resisting makes us creative
 ---
-# Resisting makes us creative
-
 ## Reference
 - **Source:** 
 	- Smile Indias, [[Interdisciplinary Approaches to Creation & Innovation (Class)]]

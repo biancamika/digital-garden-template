@@ -1,8 +1,6 @@
 ---
 title: The antidote to the ego is awareness
 ---
-# The antidote to the ego is awareness
-
 ## Reference
 - **Source:** [[Patricia Mou]]; [[Wellness Wisdom (Newsletter)]]
 - **Keywords:** [[permanent notes]]
