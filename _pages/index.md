@@ -16,7 +16,7 @@ Hi, I'm Bianca. Welcome to my digital garden, where I nurture my thoughts.
 
 Inspired by the [Dewey Decimal System](https://www.printablee.com/postpic/2014/01/dewey-decimal-classification-system-chart_211133.png):
 + **General works**
-  + About
+  + [[About]]
 + **Philosophy and psychology**
   + Philosophy MOC
     + Mindfulness MOC
