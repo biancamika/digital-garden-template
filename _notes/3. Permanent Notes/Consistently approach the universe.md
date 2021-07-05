@@ -8,6 +8,7 @@ title: Consistently approach the universe
 - **Relevant Notes:**
 	- [[Salve corpus amanti]]
 	- [[God is an artist]]
+	- [[Calling isn't chosen; it's discovered]]
 ## Notes
 - If you want to live richly, you must be willing to ==open yourself to the universe, and the experiences that it offers.==
 	- We build technology for the sake of accessing these experiences.

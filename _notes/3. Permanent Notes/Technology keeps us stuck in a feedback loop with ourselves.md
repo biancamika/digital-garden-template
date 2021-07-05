@@ -4,7 +4,7 @@ title: Technology keeps up stuck in a feedback loop with ourselves
 ## Reference
 - **Source:** [[Anna Wiener]]; [[Uncanny Valley (Book)]]
 - **Keywords:** [[permanent notes]]
-	- #philosophy #technology
+	- #technology  #attention 
 - **Relevant Notes:**
 	- Placeholder
 ## Notes

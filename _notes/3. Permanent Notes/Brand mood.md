@@ -4,7 +4,7 @@ title: Brand mood
 ## Reference
 - **Source:** [[Anna Andjelic]]; [[The Sociology of Business (Newsletter)]]
 - **Keywords:** [[permanent notes]]
-	- #brand #sociology #culture
+	- #brand #sociology #culture #business
 - **Relevant Notes:**
 	- [[The purpose of capitalism is to build our culture]]
 	- [[Build your own quadrant]]

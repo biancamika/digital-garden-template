@@ -6,7 +6,7 @@ title: Creativity enables consumerism
 	- Smile Indias; [[Interdisciplinary Approaches to Creation & Innovation (Class)]]
 	- [[Oli Mould]], [[Against Creativity (Book)]]
 - **Keywords:** [[permanent notes]]
-	- #capitalism #society #creativity
+	- #capitalism #society #creativity #innovation 
 - **Relevant Notes:**
 	- [[The purpose of capitalism is to build our culture]]
 	- [[Surrogate activities]]

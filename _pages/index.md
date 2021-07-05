@@ -12,29 +12,32 @@ Hi, I'm Bianca. Welcome to my digital garden, where I nurture my thoughts.
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-## Main Maps 🧭
+## Main Maps of Content (MOCs) 🧭
 
 Inspired by the [Dewey Decimal System](https://www.printablee.com/postpic/2014/01/dewey-decimal-classification-system-chart_211133.png):
 + **General works 📂**
   + [[About]]
 + **Philosophy and psychology 💭**
-  + Philosophy MOC
-    + Mindfulness MOC
-  + Psychology MOC
-    + Attention MOC
+  + [[Philosophy MOC]]
+    + [[Mindfulness MOC]]
+  + [[Psychology MOC]]
+    + [[Attention MOC]]
+  + [[Personal Development MOC]]
 + **Religion 🛐**
-  + Spirituality MOC
+  + [[Spirituality MOC]]
 + **Social sciences 👥**
-  + Sociology MOC
+  + [[Sociology MOC]]
   <!-- Economics MOC -->
++ **Languages**
+  + [[Words MOC]]
 + **Technology ⚙️**
-  + Technology MOC
-  + Innovation MOC
-  + Business MOC
+  + [[Technology MOC]]
+  + [[Innovation MOC]]
+  + [[Business MOC]]
 + **Arts and recreation 🎭**
-  + Art MOC
-  + Culture MOC
-  + Creativity MOC?
+  + [[Art MOC]]
+  + [[Design MOC]]
+  + [[Creativity MOC]]
 
 <!--
 

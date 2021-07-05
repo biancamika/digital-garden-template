@@ -4,7 +4,7 @@ title: Sonder
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing (Book)]]
 - **Keywords:** [[permanent notes]]
-	- #philosophy #people 
+	- #philosophy #people #words #psychology 
 - **Relevant Notes:**
 	- [[Everyone always acts in accordance with their internal narratives]]
 	- [[context collapse]]

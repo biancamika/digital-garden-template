@@ -4,7 +4,7 @@ title: Identity isn't constructed independently
 ## Reference
 - **Source:** [[Lawrence Yeo]]; [[More to That (Blog)]]
 - **Keywords:** [[permanent notes]]
-	- #identity 
+	- #identity #psychology 
 - **Relevant Notes:**
 	- [[Work is a core part of our human identity]]
 	- [[Fear of Being Ordinary]]
