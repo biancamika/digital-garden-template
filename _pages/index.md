@@ -12,27 +12,26 @@ Hi, I'm Bianca. Welcome to my digital garden, where I nurture my thoughts.
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-## Main Maps
+## Main Maps 🧭
 
 Inspired by the [Dewey Decimal System](https://www.printablee.com/postpic/2014/01/dewey-decimal-classification-system-chart_211133.png):
-+ **General works**
++ **General works 📂**
   + [[About]]
-+ **Philosophy and psychology**
++ **Philosophy and psychology 💭**
   + Philosophy MOC
     + Mindfulness MOC
   + Psychology MOC
     + Attention MOC
-+ **Religion**
++ **Religion 🛐**
   + Spirituality MOC
-+ **Social sciences**
++ **Social sciences 👥**
   + Sociology MOC
   <!-- Economics MOC -->
-+ **Pure Science**
-+ **Technology**
++ **Technology ⚙️**
   + Technology MOC
   + Innovation MOC
   + Business MOC
-+ **Arts and recreation**
++ **Arts and recreation 🎭**
   + Art MOC
   + Culture MOC
   + Creativity MOC?
