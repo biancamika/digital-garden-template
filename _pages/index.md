@@ -8,10 +8,6 @@ permalink: /
 # Welcome! 👋 
 Hi, I'm Bianca. Welcome to my digital garden, where I nurture my thoughts.
 
-<p style="padding: 3em 1em; background: #ffe6e6; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
-
 ## Main Maps of Content (MOCs) 🧭
 
 Inspired by the [Dewey Decimal System](https://www.printablee.com/postpic/2014/01/dewey-decimal-classification-system-chart_211133.png):
@@ -40,6 +36,9 @@ Inspired by the [Dewey Decimal System](https://www.printablee.com/postpic/2014/0
   + [[Creativity MOC]]
 
 <!--
+<p style="padding: 3em 1em; background: #ffe6e6; border-radius: 4px;">
+  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+</p>
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
