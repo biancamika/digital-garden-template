@@ -11,7 +11,7 @@ permalink: /
 
 Hi, I'm Bianca. Welcome to my digital garden, where I nurture my thoughts. I take notes because I have too many tabs open in my 5 MB brain :') and don't want to forget all the wonderful things I get to learn.
 
-<p style="padding: 3em 1em; background: #ffe6e6; border-radius: 4px;">
+<p style="padding: 2em 1em; background: #ffe6e6; border-radius: 4px;">
   Warning: This website is forever a work in progress! Some notes may have weird formatting too + broken links. Currently trying to fix that.
 </p>
 
@@ -20,6 +20,7 @@ Hi, I'm Bianca. Welcome to my digital garden, where I nurture my thoughts. I tak
 Inspired by the [Dewey Decimal System](https://www.printablee.com/postpic/2014/01/dewey-decimal-classification-system-chart_211133.png):
 + **General works 📂**
   + [[About]]
+  + [[Now]]
 + **Philosophy and psychology 💭**
   + [[Philosophy MOC]]
     + [[Mindfulness MOC]]
