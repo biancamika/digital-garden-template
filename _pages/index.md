@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-<img src="https://media.giphy.com/media/26tPgbUUcfS5IWiTm/giphy.gif" style="display:flex; align-items:left;">
+<img src="https://media.giphy.com/media/26tPgbUUcfS5IWiTm/giphy.gif" style="width:100%;">
 
 # Welcome to my garden! 👋 
 
