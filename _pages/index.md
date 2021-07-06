@@ -6,7 +6,10 @@ permalink: /
 ---
 
 # Welcome! 👋 
-Hi, I'm Bianca. Welcome to my digital garden, where I nurture my thoughts.
+
+<img src="https://media.giphy.com/media/26tPgbUUcfS5IWiTm/giphy.gif">
+
+Hi, I'm Bianca. Welcome to my digital garden, where I nurture my thoughts. I take notes because I have too many tabs open in my 5 MB brain :') and don't want to forget all the wonderful things I get to learn
 
 ## Main Maps of Content (MOCs) 🧭
 
