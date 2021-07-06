@@ -4,16 +4,12 @@ title: Home
 id: home
 permalink: /
 ---
-<div>
 # Welcome! 👋 
 
-<img src="https://media.giphy.com/media/26tPgbUUcfS5IWiTm/giphy.gif" style="float:left;">
+<img src="https://media.giphy.com/media/26tPgbUUcfS5IWiTm/giphy.gif" style="align:left;">
 
-Hi, I'm Bianca. Welcome to my digital garden, where I nurture my thoughts. I take notes because I have too many tabs open in my 5 MB brain :') and don't want to forget all the wonderful things I get to learn
+Hi, I'm Bianca. Welcome to my digital garden, where I nurture my thoughts. I take notes because I have too many tabs open in my 5 MB brain :') and don't want to forget all the wonderful things I get to learn.
 
-</div>
-
-<div>
 
 ## Main Maps of Content (MOCs) 🧭
 
@@ -54,8 +50,6 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 If this template helps you in any way, [consider buying me a coffee](https://ko-fi.com/maximevaillancourt)! ☕️
 
 -->
-
-</div>
 
 <style>
   .wrapper {
