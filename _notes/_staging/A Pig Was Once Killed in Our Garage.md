@@ -1,7 +1,7 @@
 ---
 created: 2021-07-09T00:07:42+08:00
 title: A Pig Was Once Killed in Our Garage
-modified: 2021-07-09T01:17:49+08:00
+modified: 2021-07-09T01:21:34+08:00
 ---
 
 ## Highlights
@@ -15,3 +15,4 @@ modified: 2021-07-09T01:17:49+08:00
 > Here I was thinking that writing was about finding inherent orders, connecting plot points that naturally lead to agreeable insights. Didion, on the other hand, catalogued.
 ### 8.
 > Prayer was supposed to be more a plea for vigilance, chants we collectively utter for strength, strength found in simply saying the same thing, perhaps meaning that we believed in the same thing and were thus not alone.
+> Repetition, like prayer—the things we say to ourselves—is its own kind of healing. And what is healing but an insistence.
