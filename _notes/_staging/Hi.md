@@ -1,6 +1,6 @@
 ---
 title: Embodied Learning
-modified: 2021-07-09T16:31:08+08:00
+modified: 2021-07-09T16:31:41+08:00
 ---
 
 Superhuman
@@ -44,7 +44,7 @@ World Teacher Podcast
 Exponential
 - The body is intimately involved in all our though processes: understanding, emotions, and decision making
 
-—-
+---
 [Just 9%: Exploring Movement through Conversations | by Interintellect | Medium](https://interintellect.medium.com/just-9-exploring-movement-through-conversations-e9c06eacdb6f)
 
 
