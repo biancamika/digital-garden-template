@@ -1,8 +1,50 @@
 ---
 title: Embodied Learning
-modified: 2021-07-07T00:48:18+08:00
+modified: 2021-07-09T16:31:08+08:00
 ---
 
+Superhuman
+- Cognitive embodiment
+- Mirror neutrons ^
+- When we watch others perform such an action, the same networks activated when we perform the action are activated
+- Sixth sense/proprioception
+- Our whole being is made to work in combination w/ each other
+- ^ which is why isolated learning is boring
+- Rituals are how we can apply learning
+- Paying attention is key 
+- You experience the emotion if you perform the facial expression
+- ^ helps with recall
+- Study: washing hands and watching video of washing hands can lessen guilt
+- Store them in your body (related: The Body is the Score)
+
+Information Futurism
+- Information futurism: where will we be going? When you step back and look at history, one of the most consistent trends is that you need info to build a good society
+- Thinking in current paradigm v.s. Future paradigm
+- Not going the optimal route (more steps vs less steps) gives you more information; more exploration
+
+Embodied Learning
+- How do we (builders) to talk about the ways people interact with information?
+- How mind, body, and world work together
+- People deliberately made more moves in tetris bc it gave them more information
+- Two classes of action: pragmatic (changing the world for the purpose of changing the world) and epistemic (actions we take into the world to make mental computations simpler)
+- People try to use their body in problem-solving; it’s not just looking
+- Legacy idea: brain does all of the work
+- Embodiment: we are making a huge mistake by ignoring the body and its role in interacting
+- ^ happening in design world
+- People doing synthesis work and applying it to irl is important
+- Example of epistemic interaction: probing
+
+World Teacher Podcast
+- we are all born in tune with our bodies
+- The body is the mediator of emotion
+- Start with where the learner is
+- Their goals > our goals
+
+
+Exponential
+- The body is intimately involved in all our though processes: understanding, emotions, and decision making
+
+—-
 [Just 9%: Exploring Movement through Conversations | by Interintellect | Medium](https://interintellect.medium.com/just-9-exploring-movement-through-conversations-e9c06eacdb6f)
 
 
