@@ -3,7 +3,7 @@ title: Embodied Learning
 modified: 2021-07-09T16:31:41+08:00
 ---
 
-Superhuman
+The Superhuman Playbook: Embodied Learning with Erica Appelros
 - Cognitive embodiment
 - Mirror neutrons ^
 - When we watch others perform such an action, the same networks activated when we perform the action are activated
