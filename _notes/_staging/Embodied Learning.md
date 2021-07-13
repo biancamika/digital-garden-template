@@ -17,12 +17,13 @@ The Superhuman Playbook: Embodied Learning with Erica Appelros
 - Study: washing hands and watching video of washing hands can lessen guilt
 - Store them in your body (related: The Body is the Score)
 
-Information Futurism
+Design Everywhere
+Episode: Information Futurism with Karl Fast
 - Information futurism: where will we be going? When you step back and look at history, one of the most consistent trends is that you need info to build a good society
 - Thinking in current paradigm v.s. Future paradigm
 - Not going the optimal route (more steps vs less steps) gives you more information; more exploration
 
-Embodied Learning
+Episode: Embodied Learning with Karl Fast
 - How do we (builders) to talk about the ways people interact with information?
 - How mind, body, and world work together
 - People deliberately made more moves in tetris bc it gave them more information
@@ -35,14 +36,28 @@ Embodied Learning
 - Example of epistemic interaction: probing
 
 World Teacher Podcast
+Episode: Embodied Learning with Traci L. Scheepstra
 - we are all born in tune with our bodies
 - The body is the mediator of emotion
 - Start with where the learner is
 - Their goals > our goals
 
 
-Exponential
+**Exponential Technology & The Future of Dance** 
+Episode 2: Repetition and Choreogrphy with Andrea Pena and Noa Dalberg
+- 
+Episode 3:
 - The body is intimately involved in all our though processes: understanding, emotions, and decision making
+Episode 10: Collective Embodiment, Digital Intimacies, and Body Intelligence, Part One with Ghislaine Boddington
+- networked multiself; internet of bodies, bound by sensors, implants, intuition, and dissolution of the boundaries between physical and virtual
+- we're so educated to think in boxes, and people are afraid to go beyond their box, even if they're capable of it
+- Be curious beyond your expertise ^
+- Find in other sectors the common crossovers
+- We need to put the body at the heart of the Internet
+- We need the internet of bodies, which then the IoT works for
+- ^ Why are we putting emphasis on the table or the fridge? When it does these things for YOU
+
+
 
 ---
 [Just 9%: Exploring Movement through Conversations | by Interintellect | Medium](https://interintellect.medium.com/just-9-exploring-movement-through-conversations-e9c06eacdb6f)
