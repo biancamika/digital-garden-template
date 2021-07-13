@@ -131,12 +131,12 @@ title: The Workshopper Playbook (Book)
 2. **Communication**
 	1. Slow down
 	2. Buffer in a bit more time for discussions
-3. Guidance
+3. **Guidance**
 	1. Make use of progressive disclosure: only share information participants need to know
 	2. Minimize the neec to switch between a video call and the remote collaboration board
-4. Sort Out the Tech
+4. **Sort Out the Tech**
 	1. Have a plan B for every single tool you're using
 	2. Prepare for the worst-case scenario, have several backups
-5. Simplicity
+5. **Simplicity**
 	1. Keep it simple
 	2. Don't overcomplicate
