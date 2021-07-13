@@ -8,3 +8,4 @@ so interested in this process
 + [[Resisting makes us creative]]
 + [[The greatest enemy of creative success is the attempt to fortify against failure]]
 + [[To create something from nothing, we must believe in the impossible]]
++ [[Ideas are just a multiplier of execution]]
