@@ -4,14 +4,14 @@ title: Design Justice
 modified: 2021-07-09T16:43:32+08:00
 ---
 ## Reboot Summary
-- Design justice also focuses on the design of systems
+- Design justice also focuses on the ==design of systems==
 - Design justice rethinks design processes, centers people who are normally marginalized by design, and uses collaborative, creative practices to address the deepest challenges our communities face.
 
 **Design Education**
-- Rather than teaching rules, design education should prompt students to investigate where problems stem from and how to solve them inclusively
+- Rather than teaching rules, design education should prompt students to ==investigate== where problems stem from and how to ==solve== them inclusively
 - radical educator Paulo Freire
 - Freire writes, “the goal of education is to transform oppressed individuals into subjects who engage in collective action to transform their conditions of oppression.”
-- education lives within a system of domination and liberation; each participant should think, question, and act to identify the causes of the problems within that system.
+- ==education lives within a system of domination and liberation==; each participant should think, question, and act to identify the causes of the problems within that system.
 - Designers should keep the following principles in mind: change emerges over time from a collaborative process, rather than appearing out of thin air at the end; we should facilitate change without presuming to be the expert; everyone in the design process should share their perspectives; and most importantly, we should finding out what’s already working and uplift those systems.
 
 **On Learning and Building**
@@ -88,15 +88,15 @@ Design Justice Network Principles
 9. “We Work toward Nonexploitative Solutions that Reconnect Us to the Earth and to Each Other”
 10. “Before Seeking New Design Solutions, We Look for What Is Already Working at the Community Level, and We Honor and Uplift Traditional, Indigenous, and Local Knowledge and Practices”
 
-> “Learning to Code as Liberatory World-Making, or Workplace Preparedness under Neoliberal Technoculture?”
+> “Learning to Code as Liberatory World-Making, or ==Workplace Preparedness under Neoliberal Technoculture==?”
 
-> “Teaching people how to code is increasingly presented as a key goal—perhaps the key goal—for the education system under late-stage informational capitalism.”
+> “Teaching people how to code is increasingly presented as a key goal—perhaps the key goal—for the education system under ==late-stage informational capitalism==.”
 
-> “At the same time, as sociologist Tressie McMillan Cottom documents in her book Lower Ed: The Troubling Rise of For-Profit Colleges in the New Economy, for-profit universities that promise to teach coding skills and secure jobs for their graduates proliferate both on and offline.93 Many of the most visible for-profit coding schools and boot camps are expensive, inaccessible, and have dubious placement outcomes.94”
+> “At the same time, as sociologist Tressie McMillan Cottom documents in her book Lower Ed: The Troubling Rise of For-Profit Colleges in the New Economy, for-profit universities that promise to teach coding skills and secure jobs for their graduates proliferate both on and offline.93 Many of the most visible for-profit coding schools and boot camps are ==expensive, inaccessible, and have dubious placement outcomes.==94”
 
-> “digital learning among young people remains structured by race, class, and gender.”
+> “digital learning among young people remains ==structured== by race, class, and gender.”
 
-> “In a recent study of digital learning, education researchers Mimi Ito and Justin Reich find that, in many cases, digital learning technologies such as MOOCs and online courses, in-school computing classes, and other interventions actually exacerbate inequalities in learning outcomes between low-income and wealthier students, between students of color and white students, and between male and female students. In addition, they note that the use of digital technology in education often unintentionally reproduces inequality, in large part due to “institutionalized and unconscious bias and social distance between developers and those they seek to serve.”
+> “In a recent study of digital learning, education researchers Mimi Ito and Justin Reich find that, in many cases, digital learning technologies such as MOOCs and online courses, in-school computing classes, and other interventions ==actually exacerbate inequalities in learning outcomes== between low-income and wealthier students, between students of color and white students, and between male and female students. In addition, they note that the use of digital technology in education often ==unintentionally reproduces inequality==, in large part due to “institutionalized and unconscious bias and social distance between developers and those they seek to serve.”
 
 > “learning to code is increasingly taught in ways that emphasize diversity, creativity, and critical thinking.”
 
