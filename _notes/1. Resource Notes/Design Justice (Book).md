@@ -4,7 +4,7 @@ title: Design Justice (Book)
 modified: 2021-07-09T16:43:32+08:00
 ---
 ## Information 
-- **Source:** 
+- **Source:** [[Sasha Costanza-Chock]]
 - **Tags:** #design #technology #innovation  #nonfiction #society #education 
 - **Notes:** [[Design Justice (Literature Notes)]]
 
