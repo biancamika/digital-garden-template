@@ -1,8 +1,14 @@
 ---
 created: 2021-07-09T16:33:53+08:00
-title: Design Justice
+title: Design Justice (Book)
 modified: 2021-07-09T16:43:32+08:00
 ---
+## Information 
+- **Source:** 
+- **Tags:** #design #technology #innovation  #nonfiction #society #education 
+- **Notes:** [[Design Justice (Literature Notes)]]
+
+
 ## Reboot Summary
 - Design justice also focuses on the ==design of systems==
 - Design justice rethinks design processes, centers people who are normally marginalized by design, and uses collaborative, creative practices to address the deepest challenges our communities face.

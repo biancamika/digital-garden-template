@@ -3,6 +3,14 @@ title: Fast Food Education
 ---
 ## Sources
 - [[Design Justice (Book)]]
+- [[Our Way Out: Close Collaboration Between Liberal and Vocational Education (Essay)]]
+- [[Udacity’s Sebastian Thrun, Godfather Of Free Online Education, Changes (Essay)]]
+- [[The case study factory (Essay)]]
+- [[Resisting Distance Learning (Essay)]]
+- [[Learning to earn vs. learning to learn (Essay)]]
+- [[In Online Ed, Content Is No Longer King—Cohorts Are (Essay)]]
+- [[The Global Classroom: An Opportunity for Empowerment or Exploitation? (Publication)]]
+- [[The Dirty Little Secrets About The Worst Coding Bootcamps Out There (Essay)]]
 
 ## Notes
 
