@@ -16,6 +16,10 @@ title: Fast Food Education
 [Are MOOCs, Bootcamps and Other Alternative Education Options Effective?](https://www.usnews.com/news/education-news/articles/2017-07-21/are-moocs-bootcamps-and-other-alternative-education-options-effective)
 > Brown and Kurzweil evaluated five types of programs: certificate programs, which offer labor market-focused training; work-based training, like apprenticeships; skills-based short courses, like coding bootcamps; Massive Open Online Courses and online micro-credentials; and competency-based education programs, which offer credentials based on skill acquisition rather than traditional course completion.
 
+https://tressiemc.com/uncategorized/the-lower-ed-ecosystem-bootcamps-edition/
+
+https://techcrunch.com/2017/08/26/an-insiders-take-on-the-future-of-coding-bootcamps/
+
 
 ## Pitch (200 words?)
 
