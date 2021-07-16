@@ -27,6 +27,7 @@ Inspired by the [Dewey Decimal System](https://www.printablee.com/postpic/2014/0
   + [[Psychology MOC]]
     + [[Attention MOC]]
   + [[Personal Development MOC]]
+  + [[Education MOC]]
 + **Religion 🛐**
   + [[Spirituality MOC]]
 + **Social sciences 👥**
