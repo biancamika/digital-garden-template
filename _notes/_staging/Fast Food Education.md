@@ -13,15 +13,21 @@ title: Fast Food Education
 - [[The Dirty Little Secrets About The Worst Coding Bootcamps Out There (Essay)]]
 
 ## Notes
+[Are MOOCs, Bootcamps and Other Alternative Education Options Effective?](https://www.usnews.com/news/education-news/articles/2017-07-21/are-moocs-bootcamps-and-other-alternative-education-options-effective)
+> Brown and Kurzweil evaluated five types of programs: certificate programs, which offer labor market-focused training; work-based training, like apprenticeships; skills-based short courses, like coding bootcamps; Massive Open Online Courses and online micro-credentials; and competency-based education programs, which offer credentials based on skill acquisition rather than traditional course completion.
 
 
 ## Pitch (200 words?)
+
+Ed-tech experiments
 
 Fast food education can be empowering or exploitative
 
 Fast food education upholds the status quo.
 Factory like, producing workers and not thinkers
 Global South
+
+Apprenticeships, bootcamps, MOOCs, and more: all of these alternative education options are  part of the trend I call "Fast Food Education". Now that it's rising in the Global South, I want to explore its potential to both empower and exploit students.
 
 ## Outline
 1. Introduction
