@@ -18,3 +18,4 @@ I would like to thank the following sources for making this garden possible:
 + [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)
 + [Obsidian Jekyll workflow](https://refinedmind.co/obsidian-jekyll-workflow)
 + [Joschua's Garden](https://joschuasgarden.com/)
+**Update:** You can make a public digital garden way more easily with the tool [Quartz](https://quartz.jzhao.xyz/). Thanks [Jacky](https://jzhao.xyz)! 
