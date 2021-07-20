@@ -1,6 +1,7 @@
 ---
 title: Fast Food Education
 ---
+![Illustration](https://previews.123rf.com/images/rahultiwari3190/rahultiwari31901905/rahultiwari3190190500113/122797662-education-fast-food-concept-represented-by-burger-with-books-hand-draw-design-illustration-.jpg)
 ## Sources
 - [[Design Justice (Book)]]
 - [[Our Way Out: Close Collaboration Between Liberal and Vocational Education (Essay)]]
@@ -19,6 +20,8 @@ title: Fast Food Education
 https://tressiemc.com/uncategorized/the-lower-ed-ecosystem-bootcamps-edition/
 
 https://techcrunch.com/2017/08/26/an-insiders-take-on-the-future-of-coding-bootcamps/
+
+Shit I should read this https://www.amazon.com/Fast-Food-Education-Approach-Teaching/dp/1606580000
 
 
 ## Pitch (200 words?)
