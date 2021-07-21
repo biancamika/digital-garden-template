@@ -297,7 +297,31 @@ SO TRUE!! THESIS RIGHT HERE
 
 ---
 [Our Way Out: Close Collaboration Between Liberal and Vocational Education - mindapi](https://mindapi.substack.com/p/our-way-out?cmdid=OH0HTE7THYMNGO)
-- <mark>Vocational education, manifested in the form of bootcamps and many microcredentials, helps a handful of students gain extra practical skills and “package” their learnings to match the demand of the labor market.</mark>
+- <mark>---
+title: 
+---
+## Information
+- **Source:** 
+- **Tags:** 
+- **Notes:** 
+
+## Highlights---
+title: 
+---
+## Information
+- **Source:** 
+- **Tags:** 
+- **Notes:** 
+
+## Highlights---
+title: 
+---
+## Information
+- **Source:** 
+- **Tags:** 
+- **Notes:** 
+
+## Highlights</mark>
 
 Definition?
 
