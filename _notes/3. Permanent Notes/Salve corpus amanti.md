@@ -2,7 +2,7 @@
 title: Salve corpus amanti
 ---
 ## Reference
-- **Source:** [[Alan Moore]]; [[Do Design (Book)]]
+- **Source:** [[Alan Moore]]; [[Do Design - Book]]
 - **Keywords:** [[permanent notes]]
 	- #philosophy #mindfulness #attention
 - **Relevant Notes:**

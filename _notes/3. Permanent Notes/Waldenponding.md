@@ -2,7 +2,7 @@
 title: Waldenponding
 ---
 ## Reference
-- **Source:** [[Venkatesh Rao]]; [[Breaking Smart (Newsletter)]]
+- **Source:** [[Venkatesh Rao]]; [[Breaking Smart - Newsletter]]
 - **Keywords:** [[permanent notes]]
 	- #philosophy #attention #technology
 - **Relevant Notes:**

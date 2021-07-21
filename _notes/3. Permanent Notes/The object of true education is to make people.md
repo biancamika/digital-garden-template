@@ -2,7 +2,7 @@
 title: The object of true education is to make people
 ---
 ## Reference
-- **Source:** [[Design Justice (Book)]]
+- **Source:** [[Design Justice - Book]]
 - **Keywords:** [[permanent notes]]
 - **Relevant Notes:** 	
 	- [[The goal of education is transformation]]

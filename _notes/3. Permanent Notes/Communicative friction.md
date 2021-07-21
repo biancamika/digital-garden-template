@@ -2,7 +2,7 @@
 title: Communicative friction
 ---
 ## Reference
-- **Source:** [[Jasmine Sun]]; [[Half-Baked Futures (Newsletter)]]
+- **Source:** [[Jasmine Sun]]; [[Half-Baked Futures - Newsletter]]
 - **Keywords:** [[permanent notes]]
 	- #technology #communication #social
 - **Relevant Notes:**

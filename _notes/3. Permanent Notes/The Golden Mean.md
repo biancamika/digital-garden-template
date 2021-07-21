@@ -2,7 +2,7 @@
 title: The Golden Mean
 ---
 ## Reference
-- **Source:** [[Patricia Mou]]; [[Wellness Wisdom (Newsletter)]]
+- **Source:** [[Patricia Mou]]; [[Wellness Wisdom - Newsletter]]
 - **Keywords:** [[permanent notes]]
 	- #personaldevelopment #philosophy 
 - **Relevant Notes:**

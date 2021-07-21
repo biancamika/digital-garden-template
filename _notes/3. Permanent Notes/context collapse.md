@@ -3,8 +3,8 @@ title: context collapse
 ---
 ## Reference
 - **Source:** 
-	- [[Robin Sloan]]; [[Ortographic media (Article)]]
-	- [[Jasmine Sun]]; [[Half-Baked Futures (Newsletter)]]
+	- [[Robin Sloan]]; [[Ortographic media - Article]]
+	- [[Jasmine Sun]]; [[Half-Baked Futures - Newsletter]]
 - **Keywords:** [[permanent notes]]
 	- #social #people #technology
 - **Relevant Notes:**

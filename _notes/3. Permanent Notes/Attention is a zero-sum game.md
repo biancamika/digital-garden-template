@@ -2,7 +2,7 @@
 title: Attention is a zero-sum game
 ---
 ## Reference
-- **Source:** [[Lawrence Yeo]]; [[More to That (Blog)]]
+- **Source:** [[Lawrence Yeo]]; [[More to That - Blog]]
 - **Keywords:** [[permanent notes]]
 	- #attention #cognition #information
 - **Relevant Notes:**

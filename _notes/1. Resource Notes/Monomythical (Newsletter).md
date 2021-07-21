@@ -1,10 +1,10 @@
 ---
-title: Monomythical (Newsletter)
+title: Monomythical - Newsletter
 ---
 ## Information
 - **Source:** [[Nadia Eghbal]]
 - **Tags:** #internet #creators 
-- **Notes:** [[Monomythical (Literature Notes)]]
+- **Notes:** [[Monomythical - Literature Notes]]
 
 ## Highlights
 ### 24: Monasteries

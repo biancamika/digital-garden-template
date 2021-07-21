@@ -2,7 +2,7 @@
 title: short head
 ---
 ## Reference
-- **Source:** [[Seth Godin]]; [[This is Marketing (Book)]]
+- **Source:** [[Seth Godin]]; [[This is Marketing - Book]]
 - **Keywords:** [[permanent notes]]
 	- #marketing
 - **Relevant Notes:**

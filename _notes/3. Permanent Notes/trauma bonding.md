@@ -2,7 +2,7 @@
 title: trauma bonding
 ---
 ## Reference
-- **Source:** [[Anna Wiener]]; [[Uncanny Valley (Book)]]
+- **Source:** [[Anna Wiener]]; [[Uncanny Valley - Book]]
 - **Keywords:** [[permanent notes]]
 	- #psychology
 - **Relevant Notes:**

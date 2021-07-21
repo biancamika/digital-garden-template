@@ -11,7 +11,7 @@ On my craft.
 + [[Design is the foundation of the artificial world]]
 
 **Resource Notes:**
-+ [[Do Design (Book)]]
-+ [[Design Justice (Book)]]
-+ [[Information Architecture (Class)]]
-+ [[The Workshopper Playbook (Book)]]
++ [[Do Design - Book]]
++ [[Design Justice - Book]]
++ [[Information Architecture - Class]]
++ [[The Workshopper Playbook - Book]]

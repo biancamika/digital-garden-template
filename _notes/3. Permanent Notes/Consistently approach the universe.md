@@ -2,7 +2,7 @@
 title: Consistently approach the universe
 ---
 ## Reference
-- **Source:** [[Venkatesh Rao]]; [[Breaking Smart (Newsletter)]]
+- **Source:** [[Venkatesh Rao]]; [[Breaking Smart - Newsletter]]
 - **Keywords:** [[permanent notes]]
 	- #advice #philosophy #life 
 - **Relevant Notes:**

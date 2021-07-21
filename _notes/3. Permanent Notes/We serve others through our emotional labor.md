@@ -2,7 +2,7 @@
 title: We serve others through our emotional labor
 ---
 ## Reference
-- **Source:** [[Seth Godin]]; [[This is Marketing (Book)]]
+- **Source:** [[Seth Godin]]; [[This is Marketing - Book]]
 - **Keywords:** [[permanent notes]]
 	- #people #psychology 
 - **Relevant Notes:**

@@ -2,7 +2,7 @@
 title: Cathachresis
 ---
 ## Reference
-- **Source:** [[Tina He]]; [[Fakepixels (Newsletter)]]
+- **Source:** [[Tina He]]; [[Fakepixels - Newsletter]]
 - **Keywords:** [[permanent notes]]
 	- #words 
 - **Relevant Notes:**

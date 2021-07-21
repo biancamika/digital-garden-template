@@ -2,7 +2,7 @@
 title: Calling isn't chosen; it's discovered
 ---
 ## Reference
-- **Source:** [[John Mark Comer]]; [[Garden City (Book)]]
+- **Source:** [[John Mark Comer]]; [[Garden City - Book]]
 - **Keywords:** [[permanent notes]]
 	- #philosophy #life #purpose
 - **Relevant Notes:**

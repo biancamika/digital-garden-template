@@ -2,7 +2,7 @@
 title: Sweet Spot
 ---
 ## Reference
-- **Source:** [[Patricia Mou]]; [[Wellness Wisdom (Newsletter)]]
+- **Source:** [[Patricia Mou]]; [[Wellness Wisdom - Newsletter]]
 - **Keywords:** [[permanent notes]]
 	- #personaldevelopment 
 - **Relevant Notes:**

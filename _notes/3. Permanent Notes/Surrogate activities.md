@@ -10,4 +10,4 @@ title: Surrogate activities
 ## Notes
 -  **Definition**: unsatisfying hobbies because of working towards ==superficial goals.== 
 -  Term from Ted Kaczynski.
--  See [[Monomythical (Literature Notes)]] **24: Monasteries** for pandemic context
+-  See [[Monomythical - Literature Notes]] **24: Monasteries** for pandemic context

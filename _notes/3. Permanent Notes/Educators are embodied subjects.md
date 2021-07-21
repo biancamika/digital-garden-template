@@ -2,7 +2,7 @@
 title: Educators are embodied subjects
 ---
 ## Reference
-- **Source:** [[Design Justice (Book)]]
+- **Source:** [[Design Justice - Book]]
 - **Keywords:** [[permanent notes]]
 - **Relevant Notes:** 
 	- [[Deep Listening]]

@@ -2,7 +2,7 @@
 title: Teachers are facilitators
 ---
 ## Reference
-- **Source:** [[Design Justice (Book)]]
+- **Source:** [[Design Justice - Book]]
 - **Keywords:** [[permanent notes]]
 - **Relevant Notes:** 
 	- [[Problem-based learning]]

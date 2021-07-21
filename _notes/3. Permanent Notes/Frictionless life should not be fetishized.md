@@ -2,7 +2,7 @@
 title: Frictionless life should not be fetishized
 ---
 ## Reference
-- **Source:** [[Anna Wiener]]; [[Uncanny Valley (Book)]]
+- **Source:** [[Anna Wiener]]; [[Uncanny Valley - Book]]
 - **Keywords:** [[permanent notes]]
 	- #philosophy #life
 - **Relevant Notes:**

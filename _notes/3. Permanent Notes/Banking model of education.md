@@ -2,7 +2,7 @@
 title: Banking model of education
 ---
 ## Reference
-- **Source:** [[Design Justice (Book)]]
+- **Source:** [[Design Justice - Book]]
 - **Keywords:** [[permanent notes]]
 - **Relevant Notes:** 
 	- [[Constructionism]]

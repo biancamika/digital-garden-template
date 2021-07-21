@@ -3,7 +3,7 @@ title: Doing nothing is active listening
 ---
 ## Reference
 - **Source:** 
-	- Smile Indias; [[Interdisciplinary Approaches to Creation & Innovation (Class)]]
+	- Smile Indias; [[Interdisciplinary Approaches to Creation & Innovation - Class]]
 	- [[Jenny Odell]], [[How to Do Nothing (Book)]]
 - **Keywords:** [[permanent notes]]
 	- #personaldevelopment #mindfulness 

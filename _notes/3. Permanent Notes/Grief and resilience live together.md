@@ -2,7 +2,7 @@
 title: Grief and resilience live together
 ---
 ## Reference
-- **Source:** [[Michelle Obama]]; [[Becoming (Book)]]
+- **Source:** [[Michelle Obama]]; [[Becoming - Book]]
 - **Keywords:** [[permanent notes]]
 	- #life #philosophy #advice
 - **Relevant Notes:**

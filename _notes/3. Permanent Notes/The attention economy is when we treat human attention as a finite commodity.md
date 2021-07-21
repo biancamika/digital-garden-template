@@ -3,7 +3,7 @@ title: The attention economy is when we treat human attention as a finite commod
 ---
 ## Reference
 - **Source:** 
-	- Smile Indias; [[Interdisciplinary Approaches to Creation & Innovation (Class)]]
+	- Smile Indias; [[Interdisciplinary Approaches to Creation & Innovation - Class]]
 	- James Williams
 - **Keywords:** [[permanent notes]]
 	- #attention #cognition #capitalism

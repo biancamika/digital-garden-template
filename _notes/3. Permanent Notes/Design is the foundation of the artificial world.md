@@ -2,7 +2,7 @@
 title: Design is the foundation of the artificial world
 ---
 ## Reference
-- **Source:** [[Design Justice (Book)]]
+- **Source:** [[Design Justice - Book]]
 - **Keywords:** [[permanent notes]]
 - **Relevant Notes:** 
 	- [[All useful things should be beautiful]]

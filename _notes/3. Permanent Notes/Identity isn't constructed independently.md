@@ -2,7 +2,7 @@
 title: Identity isn't constructed independently
 ---
 ## Reference
-- **Source:** [[Lawrence Yeo]]; [[More to That (Blog)]]
+- **Source:** [[Lawrence Yeo]]; [[More to That - Blog]]
 - **Keywords:** [[permanent notes]]
 	- #identity #psychology 
 - **Relevant Notes:**

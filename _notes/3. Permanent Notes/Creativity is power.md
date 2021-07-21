@@ -3,7 +3,7 @@ title: Creativity is power
 ---
 ## Reference
 - **Source:** 
-	- Smile Indias, [[Interdisciplinary Approaches to Creation & Innovation (Class)]]
+	- Smile Indias, [[Interdisciplinary Approaches to Creation & Innovation - Class]]
 	- [[Oli Mould]], [[Against Creativity (Book)]]
 - **Keywords:** [[permanent notes]]
 	- #creativity #innovation 

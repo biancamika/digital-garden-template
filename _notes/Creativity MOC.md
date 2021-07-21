@@ -13,5 +13,5 @@ so interested in this process
 + [[Ideas are just a multiplier of execution]]
 
 **Resource Notes:**
-+ [[Interdisciplinary Approaches to Creation & Innovation (Class)]]
++ [[Interdisciplinary Approaches to Creation & Innovation - Class]]
 + [[Against Creativity (Book)]]

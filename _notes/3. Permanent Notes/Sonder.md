@@ -2,7 +2,7 @@
 title: Sonder
 ---
 ## Reference
-- **Source:** [[Seth Godin]]; [[This is Marketing (Book)]]
+- **Source:** [[Seth Godin]]; [[This is Marketing - Book]]
 - **Keywords:** [[permanent notes]]
 	- #philosophy #people #words #psychology 
 - **Relevant Notes:**

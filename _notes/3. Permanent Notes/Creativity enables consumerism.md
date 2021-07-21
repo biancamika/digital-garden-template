@@ -3,7 +3,7 @@ title: Creativity enables consumerism
 ---
 ## Reference
 - **Source:** 
-	- Smile Indias; [[Interdisciplinary Approaches to Creation & Innovation (Class)]]
+	- Smile Indias; [[Interdisciplinary Approaches to Creation & Innovation - Class]]
 	- [[Oli Mould]], [[Against Creativity (Book)]]
 - **Keywords:** [[permanent notes]]
 	- #capitalism #society #creativity #innovation 

@@ -2,7 +2,7 @@
 title: Growth is a never-ending process
 ---
 ## Reference
-- **Source:** [[Michelle Obama]]; [[Becoming (Book)]]
+- **Source:** [[Michelle Obama]]; [[Becoming - Book]]
 - **Keywords:** [[permanent notes]]
 	- #life #philosophy #advice #growth
 - **Relevant Notes:**

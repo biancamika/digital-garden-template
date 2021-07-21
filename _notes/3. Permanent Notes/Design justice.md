@@ -2,7 +2,7 @@
 title: Design justice
 ---
 ## Reference
-- **Source:** [[Design Justice (Book)]]
+- **Source:** [[Design Justice - Book]]
 - **Keywords:** [[permanent notes]]
 - **Relevant Notes:** 
 	- [[Design Justice Network Principles]]

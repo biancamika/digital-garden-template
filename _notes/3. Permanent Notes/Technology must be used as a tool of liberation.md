@@ -2,7 +2,7 @@
 title: Technology must be used as a tool of liberation
 ---
 ## Reference
-- **Source:** [[Design Justice (Book)]]
+- **Source:** [[Design Justice - Book]]
 - **Keywords:** [[permanent notes]]
 - **Relevant Notes:** 
 	- [[Technology keeps us stuck in a feedback loop with ourselves]]

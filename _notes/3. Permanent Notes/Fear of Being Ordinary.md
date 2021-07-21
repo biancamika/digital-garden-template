@@ -2,7 +2,7 @@
 title: Fear of Being Ordinary
 ---
 ## Reference
-- **Source:** [[Venkatesh Rao]]; [[Breaking Smart (Newsletter)]]
+- **Source:** [[Venkatesh Rao]]; [[Breaking Smart - Newsletter]]
 - **Keywords:** [[permanent notes]]
 	- #psychology #people 
 - **Relevant Notes:**
@@ -24,7 +24,7 @@ title: Fear of Being Ordinary
 
 >  This game is based on the opposite fear to FOMO which I call FOBO. If FOMO is Fear of Missing Out, FOBO is Fear Of Being Ordinary.
 
-- The heart of this is that we are in the Global Social Computer in the Cloud (GSCITC). See [[Breaking Smart (Literature Notes)]] for more details.
+- The heart of this is that we are in the Global Social Computer in the Cloud (GSCITC). See [[Breaking Smart - Literature Notes]] for more details.
 	- We just don't want to be another component of the GSCTIC; our efforts aren't recognized even if they contribute to the system
 
 >  This is the heart of FOBO. Fear of Being Ordinary. ==Fear of being just another entangled particle in the GSCITC.== Fear of your ego dissolving into the collective ego. Fear of having "nothing to show" for playing a part, despite it being sustainable.

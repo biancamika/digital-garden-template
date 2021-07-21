@@ -2,7 +2,7 @@
 title: The best way to serve others with our work is to "serve the work"
 ---
 ## Reference
-- **Source:** [[John Mark Comer]]; [[Garden City (Book)]]
+- **Source:** [[John Mark Comer]]; [[Garden City - Book]]
 - **Keywords:** [[permanent notes]]
 	- #philosophy #life #work
 - **Relevant Notes:**

@@ -3,7 +3,7 @@ title: Metamodernism
 ---
 ## Reference
 - **Source:** 
-	- [[Tina He]]; [[Fakepixels (Newsletter)]]
+	- [[Tina He]]; [[Fakepixels - Newsletter]]
 	- [[Anne-Laure Le Cunff]]; [[Maker Mind (Newsletter)]]
 - **Keywords:** [[permanent notes]]
 	- #philosophy
@@ -20,7 +20,7 @@ title: Metamodernism
 - Metamodernism is basically the [[Sweet Spot]] between these two philosophies
 - associated with not just the Age of the Internet, but the ==Age of the Online Creator==
 	- E.G. fanfiction, remixes, memes, vlogging
-- Creators should be Metamodernists (see [[Fakepixels (Literature Notes)]] **Vol.58**)
+- Creators should be Metamodernists (see [[Fakepixels - Literature Notes]] **Vol.58**)
 
 ![comparison](https://nesslabs.com/wp-content/uploads/2019/12/metamodernism-illustration.jpg)
 

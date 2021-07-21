@@ -2,7 +2,7 @@
 title: Work can become a god in and of itself
 ---
 ## Reference
-- **Source:** [[John Mark Comer]]; [[Garden City (Book)]]
+- **Source:** [[John Mark Comer]]; [[Garden City - Book]]
 - **Keywords:** [[permanent notes]]
 	- #philosophy #life #work
 - **Relevant Notes:**

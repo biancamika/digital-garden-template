@@ -2,7 +2,7 @@
 title: Everybody gets to choose what they worship
 ---
 ## Reference
-- **Source:** [[David Foster Wallace]]; [[This is Water (Speech)]]
+- **Source:** [[David Foster Wallace]]; [[This is Water - Speech]]
 - **Keywords:** [[permanent notes]]
 	- #philosophy #spirituality #life
 - **Relevant Notes:**

@@ -2,7 +2,7 @@
 title: You have agency over your own attention
 ---
 ## Reference
-- **Source:** [[Venkatesh Rao]]; [[Breaking Smart (Newsletter)]]
+- **Source:** [[Venkatesh Rao]]; [[Breaking Smart - Newsletter]]
 - **Keywords:** [[permanent notes]]
 	- #attention #cognition #psychology 
 - **Relevant Notes:**
@@ -10,7 +10,7 @@ title: You have agency over your own attention
 	- [[Everybody gets to choose what they worship]]
 	- [[The alternative to freedom is unconsciousness]]
 ## Notes
-- See [[Waldenponding]] and [[Breaking Smart (Literature Notes)]]
+- See [[Waldenponding]] and [[Breaking Smart - Literature Notes]]
 - E.G. ad blockers, cogntive frames
 	- Therefore, if you think your attention is getting "hacked", it's because you're allowing it
 

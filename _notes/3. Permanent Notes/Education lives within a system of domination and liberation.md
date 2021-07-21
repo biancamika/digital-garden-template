@@ -2,7 +2,7 @@
 title: Education lives within a system of domination and liberation
 ---
 ## Reference
-- **Source:** [[Design Justice (Book)]]
+- **Source:** [[Design Justice - Book]]
 - **Keywords:** [[permanent notes]]
 - **Relevant Notes:** 
 	- [[Creativity is power]]

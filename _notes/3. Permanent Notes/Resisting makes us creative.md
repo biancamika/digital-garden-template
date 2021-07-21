@@ -3,7 +3,7 @@ title: Resisting makes us creative
 ---
 ## Reference
 - **Source:** 
-	- Smile Indias, [[Interdisciplinary Approaches to Creation & Innovation (Class)]]
+	- Smile Indias, [[Interdisciplinary Approaches to Creation & Innovation - Class]]
 - **Keywords:** [[permanent notes]]
 	- #creativity #innovation #mindfulness #society #culture 
 - **Relevant Notes:**

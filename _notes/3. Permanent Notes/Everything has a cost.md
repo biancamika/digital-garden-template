@@ -2,7 +2,7 @@
 title: Everything has a cost
 ---
 ## Reference
-- **Source:** [[John Mark Comer]]; [[Garden City (Book)]]
+- **Source:** [[John Mark Comer]]; [[Garden City - Book]]
 - **Keywords:** [[permanent notes]]
 	- #philosophy #life
 - **Relevant Notes:**
