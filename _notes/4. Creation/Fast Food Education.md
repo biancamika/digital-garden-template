@@ -9,7 +9,7 @@ title: Fast Food Education
 - [[The case study factory - Essay]]
 - [[Resisting Distance Learning - Essay]]
 - [[Learning to earn vs. learning to learn - Essay]]
-- [[In Online Ed, Content Is No Longer King—Cohorts Are - Essay]]
+- [[In Online Ed Content Is No Longer King—Cohorts Are - Essay]]
 - [[The Global Classroom: An Opportunity for Empowerment or Exploitation? - Publication]]
 - [[The Dirty Little Secrets About The Worst Coding Bootcamps Out There - Essay]]
 
