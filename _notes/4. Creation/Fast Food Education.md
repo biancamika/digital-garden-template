@@ -9,9 +9,9 @@ title: Fast Food Education
 - [[The case study factory - Essay]]
 - [[Resisting Distance Learning - Essay]]
 - [[Learning to earn vs. learning to learn - Essay]]
-- [[In Online Ed, Content Is No Longer King—Cohorts Are (Essay)]]
-- [[The Global Classroom: An Opportunity for Empowerment or Exploitation? (Publication)]]
-- [[The Dirty Little Secrets About The Worst Coding Bootcamps Out There (Essay)]]
+- [[In Online Ed, Content Is No Longer King—Cohorts Are - Essay]]
+- [[The Global Classroom: An Opportunity for Empowerment or Exploitation? - Publication]]
+- [[The Dirty Little Secrets About The Worst Coding Bootcamps Out There - Essay]]
 
 ## Notes
 [Are MOOCs, Bootcamps and Other Alternative Education Options Effective?](https://www.usnews.com/news/education-news/articles/2017-07-21/are-moocs-bootcamps-and-other-alternative-education-options-effective)
