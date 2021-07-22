@@ -2,7 +2,7 @@
 title: Fast Food Education
 ---
 ![Illustration](https://previews.123rf.com/images/rahultiwari3190/rahultiwari31901905/rahultiwari3190190500113/122797662-education-fast-food-concept-represented-by-burger-with-books-hand-draw-design-illustration-.jpg)
-## Sources
+## Sourcess
 - [[Design Justice - Book]]
 - [[Our Way Out - Close Collaboration Between Liberal and Vocational Education - Essay]]
 - [[Udacity’s Sebastian Thrun, Godfather Of Free Online Education, Changes - Essay]]
