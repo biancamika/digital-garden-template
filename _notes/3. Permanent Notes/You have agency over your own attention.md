@@ -9,6 +9,7 @@ title: You have agency over your own attention
 	- [[Attention is a zero-sum game]]
 	- [[Everybody gets to choose what they worship]]
 	- [[The alternative to freedom is unconsciousness]]
+	- [[Willpower and motivation is finite]]
 ## Notes
 - See [[Waldenponding]] and [[Breaking Smart - Literature Notes]]
 - E.G. ad blockers, cogntive frames

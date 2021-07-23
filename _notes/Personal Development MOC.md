@@ -9,3 +9,4 @@ self-improvement stuff
 + [[Sweet Spot]]
 + [[The antidote to the ego is awareness]]
 + [[The Golden Mean]]
++ [[Willpower and motivation is finite]]

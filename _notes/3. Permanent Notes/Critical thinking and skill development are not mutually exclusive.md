@@ -8,6 +8,7 @@ title: Critical thinking and skill development are not mutually exclusive
 	- [[The object of true education is to make people]]
 	- [[Design justice]]
 	- [[Technological fluency]]
+	- [[Higher-order skills]]
 ## Notes
 > “learning to code is increasingly taught in ways that emphasize diversity, creativity, and critical thinking.”
 

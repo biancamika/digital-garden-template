@@ -4,7 +4,7 @@ title: In Online Ed Content Is No Longer King - Cohorts Are - Essay
 ## Information
 - **Source:** [[Wes Kao]]
 - **Tags:** #content #education 
-- **Notes:**  [[In Online Ed Content Is No Longer King- Cohorts Are - Literature Notes]]
+- **Notes:**  [[In Online Ed Content Is No Longer King - Cohorts Are - Literature Notes]]
 
 ## Highlights
 > post-content age

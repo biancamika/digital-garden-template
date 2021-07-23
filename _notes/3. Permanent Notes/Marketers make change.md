@@ -8,6 +8,7 @@ title: Marketers make change
 - **Relevant Notes:**
 	- [[Sonder]]
 	- [[The best way to serve others with our work is to serve the work]]
+	- [[Higher-order skills]]
 ## Notes
 - Marketing can be a form of generosity
 	- >Marketing acts (interesting choice of word, acts) are the generous actions of people who care.

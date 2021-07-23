@@ -8,6 +8,7 @@ title: Creativity is power
 - **Keywords:** [[permanent notes]]
 	- #creativity #innovation 
 - **Relevant Notes:**
+	- [[Higher-order skills]]
 	- [[The limits of our language are the limits of our world]]
 ## Notes
 - What if we viewed creativity not just as an ability, or skill, but as **power**?

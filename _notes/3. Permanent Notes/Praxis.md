@@ -6,6 +6,7 @@ title: Praxis
 - **Keywords:** [[permanent notes]]
 - **Relevant Notes:** 
 	- [[The goal of education is transformation]]
+	- [[Higher-order skills]]
 ## Notes
 ### What does Praxis mean?
 + Greek term that originally meant =="practical knowledge for action". ==

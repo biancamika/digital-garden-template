@@ -11,3 +11,4 @@ inside the enigma that is the human mind
 + [[trauma bonding]]
 + [[We serve others through our emotional labor]]
 + [[You have agency over your own attention]]
++ [[Willpower and motivation is finite]]
