@@ -46,7 +46,30 @@ https://techcrunch.com/2017/08/26/an-insiders-take-on-the-future-of-coding-bootc
 > 
 > I believe that no one should have to pull their children out of public school because they do not think that their child is getting a good education. This book does a good job expressing the beliefs of the authors without being a boring book lecturing on about the problems with education. Taylor and Brock make the book relatable and thought-provoking through their real-life metaphors. Normally, I am not a fan of fiction books unless it is on a topic I am truly passionate about, but this book is the exception. 
 
+[With Success In Fast Food And Fast Fashion, Is It Time For Fast Education?](https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/with-success-in-fast-food-and-fast-fashion-is-it-time-for-fast-education/?sh=6bd18c55ce61)
+> The ==digital revolution== and ==affordable internet access ==arrived in the 1990s and made almost any B2C industry (always fragmented) fast. 
 
+> As life speeds up, ==not everyone can afford to learn that long==, so we have a trend toward faster education.
+
+> ==Global digitalization== pushed many educational programs online, and these courses tend to become shorter.
+
+> Fast education means ==shorter lessons==. Bite-sized learning is one of the key educational trends of the 21st century that brings comfort. You study at your own pace whenever and wherever you want. Educational courses can be divided into smaller parts so that you don’t need more than 15 minutes a day to study.
+
+> You can study ==for free==, which is often time-consuming, using, for example, university courses on popular educational platforms. Alternatively, you may need to spend some time on YouTube before finding the quality trainer or course that suits you best. Or you can opt for specialized course providers that will improve your skills for a relatively small fee. 
+
+> Fast education will mean ==fast changes== and ==quick adaptation== of the latest trends. 
+
+[Global survey reveals growing interest in shorter programmes and lifelong learning](https://monitor.icef.com/2019/10/global-survey-reveals-growing-interest-in-shorter-programmes-and-lifelong-learning/)
+> As for what is prompting the shift in approach among learners, John Fallon, CEO of Pearson, says that “the ==new talent economy== has arrived with its gig jobs, unconventional career paths and tech disruption.”
+
+> Deloitte defines the talent economy, a relatively new term, as a ==“collaborative, transparent, technology-enabled, rapid-cycle way of doing business … where employers and employees now seek each other out on a playing field that is broader and more level than ever before.”==
+
+> The quickly changing needs of today’s developed economies means that students and professionals must adjust to new trends regularly and this is prompting growing interest in ==lifelong learning – and learning that is often undertaken piece by piece.== These pieces may be degrees or smaller, more specialised credentials that may be more affordable and may also come from different institutions and from online platforms. The result is that students are considering a much wider range of programmes, institutions, and delivery models than they ever have, and this is the opportunity Pearson is identifying.
+
+Could perhaps also apply to emerging economies like the PH?
+> The Pearson study found that an understanding of the need for lifelong learning is much more established in China and India than in the US and UK, ==“driven in large part by the influence of technology and automation on their jobs.”== These are countries where keeping up with – or better yet staying a step ahead of – technological trends is crucial to getting and keeping steady employment.
+
+> As for which way they could imagine ==upskilling==, the largest proportions said they would do it through “a short training programme such as a boot-camp, certificate programme, or something offered by a professional association.” 
 
 ## Pitch (200 words?)
 
@@ -70,7 +93,6 @@ See [Kinopio mindmap](https://kinopio.club/fast-food-education-fUOWDPOF9YLGxgHyR
 	2. Variables
 	3. Examples
 3. What led to its rise?
-	1. 
 4. Pros & Cons
 	1. Pros
 		1. Democratization
@@ -82,16 +104,20 @@ See [Kinopio mindmap](https://kinopio.club/fast-food-education-fUOWDPOF9YLGxgHyR
 
 ### Draft 2
 1. Introduction
-	1. Think of good hook here!
+	1. Think of good hook here! Maybe something related to lifelong learning?
 	2. **Thesis:** Is fast food education an opportunity for empowerment or exploitation? Undoubtedly both.
 		1. Similar to [[The Global Classroom - An Opportunity for Empowerment or Exploitation - Literature Notes]] and [[Design Justice - Literature Notes]]: Chapter 5 Ending
 2. What is Fast Food Education?
 	1. Description
-		1. Underlying System
-		2. Vocationalism/learning-to-earn philosophy
+		1. Traits
+			1. Inexpensive?
+			2. Quickly served?
+			2. Mass-produced
+		2. Underlying System
+		3. Vocationalism/learning-to-earn philosophy
 			1. [[Vocational education]]
 			2. [[Learning to earn vs. learning to learn - Literature Notes]]
-		3. Lower Ed ecosystem: sociological process of credentialism
+		4. Lower Ed ecosystem: sociological process of credentialism
 	2. Types (will just be focusing on these since they're the ones most prominent in edtech industry)
 		1. MOOCs and online micro-credentials
 		2. Skills-based short courses
@@ -106,11 +132,24 @@ See [Kinopio mindmap](https://kinopio.club/fast-food-education-fUOWDPOF9YLGxgHyR
 			4. Modality
 			5. Instructor Engagement
 	4. What led to its rise?
+		1. Ancient institutions
+		2. Talent economy
+		3. Spurred by global pandemic
 3. Fast Food Education as empowerment (pros)
-	1. 
+	1. More accessible
+		1. Time 
+		2. Cost
+		3. Good for Disadvantaged people 
+	2. Economy Increase supply of highly skilled workers
 4. Fast Food Education as exploitation (cons)
-	1. 
-5. Call-to-Action
+	1. Questionable quality
+	2. May worsen equity problems
+	3. Devaluation of local knowledge + cultural homogenization
+5. Cons summary: Vocationalism merely props up status quo
+6. Call-to-Action
 	1. [[Critical thinking and skill development are not mutually exclusive]]
 	2. [[The object of true education is to make people]]
 
+## Writing
+Introduction paragraph here
+### What is fast food education?
