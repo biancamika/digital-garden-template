@@ -80,3 +80,32 @@ See [Kinopio mindmap](https://kinopio.club/fast-food-education-fUOWDPOF9YLGxgHyR
 		3. Westernization
 5. CTA: Critical thinking is not incompatible with practical skill development
 
+### Draft 2
+1. Introduction
+	1. 
+	2. Thesis: Fast food education
+2. What is Fast Food Education?
+	1. Underlying System
+		1. Vocationalism/learning-to-earn philosophy
+			1. [[Vocational education]]
+			2. [[Learning to earn vs. learning to learn - Literature Notes]]
+		2. Lower Ed ecosystem: sociological process of credentialism
+	2. Types (will just be focusing on these since they're the ones most prominent in edtech industry)
+		1. MOOCs and online micro-credentials
+		2. Skills-based short courses
+	3. Variables (See [[In Online Ed Content Is No Longer King - Cohorts Are - Literature Notes]])
+		1. Logistics
+			1. Timing
+			2. Cost
+		2. Learning Experience
+			1. Approach
+			2. Ideal Topics
+			3. Student Interaction
+			4. Modality
+			5. Instructor Engagement
+	4. What led to its rise?
+3. Fast Food Education as empowerment (pros)
+4. Fast Food Education as exploitation (cons)
+5. Call-to-Action
+	1. [[Critical thinking and skill development are not mutually exclusive]]
+
