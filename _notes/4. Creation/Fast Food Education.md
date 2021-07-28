@@ -82,14 +82,16 @@ See [Kinopio mindmap](https://kinopio.club/fast-food-education-fUOWDPOF9YLGxgHyR
 
 ### Draft 2
 1. Introduction
-	1. 
-	2. Thesis: Fast food education
+	1. Think of good hook here!
+	2. **Thesis:** Is fast food education an opportunity for empowerment or exploitation? Undoubtedly both.
+		1. Similar to [[The Global Classroom - An Opportunity for Empowerment or Exploitation - Literature Notes]] and [[Design Justice - Literature Notes]]: Chapter 5 Ending
 2. What is Fast Food Education?
-	1. Underlying System
-		1. Vocationalism/learning-to-earn philosophy
+	1. Description
+		1. Underlying System
+		2. Vocationalism/learning-to-earn philosophy
 			1. [[Vocational education]]
 			2. [[Learning to earn vs. learning to learn - Literature Notes]]
-		2. Lower Ed ecosystem: sociological process of credentialism
+		3. Lower Ed ecosystem: sociological process of credentialism
 	2. Types (will just be focusing on these since they're the ones most prominent in edtech industry)
 		1. MOOCs and online micro-credentials
 		2. Skills-based short courses
@@ -105,7 +107,10 @@ See [Kinopio mindmap](https://kinopio.club/fast-food-education-fUOWDPOF9YLGxgHyR
 			5. Instructor Engagement
 	4. What led to its rise?
 3. Fast Food Education as empowerment (pros)
+	1. 
 4. Fast Food Education as exploitation (cons)
+	1. 
 5. Call-to-Action
 	1. [[Critical thinking and skill development are not mutually exclusive]]
+	2. [[The object of true education is to make people]]
 
