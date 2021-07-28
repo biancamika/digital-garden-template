@@ -61,6 +61,7 @@ Global South
 Apprenticeships, bootcamps, MOOCs, and more: all of these alternative education options are  part of the trend I call "Fast Food Education". Now that it's rising in the Global South, I want to explore its potential to both empower and exploit students.
 
 ## Outline
+See [Kinopio mindmap](https://kinopio.club/fast-food-education-fUOWDPOF9YLGxgHyR8EVj)
 ### Draft 1
 1. Introduction
 	1. Thesis
