@@ -47,7 +47,7 @@ https://techcrunch.com/2017/08/26/an-insiders-take-on-the-future-of-coding-bootc
 > I believe that no one should have to pull their children out of public school because they do not think that their child is getting a good education. This book does a good job expressing the beliefs of the authors without being a boring book lecturing on about the problems with education. Taylor and Brock make the book relatable and thought-provoking through their real-life metaphors. Normally, I am not a fan of fiction books unless it is on a topic I am truly passionate about, but this book is the exception. 
 
 [With Success In Fast Food And Fast Fashion, Is It Time For Fast Education?](https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/with-success-in-fast-food-and-fast-fashion-is-it-time-for-fast-education/?sh=6bd18c55ce61)
-> The ==digital revolution== and ==affordable internet access ==arrived in the 1990s and made almost any B2C industry (always fragmented) fast. 
+> The ==digital revolution== and ==affordable internet access== arrived in the 1990s and made almost any B2C industry (always fragmented) fast. 
 
 > As life speeds up, ==not everyone can afford to learn that long==, so we have a trend toward faster education.
 
@@ -88,7 +88,7 @@ Could perhaps also apply to emerging economies like the PH?
 
 > If training and education become a lifelong pursuit, the big question is ==how to pay for it.==
 
-> “While we don’t know what skills will be required for the human-centric jobs of the future [such as health care, management consultants, and financial planners],” said Alssid, who has spent more than two decades in the workforce-development field, “we do know that these jobs will require a highly adaptable workforce that can think critically, creatively, and work collaboratively to find solutions to rapidly developing, complex problems.”
+> “While we don’t know what skills will be required for the human-centric jobs of the future such as health care, management consultants, and financial planners,” said Alssid, who has spent more than two decades in the workforce-development field, “we do know that these jobs will require a ==highly adaptable workforce that can think critically, creatively, and work collaboratively to find solutions to rapidly developing, complex problems.==”
 
 > Such skills, often referred to as “soft skills,” are typically seen in liberal-arts graduates, but those individuals often lack the technical skills employers want. Alssid said ==a hybrid of liberal-arts and technical education is what is most needed in training programs to allow workers to better navigate the ambiguity of the future job market.== That’s the goal of his school’s partnership with Infosys—to introduce liberal-arts students to technical fields that they might not have previously considered, while other programs will introduce the flexibility of the liberal arts to technical workers.
 ## Pitch (200 words?)
@@ -171,5 +171,33 @@ See [Kinopio mindmap](https://kinopio.club/fast-food-education-fUOWDPOF9YLGxgHyR
 	2. [[The object of true education is to make people]]
 
 ## Writing
-Introduction paragraph here
+Introduction paragraphs (1-2) here with hook and thesis
 ### What is fast food education?
+Fast food education is another term for vocational education programmes that are prominent in the edtech industry. They're known for their short timeframe, accessible costs, and up-to-date curriculum -- promising you a career that liberal education couldn't guarantee. For this essay, I'll be focusing on two types of fast food education: compressed courses like MooCs and micro-credentials, and skills-based intensives such as bootcamps and cohort-based courses.
+
+#### Rise in popularity
+These programmes are part of what Selingo calls the [third education revolution](https://www.theatlantic.com/education/archive/2018/03/the-third-education-revolution/556091/): continual training throughout a person's lifetime. This has been brought about by the following forces: technological developments, the wage gap between college graduates and those with "lesser education", and the talent economy. 
+
+First, technology has always served as the backbone of innovation. For instance, [fragmented B2C industries became fast thanks to the internet](https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/with-success-in-fast-food-and-fast-fashion-is-it-time-for-fast-education/?sh=6bd18c55ce61) -- it made buying anything a few clicks away. Now, the same is happening to education; lessons are no longer taught in classrooms, but in videos and Zooms. This shift to remote learning has been exacerbated by the COVID-19 pandemic.
+
+Another technological driver of the third education revolution is automation. The wage gap between college graduates and those with "lesser education" continues to widen because of the fear that their jobs could end up automated. This worry isn't baseless; according to a [McKinsey report](https://www.theatlantic.com/education/archive/2018/03/the-third-education-revolution/556091/), this could happen to at least one-third of activities in about 60 percent of occupations by 2030. So to avoid losing their jobs, people have no choice but to upskill.
+
+Finally, BLANK. Deloitte defines the [talent economy](https://monitor.icef.com/2019/10/global-survey-reveals-growing-interest-in-shorter-programmes-and-lifelong-learning/) as “collaborative, transparent, technology-enabled, rapid-cycle way of doing business … where employers and employees now seek each other out on a playing field that is broader and more level than ever before".
+
+Emerging countries, Global South, higher demand
+
+Institutions are unable to respond to demand, education ripe for disruption
+
+### Empowerment or exploitation?
+Pros paragraph
+Transition to cons
+
+#### Questionable quality
+
+#### Equity  problems
+
+#### Cultural homogenization
+
+
+
+### Call-to-action
