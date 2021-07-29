@@ -2,7 +2,7 @@
 title: Fast Food Education
 ---
 ![Illustration](https://previews.123rf.com/images/rahultiwari3190/rahultiwari31901905/rahultiwari3190190500113/122797662-education-fast-food-concept-represented-by-burger-with-books-hand-draw-design-illustration-.jpg)
-## Sourcess
+## Sources
 - [[Design Justice - Book]]
 - [[Our Way Out - Close Collaboration Between Liberal and Vocational Education - Essay]]
 - [[Udacity’s Sebastian Thrun, Godfather Of Free Online Education, Changes - Essay]]
@@ -71,6 +71,26 @@ Could perhaps also apply to emerging economies like the PH?
 
 > As for which way they could imagine ==upskilling==, the largest proportions said they would do it through “a short training programme such as a boot-camp, certificate programme, or something offered by a professional association.” 
 
+[THE THIRD EDUCATION REVOLUTION
+](https://www.theatlantic.com/education/archive/2018/03/the-third-education-revolution/556091/)
+
+> Now a ==third wave in education and training== has arrived, argue economists, educators, and workforce-development officials. The level of preparation that worked in the first two waves—adding more time to education early in life—does not seem sufficient in the 21st-century economy. Instead the third wave is likely to be ==marked by continual training throughout a person’s lifetime—to keep current in a career, to learn how to complement rising levels of automation, and to gain skills for new work.== Workers will likely consume this lifelong learning in short spurts when they need it, rather than in lengthy blocks of time as they do now when it often takes months or years to complete certificates and degrees.
+
+[[Digital learning exacerbates and reproduces inequality]]
+> One big worry, however, is that the arrival of lifelong education will only ==exacerbate the economic divide== that already exists in the United States. Education levels in the U.S. are closely tied to income. Simply put: Rich kids are far more likely to graduate from college than are their poor and working-class peers. There’s no reason not to believe that trend won’t continue in this third wave of lifelong learning. It is likely to help workers who already have high levels of education get the training they need rather than assist underemployed or unemployed workers who need to upskill to keep a job or get a new one.
+
+> Two simultaneous forces in the job market are driving this push toward lifelong learning. The first is ==automation== and the ==widening divide between the lifetime earnings of high-school and college graduates.==
+
+> The second is the ==emergence of the gig economy==, which is reshaping the traditional employer-employee relationship as more contractors and freelancers fill roles once reserved for full-time workers making good salaries. While the term “the gig economy” conjures up images of popular apps for temporary work, such as Uber and Task Rabbit, the army of professional white-collar freelancers is larger than that encompassing the services we can request on our smartphones. In a 2016 study, two economists, Lawrence F. Katz and Alan B. Krueger, found that all net employment growth in the United States since 2005 appears to have come from what they termed “alternative work”—that is, contract and freelance work, which has ballooned by more than 50 percent over the last decade.
+
+[[Critical thinking and skill development are not mutually exclusive]]
+> Rather than focus on routine skills that can be replaced by technology, job training needs to target ==key skills that complement technology, such as problem solving, teamwork, and communication.==
+
+> If training and education become a lifelong pursuit, the big question is ==how to pay for it.==
+
+> “While we don’t know what skills will be required for the human-centric jobs of the future [such as health care, management consultants, and financial planners],” said Alssid, who has spent more than two decades in the workforce-development field, “we do know that these jobs will require a highly adaptable workforce that can think critically, creatively, and work collaboratively to find solutions to rapidly developing, complex problems.”
+
+> Such skills, often referred to as “soft skills,” are typically seen in liberal-arts graduates, but those individuals often lack the technical skills employers want. Alssid said ==a hybrid of liberal-arts and technical education is what is most needed in training programs to allow workers to better navigate the ambiguity of the future job market.== That’s the goal of his school’s partnership with Infosys—to introduce liberal-arts students to technical fields that they might not have previously considered, while other programs will introduce the flexibility of the liberal arts to technical workers.
 ## Pitch (200 words?)
 
 Ed-tech experiments
