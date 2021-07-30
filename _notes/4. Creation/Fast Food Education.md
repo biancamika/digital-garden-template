@@ -175,6 +175,8 @@ Introduction paragraphs (1-2) here with hook and thesis
 ### What is fast food education?
 Fast food education is another term for vocational education programmes that are prominent in the edtech industry. They're known for their short timeframe, accessible costs, and up-to-date curriculum -- promising you a career that liberal education couldn't guarantee. For this essay, I'll be focusing on two types of fast food education: compressed courses like MooCs and micro-credentials, and skills-based intensives such as bootcamps and cohort-based courses.
 
+(Maybe I should make a graph of fast food education with examples?)
+
 #### Rise in popularity
 These programmes are part of what Selingo calls the [third education revolution](https://www.theatlantic.com/education/archive/2018/03/the-third-education-revolution/556091/): continual training throughout a person's lifetime. This has been brought about by the following forces: technological developments, the wage gap between college graduates and those with "lesser education", and the talent economy. 
 
