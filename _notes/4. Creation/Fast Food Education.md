@@ -91,6 +91,8 @@ Could perhaps also apply to emerging economies like the PH?
 > “While we don’t know what skills will be required for the human-centric jobs of the future such as health care, management consultants, and financial planners,” said Alssid, who has spent more than two decades in the workforce-development field, “we do know that these jobs will require a ==highly adaptable workforce that can think critically, creatively, and work collaboratively to find solutions to rapidly developing, complex problems.==”
 
 > Such skills, often referred to as “soft skills,” are typically seen in liberal-arts graduates, but those individuals often lack the technical skills employers want. Alssid said ==a hybrid of liberal-arts and technical education is what is most needed in training programs to allow workers to better navigate the ambiguity of the future job market.== That’s the goal of his school’s partnership with Infosys—to introduce liberal-arts students to technical fields that they might not have previously considered, while other programs will introduce the flexibility of the liberal arts to technical workers.
+
+https://www.forbes.com/sites/ryancraig/2021/05/28/lambada-school-the-forbidden-coding-bootcamp/?sh=48621b2c5762
 ## Pitch (200 words?)
 
 Ed-tech experiments
@@ -164,10 +166,14 @@ See [Kinopio mindmap](https://kinopio.club/fast-food-education-fUOWDPOF9YLGxgHyR
 4. Fast Food Education as exploitation (cons)
 	1. Questionable quality
 	2. May worsen equity problems
+		1. Digital divide
+		2. Socioeconomic barriers
+			1. Majority already have bachelor's degrees
 	3. Devaluation of local knowledge + cultural homogenization
-5. Cons summary: Vocationalism merely props up status quo
+5. Cons summary: Vocationalism merely props up status quo?
 6. Call-to-Action
 	1. [[Critical thinking and skill development are not mutually exclusive]]
+		1. The former is hard to teach through videos, which is what bootcamps (w/ people) are for. Sayang potential
 	2. [[The object of true education is to make people]]
 
 ## Writing
@@ -175,7 +181,7 @@ Introduction paragraphs (1-2) here with hook and thesis
 ### What is fast food education?
 Fast food education is another term for vocational education programmes that are prominent in the edtech industry. They're known for their short timeframe, accessible costs, and up-to-date curriculum -- promising you a career that liberal education couldn't guarantee. For this essay, I'll be focusing on two types of fast food education: compressed courses like MooCs and micro-credentials, and skills-based intensives such as bootcamps and cohort-based courses.
 
-(Maybe I should make a graph of fast food education with examples?)
+(Maybe I should make a graph of fast food education with example startups?)
 
 #### Rise in popularity
 These programmes are part of what Selingo calls the [third education revolution](https://www.theatlantic.com/education/archive/2018/03/the-third-education-revolution/556091/): continual training throughout a person's lifetime. This has been brought about by the following forces: technological developments, the wage gap between college graduates and those with "lesser education", and the talent economy. 
@@ -197,11 +203,28 @@ However,
 Transition to cons
 
 #### Questionable quality
+In exchange for accessibility, fast food education is known for lower quality, from what is taught to how it is taught. Since it has a short timeframe, it can only focus on teaching practical skills and methods. For example: programs that teach code [favor convention over configuration (frameworks over fundamentals)](https://techbeacon.com/app-dev-testing/bootcamps-wont-make-you-coder-heres-what-will-0), while those that teach UX design [skip foundational disciplines like anthropology and art history](https://essays.uxdesign.cc/case-study-factory/). These programs' curriculums aren't only lacking; they also have the danger of being unreliable. See Lambda School, who was criticized by their students for [constantly changing lesson plans and relying on free training materials](https://www.theverge.com/2020/2/11/21131848/lambda-school-coding-bootcamp-isa-tuition-cost-free).
 
-#### Equity  problems
+Delivery of content is also important. One example is technical production; third-party providers have put their reputations at risk for [insufficient screening](https://www.timeshighereducation.com/news/reputations-at-risk-as-platforms-fail-to-screen-moocs/2014381.article), leading to the release of courses with shaky filming and conventional slides. Pacing must also be considered, of which MOOCs and bootcamps seem to be on opposite sides of the spectrum. The former is completely dependent on learners; most end up dropping out, leading to [completion rates lower than 10%](https://www.fastcompany.com/3021473/udacity-sebastian-thrun-uphill-climb). Meanwhile, the latter is known for being rapidly fast, so learners have to ensure that they can catch up.
+
+Even if one gets to finish a program, is the certificate they earned enough to prove what they learned? This would be difficult without accreditation; while this lack of oversight has enabled programs to constantly update their curriculums, it has also lessened their credibility -- which job-seeking students would benefit from. If [graduates already struggle with interviews](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwimzNbgt4vyAhUlgsYKHV49A88QFjACegQIBBAD&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fa-realistic-perspective-of-the-pros-and-cons-of-coding-bootcamps-527a1e4b8fb2&usg=AOvVaw3T-AmBWJhG5OV18mRBlKh-), how else can they ensure that they would be hired?
 
 #### Cultural homogenization
 
+
+https://youtu.be/YCsSKDh8gBg
+
+#### Equity  problems
+Only those with a decent connection can access?
+
+Encouraging debt with ISAs
+
+Those who are predisposed to succeed (e.g. white, males, college graduates) are those who gain the most from fast food education. Those who need the educational resources the most gain the least
+
+### Critiquing vocationalism?
+> "... The true value proposition of education is employment." - Sebastian Thrun, CEO of Udacity
+
+> Imposing the ==logic of factory production== on education does the same thing as imposing the logic of factory production on any form of work: it transforms creative expression into dull, repetitive drudgery. (From resisting distance learning)
 
 
 ### Call-to-action
