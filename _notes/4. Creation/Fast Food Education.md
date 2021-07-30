@@ -189,7 +189,9 @@ The third education revolution is more pronounced in the Global South, especiall
 Overall, technological and economic developments have pushed people to pursue lifelong learning, but traditional institutions are unable to respond to the high demand due to expensive costs, long timeframes, and slow adaptation. In a [global Pearson study](https://monitor.icef.com/2019/10/global-survey-reveals-growing-interest-in-shorter-programmes-and-lifelong-learning/), less than six in ten respondents felt that their country's education system worked well for the current generation; more than four in ten respondents (in affulent countries like Australia, Canada, and the US) believed that higher education did not prepare them for their career. Now is a perfect time for disruption, which is why fast food education is currently thriving. 
 
 ### Empowerment or exploitation?
-Pros paragraph
+There's no denying the benefits of fast food education.
+
+However, 
 Transition to cons
 
 #### Questionable quality
