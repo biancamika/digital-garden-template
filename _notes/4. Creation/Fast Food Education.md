@@ -12,6 +12,7 @@ title: Fast Food Education
 - [[In Online Ed Content Is No Longer King - Cohorts Are - Essay]]
 - [[The Global Classroom - An Opportunity for Empowerment or Exploitation - Publication]]
 - [[The Dirty Little Secrets About The Worst Coding Bootcamps Out There - Essay]]
+- [[The McDonaldization of Education - the rise of slow - Essay]]
 
 ## Notes
 [Are MOOCs, Bootcamps and Other Alternative Education Options Effective?](https://www.usnews.com/news/education-news/articles/2017-07-21/are-moocs-bootcamps-and-other-alternative-education-options-effective)
@@ -221,7 +222,7 @@ Encouraging debt with ISAs
 
 Those who are predisposed to succeed (e.g. white, males, college graduates) are those who gain the most from fast food education. Those who need the educational resources the most gain the least
 
-### Critiquing vocationalism?
+### Critiquing vocationalism? The products of fast food education? Factory outputs?
 > "... The true value proposition of education is employment." - Sebastian Thrun, CEO of Udacity
 
 > Imposing the ==logic of factory production== on education does the same thing as imposing the logic of factory production on any form of work: it transforms creative expression into dull, repetitive drudgery. (From resisting distance learning)
