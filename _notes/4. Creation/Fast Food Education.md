@@ -218,8 +218,8 @@ Overall, technological and economic developments have pushed people to pursue li
 #### Empowerment or exploitation?
 There's no denying the benefits of fast food education.
 
-However, 
-Transition to cons
+
+But no matter how much [[McDonaldization]] tries to rationalize education, there are bound to be irrational outcomes. Ritzer says: "...Rational systems are unreasonable systems...they deny the basic humanity, the human reason, of the people who work within or are served by them." Aside from dehumanization, other irrationalities can occur (e.g. overquantification resulting to low quality). Here are the cons of fast food education:
 
 ##### Questionable quality
 In exchange for accessibility, fast food education is known for lower quality, from what is taught to how it is taught. Since it has a short timeframe, it can only focus on teaching practical skills and methods. For example: programs that teach code [favor convention over configuration (frameworks over fundamentals)](https://techbeacon.com/app-dev-testing/bootcamps-wont-make-you-coder-heres-what-will-0), while those that teach UX design [skip foundational disciplines like anthropology and art history](https://essays.uxdesign.cc/case-study-factory/). These programs' curriculums aren't only lacking; they also have the danger of being unreliable. See Lambda School, who was criticized by their students for [constantly changing lesson plans and relying on free training materials](https://www.theverge.com/2020/2/11/21131848/lambda-school-coding-bootcamp-isa-tuition-cost-free).
@@ -245,14 +245,22 @@ Sociologist Paul Attwell argues that inequalities operate at two levels: the fir
 Money is also a barrier. Despite being marketed as the "more affordable" option, [bootcamps can cost in the range of $5,000 to $20,000](https://careerkarma.com/blog/bootcamp-market-report-2021/#bootcamp-costs-and-financing) — nothing to cough at. Even the way cheaper [MOOCs are used to advertise higher priced professional programs](https://www.forbes.com/sites/dereknewton/2018/11/19/beware-of-the-great-mooc-bait-and-switch/?sh=16d6f5c312f2). Income sharing agreements are marketed as an accessible option to those who aren't able to pay full price, but people need to be warned that ISAs are just another form of student debt; [Senator Elizabeth Warren](https://www.warren.senate.gov/imo/media/doc/Letter%20to%20DeVos%20re%20ISAs.pdf) says that these carry many of the pitfalls of private student loans "with the added danger of deceptive rhetoric and marketing that obscure their true nature". Just because students get to study for free doesn't mean it didn't cost them. [A report on Lambda School students](https://www.theverge.com/2020/2/11/21131848/lambda-school-coding-bootcamp-isa-tuition-cost-free) showed that some quit their jobs to attend full-time, while others worked nights and weekends in order to make ends meet. Many also admitted to struggling with mental health problems. When students have to deal with looming debt and [dubious placement outcomes](https://techbeacon.com/app-dev-testing/bootcamps-wont-make-you-coder-heres-what-will-0), who can blame them for being disstressed?
 
 
-Fast food education was created for a honorable purpose: to bring learning to those who couldn't access it. However, after years have passed, very little has changed. Those who gain the most from these programs are those who are predisposed to succeed. Meanwhile, those who need educational resources the most gain the least. Why is this way?
+These programs were created for a honorable purpose: to bring learning to those who couldn't access it. However, after years have passed, very little has changed. Those who gain the most from these programs are those who are predisposed to succeed. Meanwhile, those who need educational resources the most gain the least. Why is it this way? Where did we go wrong?
 
 #### Critiquing vocationalism? The products of fast food education? Factory outputs?
 > "... The true value proposition of education is employment." - Sebastian Thrun, CEO of Udacity
 
 > Imposing the ==logic of factory production== on education does the same thing as imposing the logic of factory production on any form of work: it transforms creative expression into dull, repetitive drudgery. (From resisting distance learning)
 
+Remember: fast food education is designed to benefit the system, not the student. 
+
+fast food education is ineffective for large scale changes; 
 People just replacing people
 
+What is the status quo being maintained? Western technocracy
+https://modesofcriticism.org/the-imperial-code/
+Maximize efficiency and profitsbility at all cost
+Grow talent pipeline, increase skill level of current employees -> industry/coroorate
+Will more workers necessarily change that?
 
 #### Call-to-action
