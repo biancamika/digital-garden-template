@@ -188,7 +188,7 @@ Fast food education is another term for vocational education programmes that are
 ### Current
 Introduction paragraphs (1-2) here with hook and thesis
 #### What is fast food education?
-Fast food education is education influenced by what sociologist George Ritzer calls "[[McDonaldization]]": a rationalization process where principles of the fast food industry are dominating other sectors of the world. There are four characteristics of this worldview: efficiency, calculability, predictability, and control.
+Fast food education is education influenced by what sociologist George Ritzer calls "[[McDonaldization]]": a rationalization process where principles of the fast food industry are dominating other sectors of society and the world. There are four characteristics of this worldview: efficiency, calculability, predictability, and control.
 
 First, **efficiency** is about choosing the fastest and least costly (in expenditure and effort) way to achieve a goal. This is specific to the interests of the industry/business, but usually advertised as a benefit to the consumer. However, they end up doing work that was previously done for them. This is the "privilege" they pay for; not only through paying higher prices, but also through spending time remembering numbers and learning new technologies.
 
@@ -196,7 +196,7 @@ Next, **calculability** is about making objectives based on what can be calculat
 
 Then,  **predictability** is about reducing the possibility of surprise and differentness in an environment as much as possible. Consumers expect to receive the same product and service no matter where they go. Meanwhile, workers are always doing repetitive and highly routine tasks. People don't vary from the norm because they expect to profit, whether it be through a good meal or an okay salary.
 
-Finally, **control** is about replacing people — the biggest source of uncertanity and unpredictability in a rationalizing system — with nonhuman technology. Everything is pre-packaged, pre-measured, and automatically controlled. Thus, consumers and workers no longer have to think; all they have to do is follow instructions and push buttons — just like a machine.
+Finally, **control** is about replacing people — the biggest source of uncertanity and unpredictability in a rationalizing system — with nonhuman technology. Standardization is at play. Everything is pre-packaged, pre-measured, and automatically controlled. Thus, consumers and workers no longer have to think; all they have to do is follow instructions and push buttons — just like a machine.
 
 [[McDonaldization]] has expressed itself in the education sector through [[Vocational education]]. It's known for a short timeframe, accessible costs, and a practical curriculum — promising a career that liberal education couldn't guarantee. For this essay, I'll be focusing on example programs that are prominent in the edtech industry: compressed courses like MooCs and micro-credentials, and skills-based intensives such as bootcamps and cohort-based courses.
 
@@ -226,12 +226,23 @@ In exchange for accessibility, fast food education is known for lower quality, f
 
 Delivery of content is also important. One example is technical production; third-party providers have put their reputations at risk for [insufficient screening](https://www.timeshighereducation.com/news/reputations-at-risk-as-platforms-fail-to-screen-moocs/2014381.article), leading to the release of courses with shaky filming and conventional slides. Pacing must also be considered, of which MOOCs and bootcamps seem to be on opposite sides of the spectrum. The former is completely dependent on learners; most end up dropping out, leading to [completion rates lower than 10%](https://www.fastcompany.com/3021473/udacity-sebastian-thrun-uphill-climb). Meanwhile, the latter is known for being rapidly fast, so learners have to ensure that they can catch up.
 
-Even if one gets to finish a program, is the certificate they earned enough to prove what they learned? This would be difficult without accreditation; while this lack of oversight has enabled programs to constantly update their curriculums, it has also lessened their credibility -- which job-seeking students would benefit from. If [graduates already struggle with interviews](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwimzNbgt4vyAhUlgsYKHV49A88QFjACegQIBBAD&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fa-realistic-perspective-of-the-pros-and-cons-of-coding-bootcamps-527a1e4b8fb2&usg=AOvVaw3T-AmBWJhG5OV18mRBlKh-), how else can they ensure that they would be hired?
+Even if one gets to finish a program, is the certificate they earned enough to prove what they learned? This would be difficult without accreditation; while this lack of oversight has enabled programs to constantly update their curriculums, it has also lessened their credibility -- which job-seeking students would benefit from. If [graduates already struggle with interviews](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwimzNbgt4vyAhUlgsYKHV49A88QFjACegQIBBAD&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fa-realistic-perspective-of-the-pros-and-cons-of-coding-bootcamps-527a1e4b8fb2&usg=AOvVaw3T-AmBWJhG5OV18mRBlKh-), how else can they ensure that they would be hired? Students of fast food education will be at a disadvantage in the current market, which is more competitive than ever thanks to globalization and the internet.
 
 ##### Homogenization
+Our global market mandates the idea of universal knowledge, skills, and values. The fact that coding bootcamps are an international phenonemon is proof of this; no matter what country they're in, they'll always be providing technical skills and interview prep. Through this standardization, fast food education brings about [cultural hybridization](https://sociologydictionary.org/cultural-hybridization/): the process of blending of two or more cultures in order to fit cultural norms. Allowing for variety speeds up historical, economic, and cultural development. However, cultural hybridization is becoming no different from [cultural hegemony](https://www.thoughtco.com/cultural-hegemony-3026121), where dominance is maintained through ideological/cultural means. In the case of fast food education, the Global North (especially countries in the West), is set as the universal standard for others to follow. As a result, students are subject to the homogenization of their work.
 
+(lol insert collage of coding bootcamp landing pages to show how similar they are....get some originality please LMAO)
 
+Unifying patterns
+Templates
+Case study factory
+
+Westernizing cultures
+English
+Design standards
 https://youtu.be/YCsSKDh8gBg
+
+Everyone is the same...how to stand out?
 
 ##### Equity  problems
 Only those with a decent connection can access?

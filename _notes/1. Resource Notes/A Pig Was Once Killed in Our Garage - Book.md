@@ -20,3 +20,6 @@ modified: 2021-07-09T01:23:44+08:00
 > Prayer was supposed to be more a plea for vigilance, chants we collectively utter for strength, strength found in simply saying the same thing, perhaps meaning that we believed in the same thing and were thus not alone.
 
 > Repetition, like prayer—the things we say to ourselves—is its own kind of healing. And what is healing but an insistence.
+
+### Dao
+> Home, I've learned, is where families accumulate things like objects, moments, and most especially, days.
