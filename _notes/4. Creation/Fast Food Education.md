@@ -238,11 +238,11 @@ An example of cultural hemegonization is ["What can we learn from the new genera
 Their expression is also limited; student projects are often made with structured templates. For instance, ["The case study factory"](https://essays.uxdesign.cc/case-study-factory/) discusses how formulaic case studies make it difficult to diffrentiate UX/UI designers from one another. These studies may demonstrate the students' ability to follow the design process, but not their unique thinking, skills, and point of view. Having English as the main language adds to this. Minorities who aren't able to communicate well in it are sure to struggle, even if they are proficient in the craft. Overall, standardized education leads to standardized outputs; those who can't comply to those standards will be seen as of "lesser quality".
 
 ##### Equity problems
-Fast food education may be more accessible to more people, but is it equitable? According to education researchers Mimi Ito and Justin Reich, digital learning technologies actually exacerbate inequality in learning outcomes in terms of class, race, and gender. They also unintentionally reproduce inequality, thanks to bias and social distance between developers and users.
+Fast food education may be more accessible to more people, but is it equitable? According to education researchers Mimi Ito and Justin Reich, digital learning technologies actually exacerbate inequality in learning outcomes in terms of class, race, and gender. They also unintentionally reproduce inequality, thanks to bias and social distance between developers and users. (See [[Digital learning exacerbates and reproduces inequality]])
 
-(See [[Digital learning exacerbates and reproduces inequality]])
 
-Inaccessible
+Sociologist Paul Attwell argues that inequalities operate at two levels: the first and second digital divides. The former divide is about access: who is able to get devices, software, connectivity, and other forms of technology. For example, to those without reliable internet (from [Seattle](https://www.seattletimes.com/seattle-news/disconnected-in-isolation-how-the-coronavirus-pandemic-shed-light-on-the-digital-divide/) to [Southeast Asia](https://phys.org/news/2020-03-lack-internet-access-southeast-asia.html)), remote learning is a far-off opportunity. The latter divide is about leverage: affulent students are able to use the same technologies in order to get richer forms of learning + mentorship.
+
 Technology; Only those with a decent connection can access?
 
 Money
