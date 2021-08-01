@@ -237,12 +237,21 @@ An example of cultural hemegonization is ["What can we learn from the new genera
 
 Their expression is also limited; student projects are often made with structured templates. For instance, ["The case study factory"](https://essays.uxdesign.cc/case-study-factory/) discusses how formulaic case studies make it difficult to diffrentiate UX/UI designers from one another. These studies may demonstrate the students' ability to follow the design process, but not their unique thinking, skills, and point of view. Having English as the main language adds to this. Minorities who aren't able to communicate well in it are sure to struggle, even if they are proficient in the craft. Overall, standardized education leads to standardized outputs; those who can't comply to those standards will be seen as of "lesser quality".
 
-##### Equity  problems
-Only those with a decent connection can access?
+##### Equity problems
+Fast food education may be more accessible to more people, but is it equitable? According to education researchers Mimi Ito and Justin Reich, digital learning technologies actually exacerbate inequality in learning outcomes in terms of class, race, and gender. They also unintentionally reproduce inequality, thanks to bias and social distance between developers and users.
 
-Encouraging debt with ISAs
+(See [[Digital learning exacerbates and reproduces inequality]])
 
-Those who are predisposed to succeed (e.g. white, males, college graduates) are those who gain the most from fast food education. Those who need the educational resources the most gain the least
+Inaccessible
+Technology; Only those with a decent connection can access?
+
+Money
+Expensive
+Encouraging debt with ISAs + dubious placement outcomes, see lambda
+
+According to [Konnikova](https://outline.com/V2LCFh), that most who enroll in MOOCs are well-educated youth from developed countries who already had jobs. And the ones who were most likely to succeed in these courses were those who already succeeded academically. 
+
+Those who are predisposed to succeed are those who gain the most from fast food education. Those who need the educational resources the most gain the least
 
 #### Critiquing vocationalism? The products of fast food education? Factory outputs?
 > "... The true value proposition of education is employment." - Sebastian Thrun, CEO of Udacity
