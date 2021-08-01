@@ -94,6 +94,13 @@ Could perhaps also apply to emerging economies like the PH?
 > Such skills, often referred to as “soft skills,” are typically seen in liberal-arts graduates, but those individuals often lack the technical skills employers want. Alssid said ==a hybrid of liberal-arts and technical education is what is most needed in training programs to allow workers to better navigate the ambiguity of the future job market.== That’s the goal of his school’s partnership with Infosys—to introduce liberal-arts students to technical fields that they might not have previously considered, while other programs will introduce the flexibility of the liberal arts to technical workers.
 
 https://www.forbes.com/sites/ryancraig/2021/05/28/lambada-school-the-forbidden-coding-bootcamp/?sh=48621b2c5762
+
+https://www.cpp.edu/~ddwills/courses/ant352/readings352/McDonaldization.htm
+
+> A further extension involves the credentialing process. Status, capability and competence are assumed to be related to the number of initials one lists behind one's name or the number of pieces of paper we have hanging on our office walls.
+
+Relate to ho 
+https://courses.lumenlearning.com/boundless-sociology/chapter/bureaucracy/
 ## Pitch (200 words?)
 
 Ed-tech experiments
@@ -181,20 +188,22 @@ Fast food education is another term for vocational education programmes that are
 ### Current
 Introduction paragraphs (1-2) here with hook and thesis
 #### What is fast food education?
-Fast food education is education influenced by what Ritzer calls "[[McDonaldization]]": the process where principles of the fast food industry are dominating other sectors of the world. There are four characteristics of this worldview: 
-+ **Efficiency**:
-+ **Predictability**:
-+ **Calculability**:
-+ **Control**:
+Fast food education is education influenced by what sociologist George Ritzer calls "[[McDonaldization]]": a rationalization process where principles of the fast food industry are dominating other sectors of the world. There are four characteristics of this worldview: efficiency, calculability, predictability, and control.
 
-Paragraph on [[Vocational education]]
+First, **efficiency** is about choosing the fastest and least costly (in expenditure and effort) way to achieve a goal. This is specific to the interests of the industry/business, but usually advertised as a benefit to the consumer. However, they end up doing work that was previously done for them. This is the "privilege" they pay for; not only through paying higher prices, but also through spending time remembering numbers and learning new technologies.
 
-For this essay, I'll be focusing on example programs that are prominent in the edtech industry: compressed courses like MooCs and micro-credentials, and skills-based intensives such as bootcamps and cohort-based courses.
+Next, **calculability** is about making objectives based on what can be calculated, counted, quantified. Under [[McDonaldization]], quanity equals quality; a large amount of product delivered to consumers is the same as a high quality product. Because of this, workers are judged by the speed at which they accomplish tasks instead of the quality of work they do. 
+
+Then,  **predictability** is about reducing the possibility of surprise and differentness in an environment as much as possible. Consumers expect to receive the same product and service no matter where they go. Meanwhile, workers are always doing repetitive and highly routine tasks. People don't vary from the norm because they expect to profit, whether it be through a good meal or an okay salary.
+
+Finally, **control** is about replacing people — the biggest source of uncertanity and unpredictability in a rationalizing system — with nonhuman technology. Everything is pre-packaged, pre-measured, and automatically controlled. Thus, consumers and workers no longer have to think; all they have to do is follow instructions and push buttons — just like a machine.
+
+[[McDonaldization]] has expressed itself in the education sector through [[Vocational education]]. It's known for a short timeframe, accessible costs, and a practical curriculum — promising a career that liberal education couldn't guarantee. For this essay, I'll be focusing on example programs that are prominent in the edtech industry: compressed courses like MooCs and micro-credentials, and skills-based intensives such as bootcamps and cohort-based courses.
 
 (Maybe I should make a graph of fast food education with example startups?)
 
 ##### Rise in popularity
-These programmes are part of what Selingo calls the [third education revolution](https://www.theatlantic.com/education/archive/2018/03/the-third-education-revolution/556091/): continual training throughout a person's lifetime. This has been brought about by the following forces: technological developments, the wage gap between college graduates and those with "lesser education", and the talent economy. 
+These programs are part of what Selingo calls the [third education revolution](https://www.theatlantic.com/education/archive/2018/03/the-third-education-revolution/556091/): continual training throughout a person's lifetime. This has been brought about by the following forces: technological developments, the wage gap between college graduates and those with "lesser education", and the talent economy. 
 
 First, technology has always served as the backbone of innovation. For instance, [fragmented B2C industries became fast thanks to the internet](https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/with-success-in-fast-food-and-fast-fashion-is-it-time-for-fast-education/?sh=6bd18c55ce61) -- it made buying anything a few clicks away. Now, the same is happening to education; lessons are no longer taught in classrooms, but in videos and Zooms. This shift to remote learning has been exacerbated by the COVID-19 pandemic. Since education is more accessible, there's no excuse not to be learning.
 
@@ -202,7 +211,7 @@ Another technological driver of the third education revolution is automation. Th
 
 Finally, there's the emergence of the [talent economy](https://monitor.icef.com/2019/10/global-survey-reveals-growing-interest-in-shorter-programmes-and-lifelong-learning/), which Deloitte defines as a “collaborative, transparent, technology-enabled, rapid-cycle way of doing business … where employers and employees now seek each other out on a playing field that is broader and more level than ever before". This no longer includes just app-enabled gig workers, but also professional white-collar freelancers. Since today's economies have quickly changing needs, people need to adjust to new trends -- leading them to constant retraining.
 
-The third education revolution is more pronounced in the Global South, especially Southeast Asia. According to a [Parthenon-EY paper](http://cdn.ey.com/parthenon/pdf/perspectives/Parthenon-EY_SE-Asia_Paper_final_092016_singles.pdf), economic growth, demographic trends, and cultural shifts have prompted regional demand for higher education. However, [Lau](https://www.timeshighereducation.com/features/south-east-asia-higher-educations-next-global-hotspot) reports that socio-economic barriers such as a global recession, outdated infrastructure, and political instability  have made higher education an inaccessible/undesirable option. Automation also has a huge influence; in fact, [many Southeast Asians](https://reboothq.substack.com/p/maintenance) participate in [ghost work](https://en.wikipedia.org/wiki/Ghost_work): the invisible human labor that powers the products and services of Silicon Valley. Thus, keeping up with technogical trends is integral to getting and staying employed.
+The third education revolution is more pronounced in the Global South, especially Southeast Asia. According to a [Parthenon-EY paper](http://cdn.ey.com/parthenon/pdf/perspectives/Parthenon-EY_SE-Asia_Paper_final_092016_singles.pdf), economic growth, demographic trends, and cultural shifts have prompted regional demand for higher education. However, [socio-economic barriers](https://www.timeshighereducation.com/features/south-east-asia-higher-educations-next-global-hotspot) such as a global recession, outdated infrastructure, and political instability  have made higher education an inaccessible/undesirable option. Automation also has a huge influence; in fact, [many Southeast Asians](https://reboothq.substack.com/p/maintenance) participate in [ghost work](https://en.wikipedia.org/wiki/Ghost_work): the invisible human labor that powers the products and services of Silicon Valley. Thus, keeping up with technogical trends is integral to getting and staying employed.
 
 Overall, technological and economic developments have pushed people to pursue lifelong learning, but traditional institutions are unable to respond to the high demand due to expensive costs, long timeframes, and slow adaptation. In a [global Pearson study](https://monitor.icef.com/2019/10/global-survey-reveals-growing-interest-in-shorter-programmes-and-lifelong-learning/), less than six in ten respondents felt that their country's education system worked well for the current generation; more than four in ten respondents (in affulent countries like Australia, Canada, and the US) believed that higher education did not prepare them for their career. Now is a perfect time for disruption, which is why fast food education is currently thriving. 
 
@@ -219,7 +228,7 @@ Delivery of content is also important. One example is technical production; thir
 
 Even if one gets to finish a program, is the certificate they earned enough to prove what they learned? This would be difficult without accreditation; while this lack of oversight has enabled programs to constantly update their curriculums, it has also lessened their credibility -- which job-seeking students would benefit from. If [graduates already struggle with interviews](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwimzNbgt4vyAhUlgsYKHV49A88QFjACegQIBBAD&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fa-realistic-perspective-of-the-pros-and-cons-of-coding-bootcamps-527a1e4b8fb2&usg=AOvVaw3T-AmBWJhG5OV18mRBlKh-), how else can they ensure that they would be hired?
 
-##### Cultural homogenization
+##### Homogenization
 
 
 https://youtu.be/YCsSKDh8gBg
