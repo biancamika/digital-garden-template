@@ -132,10 +132,8 @@ See [Kinopio mindmap](https://kinopio.club/fast-food-education-fUOWDPOF9YLGxgHyR
 		1. Similar to [[The Global Classroom - An Opportunity for Empowerment or Exploitation - Literature Notes]] and [[Design Justice - Literature Notes]]: Chapter 5 Ending
 2. What is Fast Food Education?
 	1. Description
-		1. Traits
-			1. Inexpensive?
-			2. Quickly served?
-			2. Mass-produced
+		1. [[McDonaldization]]
+			1. [[The McDonaldization of Education - the rise of slow - Literature Notes]]
 		2. Underlying System
 		3. Vocationalism/learning-to-earn philosophy
 			1. [[Vocational education]]
@@ -177,14 +175,25 @@ See [Kinopio mindmap](https://kinopio.club/fast-food-education-fUOWDPOF9YLGxgHyR
 		1. The former is hard to teach through videos, which is what bootcamps (w/ people) are for. Sayang potential
 	2. [[The object of true education is to make people]]
 
-## Writing
-Introduction paragraphs (1-2) here with hook and thesis
-### What is fast food education?
+## Writing 
+### Draft
 Fast food education is another term for vocational education programmes that are prominent in the edtech industry. They're known for their short timeframe, accessible costs, and up-to-date curriculum -- promising you a career that liberal education couldn't guarantee. For this essay, I'll be focusing on two types of fast food education: compressed courses like MooCs and micro-credentials, and skills-based intensives such as bootcamps and cohort-based courses.
+### Current
+Introduction paragraphs (1-2) here with hook and thesis
+#### What is fast food education?
+Fast food education is education influenced by what Ritzer calls "[[McDonaldization]]": the process where principles of the fast food industry are dominating other sectors of the world. There are four characteristics of this worldview: 
++ **Efficiency**:
++ **Predictability**:
++ **Calculability**:
++ **Control**:
+
+Paragraph on [[Vocational education]]
+
+For this essay, I'll be focusing on example programs that are prominent in the edtech industry: compressed courses like MooCs and micro-credentials, and skills-based intensives such as bootcamps and cohort-based courses.
 
 (Maybe I should make a graph of fast food education with example startups?)
 
-#### Rise in popularity
+##### Rise in popularity
 These programmes are part of what Selingo calls the [third education revolution](https://www.theatlantic.com/education/archive/2018/03/the-third-education-revolution/556091/): continual training throughout a person's lifetime. This has been brought about by the following forces: technological developments, the wage gap between college graduates and those with "lesser education", and the talent economy. 
 
 First, technology has always served as the backbone of innovation. For instance, [fragmented B2C industries became fast thanks to the internet](https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/with-success-in-fast-food-and-fast-fashion-is-it-time-for-fast-education/?sh=6bd18c55ce61) -- it made buying anything a few clicks away. Now, the same is happening to education; lessons are no longer taught in classrooms, but in videos and Zooms. This shift to remote learning has been exacerbated by the COVID-19 pandemic. Since education is more accessible, there's no excuse not to be learning.
@@ -197,35 +206,35 @@ The third education revolution is more pronounced in the Global South, especiall
 
 Overall, technological and economic developments have pushed people to pursue lifelong learning, but traditional institutions are unable to respond to the high demand due to expensive costs, long timeframes, and slow adaptation. In a [global Pearson study](https://monitor.icef.com/2019/10/global-survey-reveals-growing-interest-in-shorter-programmes-and-lifelong-learning/), less than six in ten respondents felt that their country's education system worked well for the current generation; more than four in ten respondents (in affulent countries like Australia, Canada, and the US) believed that higher education did not prepare them for their career. Now is a perfect time for disruption, which is why fast food education is currently thriving. 
 
-### Empowerment or exploitation?
+#### Empowerment or exploitation?
 There's no denying the benefits of fast food education.
 
 However, 
 Transition to cons
 
-#### Questionable quality
+##### Questionable quality
 In exchange for accessibility, fast food education is known for lower quality, from what is taught to how it is taught. Since it has a short timeframe, it can only focus on teaching practical skills and methods. For example: programs that teach code [favor convention over configuration (frameworks over fundamentals)](https://techbeacon.com/app-dev-testing/bootcamps-wont-make-you-coder-heres-what-will-0), while those that teach UX design [skip foundational disciplines like anthropology and art history](https://essays.uxdesign.cc/case-study-factory/). These programs' curriculums aren't only lacking; they also have the danger of being unreliable. See Lambda School, who was criticized by their students for [constantly changing lesson plans and relying on free training materials](https://www.theverge.com/2020/2/11/21131848/lambda-school-coding-bootcamp-isa-tuition-cost-free).
 
 Delivery of content is also important. One example is technical production; third-party providers have put their reputations at risk for [insufficient screening](https://www.timeshighereducation.com/news/reputations-at-risk-as-platforms-fail-to-screen-moocs/2014381.article), leading to the release of courses with shaky filming and conventional slides. Pacing must also be considered, of which MOOCs and bootcamps seem to be on opposite sides of the spectrum. The former is completely dependent on learners; most end up dropping out, leading to [completion rates lower than 10%](https://www.fastcompany.com/3021473/udacity-sebastian-thrun-uphill-climb). Meanwhile, the latter is known for being rapidly fast, so learners have to ensure that they can catch up.
 
 Even if one gets to finish a program, is the certificate they earned enough to prove what they learned? This would be difficult without accreditation; while this lack of oversight has enabled programs to constantly update their curriculums, it has also lessened their credibility -- which job-seeking students would benefit from. If [graduates already struggle with interviews](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwimzNbgt4vyAhUlgsYKHV49A88QFjACegQIBBAD&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fa-realistic-perspective-of-the-pros-and-cons-of-coding-bootcamps-527a1e4b8fb2&usg=AOvVaw3T-AmBWJhG5OV18mRBlKh-), how else can they ensure that they would be hired?
 
-#### Cultural homogenization
+##### Cultural homogenization
 
 
 https://youtu.be/YCsSKDh8gBg
 
-#### Equity  problems
+##### Equity  problems
 Only those with a decent connection can access?
 
 Encouraging debt with ISAs
 
 Those who are predisposed to succeed (e.g. white, males, college graduates) are those who gain the most from fast food education. Those who need the educational resources the most gain the least
 
-### Critiquing vocationalism? The products of fast food education? Factory outputs?
+#### Critiquing vocationalism? The products of fast food education? Factory outputs?
 > "... The true value proposition of education is employment." - Sebastian Thrun, CEO of Udacity
 
 > Imposing the ==logic of factory production== on education does the same thing as imposing the logic of factory production on any form of work: it transforms creative expression into dull, repetitive drudgery. (From resisting distance learning)
 
 
-### Call-to-action
+#### Call-to-action
