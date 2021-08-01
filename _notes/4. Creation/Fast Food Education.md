@@ -233,16 +233,9 @@ Our global market mandates the idea of universal knowledge, skills, and values. 
 
 (lol insert collage of coding bootcamp landing pages to show how similar they are....get some originality please LMAO)
 
-Unifying patterns
-Templates
-Case study factory
+An example of cultural hemegonization is ["What can we learn from the new generation of designers?"](https://youtu.be/YCsSKDh8gBg), where Lucas Coehlo talks about how he associated "good design" with his Euro-centric aesthetic of minimalist design, and was only able to question it because of a PoC junior. Who can blame him? Abundant white space may be a standard for quality design, but it can't be afforded by low-end magazines and East Asian media. Many design theories also happen to come from white males born decades ago. Due to standardization and fast pacing, fast food education programs limits their students' perspectives.
 
-Westernizing cultures
-English
-Design standards
-https://youtu.be/YCsSKDh8gBg
-
-Everyone is the same...how to stand out?
+Their expression is also limited; student projects are often made with structured templates. For instance, ["The case study factory"](https://essays.uxdesign.cc/case-study-factory/) discusses how formulaic case studies make it difficult to diffrentiate UX/UI designers from one another. These studies may demonstrate the students' ability to follow the design process, but not their unique thinking, skills, and point of view. Having English as the main language adds to this. Minorities who aren't able to communicate well in it are sure to struggle, even if they are proficient in the craft. Overall, standardized education leads to standardized outputs; those who can't comply to those standards will be seen as of "lesser quality".
 
 ##### Equity  problems
 Only those with a decent connection can access?
