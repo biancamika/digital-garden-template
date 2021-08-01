@@ -238,25 +238,21 @@ An example of cultural hemegonization is ["What can we learn from the new genera
 Their expression is also limited; student projects are often made with structured templates. For instance, ["The case study factory"](https://essays.uxdesign.cc/case-study-factory/) discusses how formulaic case studies make it difficult to diffrentiate UX/UI designers from one another. These studies may demonstrate the students' ability to follow the design process, but not their unique thinking, skills, and point of view. Having English as the main language adds to this. Minorities who aren't able to communicate well in it are sure to struggle, even if they are proficient in the craft. Overall, standardized education leads to standardized outputs; those who can't comply to those standards will be seen as of "lesser quality".
 
 ##### Equity problems
-Fast food education may be more accessible to more people, but is it equitable? According to education researchers Mimi Ito and Justin Reich, digital learning technologies actually exacerbate inequality in learning outcomes in terms of class, race, and gender. They also unintentionally reproduce inequality, thanks to bias and social distance between developers and users. (See [[Digital learning exacerbates and reproduces inequality]])
+Fast food education may be more accessible to more people, but is it equitable? According to education researchers Mimi Ito and Justin Reich, digital learning technologies actually exacerbate inequality in learning outcomes in terms of class, race, and gender. They also unintentionally reproduce inequality, thanks to bias and social distance between creators and users. (See [[Digital learning exacerbates and reproduces inequality]])
+
+Sociologist Paul Attwell argues that inequalities operate at two levels: the first and second digital divides. The former divide is about access: who is able to get devices, software, connectivity, and other forms of technology. To those without reliable internet (from [Seattle](https://www.seattletimes.com/seattle-news/disconnected-in-isolation-how-the-coronavirus-pandemic-shed-light-on-the-digital-divide/) to [Southeast Asia](https://phys.org/news/2020-03-lack-internet-access-southeast-asia.html)), remote learning is a far-off opportunity. The latter divide is about leverage; when poor and affulent students are given the same technologies, the former tend to use it for basic skills, while the latter were using it for higher forms of learning. Those who enroll in [MOOCs](https://outline.com/V2LCFh) and [bootcamps](https://www.insidehighered.com/views/2017/08/29/essay-how-coding-boot-camps-are-add-college-degree) tend to be well-off college graduates who already have jobs.
+
+Money is also a barrier. Despite being marketed as the "more affordable" option, [bootcamps can cost in the range of $5,000 to $20,000](https://careerkarma.com/blog/bootcamp-market-report-2021/#bootcamp-costs-and-financing) — nothing to cough at. Even the way cheaper [MOOCs are used to advertise higher priced professional programs](https://www.forbes.com/sites/dereknewton/2018/11/19/beware-of-the-great-mooc-bait-and-switch/?sh=16d6f5c312f2). Income sharing agreements are marketed as an accessible option to those who aren't able to pay full price, but people need to be warned that ISAs are just another form of student debt; [Senator Elizabeth Warren](https://www.warren.senate.gov/imo/media/doc/Letter%20to%20DeVos%20re%20ISAs.pdf) says that these carry many of the pitfalls of private student loans "with the added danger of deceptive rhetoric and marketing that obscure their true nature". Just because students get to study for free doesn't mean it didn't cost them. [A report on Lambda School students](https://www.theverge.com/2020/2/11/21131848/lambda-school-coding-bootcamp-isa-tuition-cost-free) showed that some quit their jobs to attend full-time, while others worked nights and weekends in order to make ends meet. Many also admitted to struggling with mental health problems. When students have to deal with looming debt and [dubious placement outcomes](https://techbeacon.com/app-dev-testing/bootcamps-wont-make-you-coder-heres-what-will-0), who can blame them for being disstressed?
 
 
-Sociologist Paul Attwell argues that inequalities operate at two levels: the first and second digital divides. The former divide is about access: who is able to get devices, software, connectivity, and other forms of technology. For example, to those without reliable internet (from [Seattle](https://www.seattletimes.com/seattle-news/disconnected-in-isolation-how-the-coronavirus-pandemic-shed-light-on-the-digital-divide/) to [Southeast Asia](https://phys.org/news/2020-03-lack-internet-access-southeast-asia.html)), remote learning is a far-off opportunity. The latter divide is about leverage: affulent students are able to use the same technologies in order to get richer forms of learning + mentorship.
-
-Technology; Only those with a decent connection can access?
-
-Money
-Expensive
-Encouraging debt with ISAs + dubious placement outcomes, see lambda
-
-According to [Konnikova](https://outline.com/V2LCFh), that most who enroll in MOOCs are well-educated youth from developed countries who already had jobs. And the ones who were most likely to succeed in these courses were those who already succeeded academically. 
-
-Those who are predisposed to succeed are those who gain the most from fast food education. Those who need the educational resources the most gain the least
+Fast food education was created for a honorable purpose: to bring learning to those who couldn't access it. However, after years have passed, very little has changed. Those who gain the most from these programs are those who are predisposed to succeed. Meanwhile, those who need educational resources the most gain the least. Why is this way?
 
 #### Critiquing vocationalism? The products of fast food education? Factory outputs?
 > "... The true value proposition of education is employment." - Sebastian Thrun, CEO of Udacity
 
 > Imposing the ==logic of factory production== on education does the same thing as imposing the logic of factory production on any form of work: it transforms creative expression into dull, repetitive drudgery. (From resisting distance learning)
+
+People just replacing people
 
 
 #### Call-to-action
