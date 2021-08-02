@@ -175,6 +175,7 @@ See [Kinopio mindmap](https://kinopio.club/fast-food-education-fUOWDPOF9YLGxgHyR
 ## Writing 
 ### Draft
 Fast food education is another term for vocational education programmes that are prominent in the edtech industry. They're known for their short timeframe, accessible costs, and up-to-date curriculum -- promising you a career that liberal education couldn't guarantee. For this essay, I'll be focusing on two types of fast food education: compressed courses like MooCs and micro-credentials, and skills-based intensives such as bootcamps and cohort-based courses.
+
 ### Current
 Introduction paragraphs (1-2) here with hook and thesis
 #### What is fast food education?
@@ -224,7 +225,7 @@ Our global market mandates the idea of universal knowledge, skills, and values. 
 
 An example of cultural hemegonization is ["What can we learn from the new generation of designers?"](https://youtu.be/YCsSKDh8gBg), where Lucas Coehlo talks about how he associated "good design" with his Euro-centric aesthetic of minimalist design, and was only able to question it because of a PoC junior. Who can blame him? Abundant white space may be a standard for quality design, but it can't be afforded by low-end magazines and East Asian media. Many design theories also happen to come from white males born decades ago. Due to standardization and fast pacing, fast food education programs limits their students' perspectives.
 
-Their expression is also limited; student projects are often made with structured templates. For instance, ["The case study factory"](https://essays.uxdesign.cc/case-study-factory/) discusses how formulaic case studies make it difficult to diffrentiate UX/UI designers from one another. These studies may demonstrate the students' ability to follow the design process, but not their unique thinking, skills, and point of view. Having English as the main language adds to this. Minorities who aren't able to communicate well in it are sure to struggle, even if they are proficient in the craft. Overall, standardized education leads to standardized outputs; those who can't comply to those standards will be seen as of "lesser quality".
+Their expression is also limited; student projects are often made with structured templates. For instance, ["The case study factory"](https://essays.uxdesign.cc/case-study-factory/) discusses how formulaic case studies make it difficult to diffrentiate UX/UI designers from one another. These studies may demonstrate the students' ability to follow the design process, but not their unique thinking, skills, and point of view. Having English as the main language adds to this. Minorities who aren't able to communicate well in it are sure to struggle, even if they are proficient in the craft. Overall, even if [imposing the logic of factory production on education kills creativity](http://bostonreview.net/forum/higher-education-age-coronavirus/r-h-lossin-andy-battle-resisting-distance-learning), those who fail comply to set standards will be seen as of "lesser quality".
 
 ##### Equity problems
 Fast food education may be more accessible to more people, but is it equitable? According to education researchers Mimi Ito and Justin Reich, digital learning technologies actually exacerbate inequality in learning outcomes in terms of class, race, and gender. They also unintentionally reproduce inequality, thanks to bias and social distance between creators and users. (See [[Digital learning exacerbates and reproduces inequality]])
@@ -236,20 +237,29 @@ Money is also a barrier. Despite being marketed as the "more affordable" option,
 
 These programs were created for a honorable purpose: to bring learning to those who couldn't access it. However, after years have passed, very little has changed. Those who gain the most from these programs are those who are predisposed to succeed. Meanwhile, those who need educational resources the most gain the least. Why is it this way? Where did we go wrong?
 
-#### Critiquing vocationalism? The products of fast food education? Factory outputs?
-> "... The true value proposition of education is employment." - Sebastian Thrun, CEO of Udacity
+#### System over student
+Remember: fast food education is designed to benefit the system, not the student. This system is [Lower Ed](https://tressiemc.com/uncategorized/the-lower-ed-ecosystem-bootcamps-edition/): a term coined by writer Tressie McMillian Cottom to refer to a sociological process of credentialism; its ecosystem includes programs such as microcredentials and bootcamps. According to her, Lower Ed was created by structural changes in the way we work, unequal access to liberal education programs, and the risk shift of job training from institutions to individuals for profit. Thus, it's exploitative in nature; it makes use of students' faith in education without challenging its market imperatives, and maintains race, class, and gender inequalities. 
 
-> Imposing the ==logic of factory production== on education does the same thing as imposing the logic of factory production on any form of work: it transforms creative expression into dull, repetitive drudgery. (From resisting distance learning)
+Students also lose out because of the curricula.  Its focus on hard skills and technical competencies is effective for producing workers, not well-rounded people. After all, according to [Udacity CEO Sebastian Thrun](https://www.fastcompany.com/3021473/udacity-sebastian-thrun-uphill-climb), "... the true value proposition of education is employment." Yes, these programs may be great at creating jobs and boosting the economy. But their students are unable to think for themselves, leaving them condemned to forever serve their industrial and corporate bosses. 
 
-Remember: fast food education is designed to benefit the system, not the student. 
+Yet, the students think of themselves as [saviors](https://www.stanforddaily.com/2018/02/16/silicon-valleys-saviorism-problem/). Living in a world where technical skills are sought after has led them to believe that they know what's best for others, especially marginalized communities. But the savior mindset is patronizing; it assumes that people are helpless just because they lack technical skills. Making solutions *for*, and not *with* people in need only ends up hurting them, perpetuating existing inequalities. ==opportunity for some nice tech x religion imagery here... startup bible...lol==
 
-fast food education is ineffective for large scale changes; 
-People just replacing people
-
-What is the status quo being maintained? Western technocracy
-https://modesofcriticism.org/the-imperial-code/
-Maximize efficiency and profitsbility at all cost
-Grow talent pipeline, increase skill level of current employees -> industry/coroorate
-Will more workers necessarily change that?
+Overall, fast food education upholds the status quo. Companies keep growing their talent and profits. Technology continues being evangelized like religion. And people keep getting dehumanized. [Researcher Matthew Kiem](https://modesofcriticism.org/the-imperial-code/) states that those who are technical are divided according to their dispensability; worse are those who aren't technical at all, seen as deficient.
 
 #### Call-to-action
+> “I insist that the object of all true education is not to make people carpenters, it is to make carpenters people.
+—W. E. B. Du Bois, The Talented Tenth”
+
+Fast food education is 
+Case study of Tech Learning Collective, an anti-bootcamp
+
+Foundations
+
+Critical thinking
+Inherently political
+Cybersecuritt
+Social transformation
+
+True innovation
+Think outside the box
+We cannot be packaged
