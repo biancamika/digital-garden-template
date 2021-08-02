@@ -149,17 +149,7 @@ See [Kinopio mindmap](https://kinopio.club/fast-food-education-fUOWDPOF9YLGxgHyR
 	2. Types (will just be focusing on these since they're the ones most prominent in edtech industry)
 		1. MOOCs and online micro-credentials
 		2. Skills-based short courses
-	3. Variables (See [[In Online Ed Content Is No Longer King - Cohorts Are - Literature Notes]])
-		1. Logistics
-			1. Timing
-			2. Cost
-		2. Learning Experience
-			1. Approach
-			2. Ideal Topics
-			3. Student Interaction
-			4. Modality
-			5. Instructor Engagement
-	4. What led to its rise?
+	3. What led to its rise?
 		1. Ancient institutions
 		2. Talent economy
 		3. Spurred by global pandemic
@@ -216,10 +206,9 @@ The third education revolution is more pronounced in the Global South, especiall
 Overall, technological and economic developments have pushed people to pursue lifelong learning, but traditional institutions are unable to respond to the high demand due to expensive costs, long timeframes, and slow adaptation. In a [global Pearson study](https://monitor.icef.com/2019/10/global-survey-reveals-growing-interest-in-shorter-programmes-and-lifelong-learning/), less than six in ten respondents felt that their country's education system worked well for the current generation; more than four in ten respondents (in affulent countries like Australia, Canada, and the US) believed that higher education did not prepare them for their career. Now is a perfect time for disruption, which is why fast food education is currently thriving. 
 
 #### Empowerment or exploitation?
-There's no denying the benefits of fast food education.
+There's no denying the benefits of fast food education. Compared to liberal education, it's more affordable in terms of time and cost spent. Its remote nature also opens it to people all over the world. The increased accessibility helps educate, train, and empower populations previously denied access to similar opportunities, like the Global South. This also reduces the magnitude of "brain drain" by allowing students to gain expertise locally, instead of having to migrate. As a result, the number of countries' highly skilled workers can be increased.
 
-
-But no matter how much [[McDonaldization]] tries to rationalize education, there are bound to be irrational outcomes. Ritzer says: "...Rational systems are unreasonable systems...they deny the basic humanity, the human reason, of the people who work within or are served by them." Aside from dehumanization, other irrationalities can occur (e.g. overquantification resulting to low quality). Here are the cons of fast food education:
+But no matter how much education is rationalized, there are bound to be irrational outcomes. Ritzer says: "...Rational systems are unreasonable systems...they deny the basic humanity, the human reason, of the people who work within or are served by them." Aside from dehumanization, other irrationalities can occur (e.g. overquantification resulting to low quality). Here are the cons of fast food education:
 
 ##### Questionable quality
 In exchange for accessibility, fast food education is known for lower quality, from what is taught to how it is taught. Since it has a short timeframe, it can only focus on teaching practical skills and methods. For example: programs that teach code [favor convention over configuration (frameworks over fundamentals)](https://techbeacon.com/app-dev-testing/bootcamps-wont-make-you-coder-heres-what-will-0), while those that teach UX design [skip foundational disciplines like anthropology and art history](https://essays.uxdesign.cc/case-study-factory/). These programs' curriculums aren't only lacking; they also have the danger of being unreliable. See Lambda School, who was criticized by their students for [constantly changing lesson plans and relying on free training materials](https://www.theverge.com/2020/2/11/21131848/lambda-school-coding-bootcamp-isa-tuition-cost-free).
