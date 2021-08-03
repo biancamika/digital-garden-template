@@ -113,6 +113,8 @@ Global South
 
 Apprenticeships, bootcamps, MOOCs, and more: all of these alternative education options are  part of the trend I call "Fast Food Education". Now that it's rising in the Global South, I want to explore its potential to both empower and exploit students.
 
+Hungry for knowledge? Food for thought
+
 ## Outline
 See [Kinopio mindmap](https://kinopio.club/fast-food-education-fUOWDPOF9YLGxgHyR8EVj)
 ### Draft 1
@@ -173,11 +175,8 @@ See [Kinopio mindmap](https://kinopio.club/fast-food-education-fUOWDPOF9YLGxgHyR
 	2. [[The object of true education is to make people]]
 
 ## Writing 
-### Draft
-Fast food education is another term for vocational education programmes that are prominent in the edtech industry. They're known for their short timeframe, accessible costs, and up-to-date curriculum -- promising you a career that liberal education couldn't guarantee. For this essay, I'll be focusing on two types of fast food education: compressed courses like MooCs and micro-credentials, and skills-based intensives such as bootcamps and cohort-based courses.
-
 ### Current
-Introduction paragraphs (1-2) here with hook and thesis
+We are what we consume, whether it's good for us or not. Here's some food for thought: what have you been mostly spending on during the pandemic? Have you been living on a fast food diet? How about going broke from doom-shopping? Or maybe you're trying to reinvent yourself by taking numerous courses or participating in a bootcamp? Industries are being redefined by speed and scale: fast food, fast fashion, and now fast food education. Powered by technology, it's capable of disrupting the ancient higher education sector. It's great that more people than ever can pursue learning, right? But what is being marketed as empowerment can also be masqueraded exploitation. Let's explore this rising trend, from its origins to its implications.
 #### What is fast food education?
 Fast food education is education influenced by what sociologist George Ritzer calls "[[McDonaldization]]": a rationalization process where principles of the fast food industry are dominating other sectors of society and the world. There are four characteristics of this worldview: efficiency, calculability, predictability, and control.
 
