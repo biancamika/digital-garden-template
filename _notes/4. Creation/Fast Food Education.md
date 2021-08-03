@@ -244,16 +244,13 @@ Students also lose out because of the curricula.  Its focus on hard skills and t
 
 Yet, the students think of themselves as [saviors](https://www.stanforddaily.com/2018/02/16/silicon-valleys-saviorism-problem/). Living in a world where technical skills are sought after has led them to believe that they know what's best for others, especially marginalized communities. But the savior mindset is patronizing; it assumes that people are helpless just because they lack technical skills. Making solutions *for*, and not *with* people in need only ends up hurting them, perpetuating existing inequalities. ==opportunity for some nice tech x religion imagery here... startup bible...lol==
 
-Overall, fast food education upholds the status quo. Companies keep growing their talent and profits. Technology continues being evangelized like religion. And people keep getting dehumanized. [Researcher Matthew Kiem](https://modesofcriticism.org/the-imperial-code/) states that those who are technical are divided according to their dispensability; worse are those who aren't technical at all, seen as deficient.
+Overall, fast food education upholds the status quo. Companies keep growing their talent and profits. Technology continues being evangelized like religion. And people keep getting dehumanized. [Researcher Matthew Kiem](https://modesofcriticism.org/the-imperial-code/) states that those who are technical are divided according to their dispensability; worse are those who aren't technical at all, seen as deficient. It's sad to see that despite being capable of building the future, students are only maintaining this kind of present.
 
 #### Call-to-action
-> “I insist that the object of all true education is not to make people carpenters, it is to make carpenters people.
-—W. E. B. Du Bois, The Talented Tenth”
+"... The object of all true education is not to make [people] carpenters, but to make carpenters [people]," said [sociologist W. E. B. Du Bois](https://glc.yale.edu/talented-tenth-excerpts). This is what fast food education should strive for. Democratizing technical skills is important, but developing these shouldn't be incompatible with cultivating critical thinking in students. To see how this can be achieved, let's take a look at [Tech Learning Collective](https://techlearningcollective.com/), an apprenticeship-based technology school which presents itself as an anti-bootcamp.
 
-Fast food education is 
-Case study of Tech Learning Collective, an anti-bootcamp
-
-Foundations
+One, it's focused on foundational skill building. Instead of immediately teaching a coding language, instructors start with teaching digital infrastructure (e.g. security, networking, system administration).
+Also Interdisciplinary
 
 Critical thinking
 Inherently political
