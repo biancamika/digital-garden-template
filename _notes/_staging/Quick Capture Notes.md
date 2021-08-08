@@ -1,6 +1,12 @@
 ---
 title: Quick Capture Notes
 ---
+## 08/05/21
+**What is your post-tech dream? What would you be doing if you had no material constraints? If you weren't worried about time? If there weren't any ethical obligations to do anything/if the world weren't burning?**
+In my post-tech dream, I'd be an artist, creative technologist, and researcher dedicated to exploring my interests in movement, learning, and technology. Our devices have made us so disconnected from our bodies; I believe that encouraging embodiment through technology will be better for our wellbeing.
+
+**Recommended books? What's the last book that changed your mind in a way that you care about?**
+I can't recommend enough Ted Chiang's short story collections, like "Stories of Your Life and Others" and "Exhalation". Because of him, I fell in love with sci-fi and speculative fiction as a whole; reading these genres have made me a more thoughtful designer and human being.
 ## 07/27/21
 ### Tim Ferris 5 Bullet Friday
 “Be crumbled,
