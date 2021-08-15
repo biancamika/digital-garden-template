@@ -23,3 +23,8 @@ modified: 2021-07-09T01:23:44+08:00
 
 ### Dao
 > Home, I've learned, is where families accumulate things like objects, moments, and most especially, days.
+
+### After Sagada
+> "Whereas remembered images are the *residue* of continuous experience, a photograph isolates the appearances of a disconnected instant." - John Berger
+
+> Consequently, photographs have meaning because we as viewers are "lending it a past and a future." It is an act of lending when we use words to make up for the ambiguity inherently present in all photographs when we as viewers are without access to information about context and orogonal content.
