@@ -5,7 +5,7 @@ title: Fakepixels - Literature Notes
 See [[Fakepixels - Newsletter]]
 #unfinished #literaturenotes 
 ### Vol. 58: Dance me to the end of love
-- [[Cathachresis]] is a statement is so astonishingly wrong that it feels right.
+- [[Catachresis]] is a statement is so astonishingly wrong that it feels right.
 	- It was originally defined by rhetorician Quintilian as ==a transfer of terms from one place to another when no proper word exists.==
 - We're prone to see life as binary -- where only one narrative can triumph over others.
 	- **Inductive:** aims at developing a theory

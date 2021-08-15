@@ -1,5 +1,5 @@
 ---
-title: Cathachresis
+title: Catachresis
 ---
 ## Reference
 - **Source:** [[Tina He]]; [[Fakepixels - Newsletter]]
