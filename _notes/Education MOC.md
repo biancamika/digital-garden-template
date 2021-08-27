@@ -29,3 +29,7 @@ Will tackle  metalearning, edtech, systems surrounding education, etc.
 	+ [[Critical thinking and skill development are not mutually exclusive]]
 	+ [[More access does not translate to more engagement]]
 	+ [[Willpower and motivation is finite]]
+
+**Creation:**
++ [[Fast Food Education]]
++ [[On Digital Gardening]]
