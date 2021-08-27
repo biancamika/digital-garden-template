@@ -1,6 +1,27 @@
 ---
 title: Quick Capture Notes
 ---
+## 08/27/21
+### Reboot Community Spotlight: Nikhil
+**Framework:**
+1. SENSING - info intake, active reading
+2. REASONING - asking questions, applying knowledge, critical thinking
+3. ACTING - learning by doing
+
+You need to be situated, embodied, etc.
+
+**Good pedagogy should help you:**
+1. Give info
+2. Help you think about it
+3. Give opportunities to use it
+
+**Content-format relationship matters**: in math you might read a book to learn theory, reasoning is thinking about it, then you apply it to a problem
+
+**Links:**
++ Verasitium on educational content that prioritizes engagement
++ Tools for Thought Andy link
++ Andy's Why Books Don't Work
++ Newsela
 ## 08/05/21
 **What is your post-tech dream? What would you be doing if you had no material constraints? If you weren't worried about time? If there weren't any ethical obligations to do anything/if the world weren't burning?**
 In my post-tech dream, I'd be an artist, creative technologist, and researcher dedicated to exploring my interests in movement, learning, and technology. Our devices have made us so disconnected from our bodies; I believe that encouraging embodiment through technology will be better for our wellbeing.
