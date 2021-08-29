@@ -28,3 +28,27 @@ modified: 2021-07-09T01:23:44+08:00
 > "Whereas remembered images are the *residue* of continuous experience, a photograph isolates the appearances of a disconnected instant." - John Berger
 
 > Consequently, photographs have meaning because we as viewers are "lending it a past and a future." It is an act of lending when we use words to make up for the ambiguity inherently present in all photographs when we as viewers are without access to information about context and orogonal content.
+
+### 13.
+> ...a form of *essay* was used to denote the weighing of goods for trade. To "essay" a kilo...is then a precursor to how with each endeavor there is tremendous weight.
+
+> A text can be read even when a major piece of information is left undisclosed. We seek to know what is concealed because we notice the traces. Though none of this is distinctly revelatory, it perhaps speaks of a greater importance: the possibility that the presumption is more significant than a confirmation.
+
+> The sign is a structure into which the reader must fit his body. Signs acculturate us. Even before we begin to speak, we are already being spoken for.
+
+### 14. Poetics
+> ...even facts are a result of shaping and molding.
+
+> An essay is not a vessel, but rather a self-inflicted maze.
+
+> ...what we know as facts are really just constructions of the mind and their subsequent articulation into words.
+
+> ...photographs have meaning because we as viewers are "lending it a past and a future." It is an act of lending when we use words to make up for ambiguity inherently present in all photographs when we as viewers are without access towards information about context and original intent.
+
+> - Language constructs the reality perceived, as opposed to expressing a reality already present.
+
+### 18.
+> ...viewing the writing of nonfiction ad not just an opportunity to inform or even inspire, but to impress upon oneself and therefore on others an inquisitive spirit.
+
+> ...the inability to accurately articulate the perception of yourself that you're projecting leaves you suspectible to not realizing the ways with which your world view could be challenged into a fairer portrayal of yourself and a more proactive interrogation of your thought processes.
+
