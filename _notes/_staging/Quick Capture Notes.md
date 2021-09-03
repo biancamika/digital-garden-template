@@ -1,6 +1,31 @@
 ---
 title: Quick Capture Notes
 ---
+## Alex Tan
+> If something is naturally familiar, make it surprising. If something is too surprising, find small ways to make it familiar. - Ryan Loewy
+
+**Charles Eames Notes:**
+>  Study well objects made past recent and ancient but never without the technological and social conditions responsible
+
+> Prepare yourself to search out the true need—physical, psychological
+> Prepare yourself to intelligently fill that need
+
+> The art is not something you apply to your work
+> The art is the way you do your work, a result of your attitude toward it
+
+> Design is a full time job
+> It is the way you look at politics, funny papers, listen to music, raise children
+
+> Art is not a thing in a vacuum—
+> No personal signature
+> Economy of material
+> Avoid the contrived
+
+> Primitive spear is not the work of an individual nor is a good tool or utensil.
+
+> To be a good designer you must be a good engineer in every sense: curious, inquisitive.
+
+
 ## 09/01/21
 ### SoGal
 > "Three types of capital — human, financial and social — are the underpinnings of entrepreneurial success. Human capital is found in skills, business knowledge and experience. Financial capital is necessary to fund enterprises. Social capital offers a reservoir of shared information and resources available through relationships." -- Forbes

@@ -74,6 +74,40 @@ title: Are We Human - Resource Notes
 
 > The body itself is only human by virtue of technology: "the human hand is human because of what it makes, not of what it is."
 
+> The human brain is therefore an effect of new tools rather than the generator of new tools.
+
+> ...a tool is not produced to carry out a defined utilitarian task. Tools are born as challenges to existing concepts of utility. They open up new understandings of what could be useful. Utility is not a given unambiguous need. Ambiguity about utility is what drives new forms of utility.
+
+> ...the main driver of human accomplishment is simply a unique human capacity for variability, an impulse to generate a multiciplity of ways to do things in reaction to different cirumstances...this variability itself can be understood as design capacity...Humans continuously imagine different ways even in the same context, to the point of malfunction.
+
+> The human brain itself is a malleable artifact whose circuits are continually rearranged through engagement with material culture. It is an unfinished project with a forever uncertain future and an equally uncertain beginning.
+
+> Design is by definition unevenly distributed in space and time, often flickering as some innovations disappear for a very long time only to be reinvented again.
+
+> The human is permanently suspended between being the cause and effect, between designing living things and being designed by them.
+
+> What is human in the end is neither the designer nor the artifacts but their interdependency.
+
+### 5. The Ornamental Species
+> The symptoms of recognizably human behavior were the sophistication and complexity of tools, symbols, rituals, and techniques. Even then, this acceleration only became exponential in the last 12,000 years, when "humans redesigned themselves as organic beings," as John Hoffecker puts it, with abstract thinking, composite tools, long-distane networks of production and exchange, cooperative labor, and so on. Countless inventions steadily transformed the species and dramatically altered its relationship to the environment through the "domestication (that is, *re*designing) of plants and animals."
+
+> Ornaments are a key symptom of the human ability to externalize its thoughts in symbolic form -- generating and sharing information rather than simply processing it.
+
+> Ornament both marks and expands the human. It is both a sign of the ability to invent and the very mechanism of invention.
+
+> Ornament...is both a tool of communication and the opening to new forms of tool...
+
+> The human is that species that keeps reflecting on the possible uses of its artifacts and communicating these reflections by making new artifacts, flickering back and forth between ornament and tool.
+
+> ...this multiplicity and malleability...is evidence of the capacity to invent that makes us human, that invents the human even.
+
+> ...what is seen as ornament is doing the real work and what looks like a tool is really for show. And the vibration between them is the very engine of design.
+
+> Design routinely constructs digital inequalities...it is everywhere, and it engineers concentrations of wealth and privilege.
+
+### 6. News from Nowhere
+
+
 
 
 
