@@ -9,7 +9,7 @@ Things I'm currently doing!
 	+ Making permanent notes of all the 43893849235 things I've read
 + Penge.design
 + Writing essay on [[Fast Food Education]]
-+ Brainstorming on a new course through Hyperlink...see [[Course Ideation]]
++ Brainstorming on a new course through Hyperlink...see [[Dissecting Digital Design]]
 
 ## Learning
 + UI Patterns
