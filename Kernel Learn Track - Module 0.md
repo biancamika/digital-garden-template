@@ -72,6 +72,7 @@ People who have **positively** changed the world did so because they negotiated 
 + Nicky Case: ==We **are** each other's environment==
 
 ### Curated Readings
+#### Trust Game
 https://ncase.me/trust/
 > "Do unto others as you would have them do unto you", may be not just a ==moral== truth, but also a ==mathematical== truth.
 
@@ -95,3 +96,34 @@ it's that our *environment* acts against the evolution of trust.
 > So, do what you can do, to ==create the conditions necessary to evolve trust.== Build relationships. Find win-wins. Communicate clearly. Maybe then, we can stop firing at each other, get out of our own trenches, cross No Man's Land to come together...
 
 Learn to live and let live.
+
+#### Van Gogh
+https://www.brainpickings.org/2014/12/01/van-gogh-purpose-letter/
+> “it is not necessary to accept the choices handed down to you by life as you know it.”
+
+> On the road that I’m on I must continue; if I do nothing, if I don’t study, if I don’t keep on trying, then I’m lost, then woe betide me. That’s how I see this, to keep on, keep on, that’s what’s needed.
+> But what’s your ultimate goal, you’ll say. ==The goal will become clearer, will take shape slowly and surely==, as the croquis becomes a sketch and the sketch a painting, as one works more seriously, as one digs deeper into the originally vague idea, the first fugitive, passing thought, unless it becomes firm.
+
+You don't need to "find yourself" before beginning your creative journey.
+
+> I’m always inclined to believe that ==the best way of knowing [the divine] is to love a great deal.== Love that friend, that person, that thing, whatever you like, you’ll be on the right path to knowing more thoroughly, afterwards; that’s what I say to myself. But you must love with a high, serious intimate sympathy, with a will, with intelligence, and you must always seek to know more thoroughly, better, and more.
+
+Love is the only conduit to connecting with one’s purpose, with divinity itself
+
+> There are idlers and idlers, who form a contrast.
+> There’s the one who’s an **idler through laziness and weakness of character, through the baseness of his nature**… Then **there’s the other idler, the idler truly despite himself, who is gnawed inwardly by a ==great desire for action==**, who does nothing because he finds it impossible to do anything since he’s imprisoned in something, so to speak, because he doesn’t have what he would need to be productive, because the inevitability of circumstances is reducing him to this point. Such a person doesn’t’ always know himself what he could do, but he feels by instinct, I’m good for something, even so! I feel I have a ==raison d’être==! I know that I could be a quite different man! For what then could I be of use, for what could I serve! There’s something within me, so what is it! That’s an entirely different idler.
+
+> You know, what makes the prison disappear is very deep, serious attachment. To be friends, to be brothers, to love; that opens the prison through sovereign power, through a most powerful spell. But he who doesn’t have that remains in death. **But where sympathy springs up again, life springs up again.**
+
+**Why was this chosen? To help you...**
+1. Ask better quesrions
+2. Think deeply about your intention
+3. How to define both "value" and "trust"
+4. Think about what you're personally doing here...what's your question?
+
+**Food for thought:**
++ How do we handle this tension between improving and being joyfully who we already are?
++ Van Gogh presents tinkering as a better way of being. In our own time, it may not be about building more products for 'consumers', but rather using new **trust spaces** to commune in a different and digital sense.
++ What is in your heart of hearts? You may wonder how relevant this question is, but we cannot build a better web if we do not first understand what it might mean to be better ourselves. And that requires deep enquiry into the nature of self: there is no other way.
++ Do you trust the inner voice? Again, a seemingly abstract question with profound implications for what we actually, in practice, understand trust to be; which is then directly reflected in the kinds of products we build.
++ TL;DR: to build a better web, you must first know how you yourself can be better
