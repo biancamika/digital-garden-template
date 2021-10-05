@@ -60,6 +60,7 @@ the enunciation of truth."
 	+ The core question remains: ==how many people can reliably share in the truth your fiction reveals, for this defines the constraints of what kinds of value can be generated with it.==
 
 ### Narrative
+#society #sociology 
 + The development of human narratives
 	+ Tribal narratives allowed truth to be shared between ~150 people. 
 	+ These evolved into religious myths around the time of the agricultural revolution. 
