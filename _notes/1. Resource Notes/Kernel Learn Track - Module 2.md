@@ -95,3 +95,15 @@ A tamperproof, borderless, ownerless, global record is a new way of simultaneous
 	+ It is a profound change in ==how we regulate expression.==
 + Complementary opposites: See [[Kernel Learn Track - Module 0]]
 > The most effective way to free meaning is to price it correctly.
+
+### Math beats bureaucracy
++ Pricing different kinds of speech appropriately, rather than trying to "protect" a culturally-conditioned ideal, has the ==second-order cybernetic effect of better securing public goods. ==
+	+ Cybernetics is a transdisciplinary and "antidisciplinary" approach concerned with regulatory and purposive systems—their structures, constraints, and possibilities. The core concept of the discipline is ==circular causality or feedback—that is, where the outcomes of actions are taken as inputs for further action.==
+	+ E.G. SSTOREs are a relatively expensive operation/expression because storing data on public networks is costly, and it is a cost borne by all of us.
+		+ Thus, we agree upon a gas price that incentivizes developers to write contracts which store the minimum possible information required for state-changing, meaningful transactions.
++ It could even be said that **there is no such thing as free speech** on freely accessible public blockchains
++ Increasingly costly expression <- increasingly complex kinds of meaning
+	+ Incentives are programmed in such a way that the costs borne by the speaker are always provably more than those imposed on the community of listeners.
+
+### The expanded view
++ The space of **meaningful communications** is greatly expanded
