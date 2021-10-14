@@ -58,3 +58,40 @@ However, "beginner's mind" is not opposed to rational inquiry and the honing of 
 + Accepting honestly your own limitations and inability to understand everything that happens around you creates the space within for curiosity. 
 	+ You can genuinely enjoy never knowing what's going to happen next, which leads to asking questions which come from the heart and go to the heart of the subject being questioned.
 	+  It is, as Paul Myburgh says, ==perceptual rather than conceptual: simple knowledge of things-as-they-are.==
+
+
+## Money and speech
+> "Put your money where your mouth is!"
+
+A tamperproof, borderless, ownerless, global record is a new way of simultaneously ordering both which ==makes possible valuable==, ==meaningful communication== with anyone, anywhere in any way we care to program it. TL;DR: **a new kind of money and language.**
+
+### Magic internet meaning
+
++ Our [narratives](https://kernel.community/en/learn/module-0/conversation) and [financial records](https://kernel.community/en/learn/module-1/value/#narrative) were clearly distinct before 2009
+	+ But share common language from twin practices of [faith and finance](https://kernel.community/en/learn/module-1/playdough-protocols/#faith-and-finance)
++ Money as a programmable protocol that relies on a **shared record** no-one owns is a development of the *order* of language
+	+ Collapses distinction between ==narratives around which we organize== and ==our record of societal debt==
++ Meaningful communication is a balance between the ==fact that your *ability* to speak ought to be free==, with the ==fact that you don't get to say whatever you please.==
+	+ Freedom of speech enshrined as a constitutional good
+	+ Implement error-handling for exceptions like hate speech and defamation
++ Your ability to [access the network](https://kernel.community/en/learn/module-0/money-language/#open-protocols-and-a-network-of-value) (like TCP/IP) is free in all senses, ==requiring only a connection that can support you speaking in the same language as your peers. ==
+	+ Protocols capable of processing valuable narratives (e.g. Bitcoin and Ehereum) render interperive balancing acts (negotiation, communication) unnecessary
+	+ Saying anything *meaningful* (i.e. state-changing) has a specific, well-defined economic cost, captured in transaction fees which accrue to the benefit of those who "listen" to what you have to say.
++ The **primary benefit** of this new order of econo-linguistic network we now communicate with: 
+	+ everyone is simultaneously free to speak 
+	+ the cost of any kind of meaningful speech is well-defined everywhere. 
++ We are also provided with a clear definition of meaning: ==any speech act which changes the state of our shared record.==
+
+### Regulation vs expense
++ In blockchains, speech and execution are *one and the same thing* and interpretation is deterministic.
++ Protocol has bare minimum of rules required for consensus
+	+ You cannot double spend a token
+	+ Every peer processes every transaction which passes these rules without fear or favor
++ The context is determined not by legal interpretation, but by **economics.**
+	+ Enshrining an ideal like "free speech" which we agree is good -> certain behaviours we agree to be malicious are made prohibitively expensive
+	+ They are not disallowed, just economically unsustainable, in much the same way that ==prevention is better than any cure.==
+	+ Related: Vitalik's [Devcon 1](https://kernel.community/en/learn/module-1/understanding-ethereum/) talk
++ [Programming penalties rather than rewards](https://kernel.community/en/learn/module-6/serenity/#proving-stake) ensures that the only state transitions worth validating are those that maintain a meaningful consensus. 
+	+ It is a profound change in ==how we regulate expression.==
++ Complementary opposites: See [[Kernel Learn Track - Module 0]]
+> The most effective way to free meaning is to price it correctly.
