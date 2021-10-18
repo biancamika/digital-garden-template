@@ -106,4 +106,24 @@ A tamperproof, borderless, ownerless, global record is a new way of simultaneous
 	+ Incentives are programmed in such a way that the costs borne by the speaker are always provably more than those imposed on the community of listeners.
 
 ### The expanded view
-+ The space of **meaningful communications** is greatly expanded
++ The space of **meaningful communications** is greatly expanded when we stop "protecting" free speech
+	+ price any speech act according to a ==set of explicit consensus rules== we all agree to follow
++ We can **program** our shared ledger in any way we care to
+	+ Favoring those in power = lack of creativity
+	+ E.G. Gitcoin Grants and Quadratic Funding: a speech act which donates $1 to a cause can have nearly as great an effect as a donation two orders of magnitude larger, because we've [modelled clearly the most optimal way](https://kernel.community/en/learn/module-4/liberal-radical/#optimal-gathering) to fund public goods.
+
+> When there is nothing to protect, we no longer need guards. Without guards, the digital world is not about captive audiences, but ==creative participation.==
+
+
+### Clarifying metaphors
+Despite the descriptive limitations of natural language faced with such a construction, we can still be precise about the exceptions to free speech 
+1. **Hate speech** (analogous to malicious behaviour or outright attacks on the network) can be more elegantly handled when you are required to have [value-at-a-loss](https://kernel.community/en/learn/module-6/serenity/#a-defenders-game) to speak meaningfully.
+	1. If you then violate rules which are not just social norms, but executable software, ==that value is slashed simultaneously with your speech== and you suffer provably more damage.
+2. **Defamation** comes in two flavours: *per se* (a statement that is obviously defamatory) and *per quod* (the defamatory implication must be proven).
+	1. **Per se** defamation can be more elegantly handled by [mechanisms](https://our.status.im/discover-a-brave-new-curve/) like that which runs [dap.ps](https://dap.ps/). Anyone can vote in a way which "defames" a product or service, but that vote is also an economic signal denoted in tokens, which are sent straight back to the product or service. So, your downvote causes reputational damage while simultaneously repaying the people you're damaging (programmed according to a curve which makes votes cheaper the richer/higher the rank of whomever you're voting on is).
+	2. **Per quod** defamation can be more elegantly handled either by some version of [negative votes](https://gitcoin.co/blog/gitcoin-grants-round-5-funding-our-future/) Gitcoin Grants is currently iterating over, or by reputational systems - hopefully [using profiles and actions](https://kernel.community/en/learn/module-4/self-enquiry/#identity-we-can-live-with) - yet to launch.
+3. The (in)famous [EIP-1559](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md) is a great example of how we price transactional expression at the protocol level, which is where the most contentious [debates](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-2593.md) occur. Note, however, how such debate centres not on opinion, but engineering [trade-offs](https://kernel.community/en/learn/module-4/consensus/#1-lack-of-disagreement-is-more-important-than-agreement) and technical proof.
+
+This new order of communication, akin to the appearance of language itself, is best demonstrated by:
++ you need only memorize 12 magical **words**, incant them into an internet-connected machine and you gain immediate access to **monetary value**, anywhere in the world. 
++ One can even encode a reference to a newspaper headline in the genesis block of a network of timestamp servers (Satoshi's wording) which run money-as-a-protocol to make a permanent political statement. 
