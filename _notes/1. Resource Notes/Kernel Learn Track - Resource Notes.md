@@ -3,8 +3,7 @@ title: KERNEL Learn Track - Resource Notes
 ---
 ## Reference
 - **Source:** [[Kernel]]
-- **Keywords:** [[permanent notes]]
-- **Relevant Notes:** [[Kernel Learn Track - Literature Notes]]
+- **Keywords:** [[permanent notes]
 ## Notes
 [[Kernel Learn Track - Module 0]]
 [[Kernel Learn Track - Module 1]]
