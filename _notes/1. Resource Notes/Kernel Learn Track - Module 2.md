@@ -127,3 +127,45 @@ Despite the descriptive limitations of natural language faced with such a constr
 This new order of communication, akin to the appearance of language itself, is best demonstrated by:
 + you need only memorize 12 magical **words**, incant them into an internet-connected machine and you gain immediate access to **monetary value**, anywhere in the world. 
 + One can even encode a reference to a newspaper headline in the genesis block of a network of timestamp servers (Satoshi's wording) which run money-as-a-protocol to make a permanent political statement. 
+
+## Recollecting Our Origins
+[Shelling Out](https://nakamotoinstitute.org/shelling-out/)
+### How does this fit into Kernel?
+1. Reciprocal altruism and the problem of cooperation.
+2. The deep evolutionary links between **money**, mnemonics and genetic, generational memory.
+3. The importance of **incentive structures** to greater cooperation throughout human history.
+4. 
+How money has been used in situations of low **trust** to enable trade that would otherwise not have occurred.
+
+### Brief
+> "The precursors of money, along with language, enabled early modern humans to solve problems of cooperation that other animals cannot – including ==problems of reciprocal altruism, kin altruism, and the mitigation of aggression.== These precursors shared with non-fiat currencies very specific characteristics – they were not merely symbolic or decorative objects."
+
+Szabo begins with a story about the problems faced by the early colonists of America, who had limited access to the "coin of the realm", which was used to ensure they remained loyal subjects of the crown. They solved this by adopting the form of money used by the majority of Native Americans: wampum (or clam) shells. This strategy was so successful, and trade in wampum so widely accepted, that wampum became legal tender in New England from 1637 to 1661. Eventually the British shipped more coins to America and this practice ceased.
+
+The language of money takes us back to well before recorded history, right to the very roots of homo sapiens sapiens, the wise ape capable of complex communication and its concomitant: ==the calculation of value.==
+
+The precursors to money as we know it were used by people across the world to solve problems of **cooperation** in situations of low **trust**.
+
+### Reciprocal altruism
+These strings of regular shells and other items may also have been used to satisfy our aesthetic tastes - made for sheer enjoyment. Far from an explanation, this raises a problem for evolutionary psychologists: why do people find the collection and wearing of jewelry enjoyable? What caused this pleasure to evolve? The critical question in all the theory is: **how did cooperative strategies evolve?**
+
+> "We will see that some humans, too, chose highly risky and discontinuous prey items, and shared the resulting surpluses with non-kin. Indeed, they accomplished this to a far greater extent than the vampire bat [...] Dawkins suggests, **"money is a formal token of ==delayed reciprocal altruism=="**, but then pursues this fascinating idea no further. We will."
+
+We've established through Antonopoulos that [money is a language](https://kernel.community/en/learn/module-0/money-language) for communicating value, and that it was used long before writing was developed. This is now pushing to the heart of why language itself is useful at the biological, genetic level of our evolution: it fosters cooperation. In more technical terms, it allows us to overcome the value measurement problem - i.e. if you scratch my back in return for a piece of fruit, how long must you scratch for; how many ticks should you find; how big must the piece of fruit be; how do we remember who owes what in the case of delayed reciprocity? The cognitive overhead implied by this problem has never been overcome, except by *homo sapiens.*
+
+> "If clams can be money, furs can be money, gold can be money, and so on – if money is not just coins or notes issued by a government under legal tender laws, but rather can be a wide variety of objects – then just what is money anyway?"
+
+
+Money as a formal token of delayed reciprocal altruism, as an abstraction, and as a language has allowed human beings to overcome **==the value measurement problem.==**
+
+> "With money, there are only **n** prices – 500 products, 500 prices. Money for this purpose can work either as a medium of exchange or simply as a standard of value – as long as the number of money prices themselves do not grow too large to memorize or change too often."
+
+Szabo goes on to define early forms of money like wampum shells as "collectibles" and uses this to illustrate why "people, clans or tribes trade voluntarily: because ==both sides believe they gain something.==" Trade benefits from ==lowered transaction costs==, which are exactly where collectibles serve usefully, apart from their aesthetic or sentimental value. He describes:
+
+> "==how collectibles lowered transaction costs in each kind of wealth transfer== – in the voluntary free gift of inheritance, in voluntary mutual trade or marriage, and in the involuntary transfers of legal judgments and tribute [...] Durable collectibles, what today we would call heirlooms, could persist for many generations and added substantial value at each transfer – often making the transfer even possible at all."
+
+> "The Kula valuables doubled as "high power" money and **mnemonic for stories and gossip.** Many of the goods traded, mostly agricultural products, were available in different seasons, and so could not be traded in kind. Kula collectibles solved this ==double-coincidence problem== as an unforgeabaly costly, wearable (for security), and circulated (literally!) money. Necklaces circulated clockwise, and armshells counter-clockwise, in a very regular pattern."
+
+> 💡 ==Communicating value and transferring it are one and the same thing==; it's just that media which are not perfect abstractions - which have their own, intrinsic value - obfuscate this essential fact.
+
+The primary benefit of using collectibles, with embedded narratives, as money is **lowered transaction costs.**
