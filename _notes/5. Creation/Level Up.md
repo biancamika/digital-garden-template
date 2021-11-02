@@ -1,6 +1,9 @@
 ---
 title: Level Up
 ---
+## Sources
++ [[The Minecraft Generation - Essay]]
+
 ## Outline
 1. How internet native youth learn outside of schools
 	1. How current institutions fail them

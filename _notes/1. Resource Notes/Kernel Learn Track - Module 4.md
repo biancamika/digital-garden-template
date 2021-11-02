@@ -102,5 +102,47 @@ By this.*
 + If individuals contribute to the public goods they use **and** the funding principle underlying the market is nonlinear, then we can make sure that "==small contributions are heavily subsidized== (as these are the most likely to be distorted by free-riding incentives) while ==large ones are least subsidized==, as these are more likely private goods."
 
 ### Capitalizing
++ Classical capitalism deals poorly with public goods problems because each individual, if she acts selfishly, ==only accounts for her own benefits and not the benefits to all others.==
+	+ We can do better now that we have a world computer which allows us to agree always on the history and validity of our transactions, and which is open to anyone anywhere the internet is.
++ Making optimal decisions about public goods and how to fund them is hard
+	+ [the math](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243656) is as complicated as elliptic curve cryptography.
+	+ we just want to model citizens' ==different preferences==; their ability to make ==negative contributions==; and we don't want to ==assume prior centralized knowledge== about what good to fund.
++ The math just proves that ensuring **"the amount received by the project is (proportional to) the square of the sum of the square roots of contributions"** is the most optimal means of making large-scale economic decisions about public goods. 
+	+ Such a design also means that =="holding fixed the amount of the contribution, the funding received grows as the square of the community size" ==which kicks capitalism's ass, especially when it comes to funding goods on the margin.
+
+TL;DR
+To make optimal collective decisions, the funding principle underlying the market must be ==nonlinear==. This means that it subsidizes **small contributions.**
+This incentivises many such contributions from =="the edge"== of a network, so the funding received grows as the square of the community size.
 
 ### Free Radicals
++ LR does not prejudge the optimal size of communities, but instead =="offers a mechanism that creates truly neutral incentives among social organization of different sizes"==.
++ It also has the property that it "reverts to a standard private good in the case that a single citizen attempts to use the mechanism for her own enrichment."
+
+> "To summarize, the mechanism provides ==much greater funding to many small contributions== than to a few large ones. This is not for any reason of equity or distributive justice, though there may be good reasons from those perspectives to admire the outcome it delivers.
+
++ This is a critical point: ==egalitarianism, or equitable outcome, is a great success metric==: it is not a good design goal (precisely because there are so many ways to measure outcomes). 
+	+ Bitcoin makes no assumptions about equality: it just implements a system for "peer-to-peer electronic payments" in a [credibly neutral](https://nakamoto.com/credible-neutrality/) fashion. 
+	+ The rest is on us, and how we model the most efficient means of using technology.
+
+Liberal Radicalism:
+> "seeks to achieve ==liberal ends in a fundamentally social world.== In this sense it is also 'radical' in the original meaning: it gets to the roots of what liberalism is about, namely an anti-authoritarian commitment to neutrality across ways of living and valuing."
+
+## Transform
+[How Art Can Transform the Internet](https://www.youtube.com/watch?v=783hwpJTjlo)
+
+Art is that which gets us to question value and meaning most deeply. This video - itself a series of artful expressions cut together with digital tools - describes a number of interesting pieces which would not be possible without the internet. It reveals what ==we can craft with careful intention, attention, and a deep appreciation for the meaning of our media environments.==
+
+### Brief
++ Art is not created as you are painting, or writing, or composing, or sculpting, or coding. It occurs when ==your work brings someone else to experience a state of consciousness they would not have otherwise known.==
+	+ Art begins with work which throws a veil over the invisible so its outline may be seen. 
+	+ It is brought to completion in the moment of encounter with an other.
+	+ **Art is both something we do and encounter.**
++ At its best, ==art transmits what cannot be said, or sung, or heard, or felt.==
++ ==Technological innovations in the tools we use to express ourselves often result in significant artistic advances== in sight, perception, philosophy and - ultimately - culture.
+	+ E.G. the invention of metal [ferrules](https://primetimepaint.ca/a-brief-history-of-the-paintbrush/) - the little bit that connects the bristles to the shaft - which led to the flat paint brushes so beloved by Impressionist painters, who used them to capture the effects of light in different environments. 
++ We invite you to question what new realities flat networks for value - which operate by means of a world wide web that enables light-speed communication - will allow us to envision.
+
++ [Mother Earth Mother Board](https://www.wired.com/1996/12/ffglass/): If you want to explore what we're actually throwing a veil over, this is as good a place to start as any.
++ [Artificiality](https://youtu.be/ogFN6ncIaD8): Put the art back in artificiality with Werner Herzog. Search for "The Inner Chronicle of What We Are" if you enjoy this.
++ [The quality of their expressive intention](https://aeon.co/essays/art-like-loss-can-shock-us-into-our-authentic-self)
+
