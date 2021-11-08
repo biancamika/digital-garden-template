@@ -9,7 +9,7 @@ See them all in this essay's [Are.na board](https://www.are.na/bianca-aguilar/le
 + [[The Rise and Fall of Internet Art Communities - Essay]]
 + [[On Roblox Kids Learn Its Hard to Earn Money Making Games - Essay]]
 + [[Capitalism in virtual worlds - Essay]]
-+ [[‘Fortnite’ and ‘Minecraft’ are getting kids excited about learning again - Essay]]
++ [[Fortnite and Minecraft are getting kids excited about learning again - Essay]]
 + [[Why the Metaverse Matters - Essay]]
 + [[13 Principles of Web3 - Thread]]
 + [[A Digtial Yggdrasil - Education as a Public Good - Proposal]]
