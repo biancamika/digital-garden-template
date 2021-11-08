@@ -5,9 +5,9 @@ title: Level Up
 ## Sources
 See them all in this essay's [Are.na board](https://www.are.na/bianca-aguilar/level-up-essay)
 + [[The Minecraft Generation - Essay]]
-+ [[It's time to build - A New World's Fair - Essay]]
++ [[Its time to build - A New Worlds Fair - Essay]]
 + [[The Rise and Fall of Internet Art Communities - Essay]]
-+ [[On Roblox, Kids Learn It’s Hard to Earn Money Making Games - Essay]]
++ [[On Roblox Kids Learn Its Hard to Earn Money Making Games - Essay]]
 + [[Capitalism in virtual worlds - Essay]]
 + [[‘Fortnite’ and ‘Minecraft’ are getting kids excited about learning again - Essay]]
 + [[Why the Metaverse Matters - Essay]]

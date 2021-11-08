@@ -1,5 +1,5 @@
 ---
-title: It's time to build - A New World's Fair - Essay
+title: Its time to build - A New Worlds Fair - Essay
 ---
 ## Information
 - **Source:** [[Cameron Wise]]
