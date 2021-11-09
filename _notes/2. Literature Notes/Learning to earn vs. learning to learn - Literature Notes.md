@@ -1,7 +1,7 @@
 ---
 title: Learning to earn vs. learning to learn - Literature Notes
 ---
-See [[Learning to earn vs. learning to learn - Essay]]
+See [[Learning to earn vs learning to learn - Essay]]
 #literaturenotes 
 
 ## John Dewey
