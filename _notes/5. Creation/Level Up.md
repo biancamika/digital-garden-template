@@ -31,6 +31,7 @@ How can I bring in the idea of an infinite game...
 		2. Most learning is the result of teaching
 	2. How do alternatives such as communities (especially those found in games) serve them?
 		1. Creation
+			1. Creative, exploratory learning is problem-centered
 		2. Collaboration
 2. **How current systems exploit or underserve these youth**
 	1. Games
