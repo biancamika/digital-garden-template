@@ -22,7 +22,8 @@ See them all in this essay's [Are.na board](https://www.are.na/bianca-aguilar/le
 + [[Computers and Creativity - Thesis]]
 + Ughh as much as I don't like Meta... [Education in the metaverse](https://www.youtube.com/watch?v=KLOcj5qvOio)
 
-## Outline
+## Outlines
+### Draft 1
 How can I bring in the idea of an infinite game...
 
 1. **How internet native youth learn outside of schools**
@@ -76,3 +77,48 @@ How can I bring in the idea of an infinite game...
 			2. 	Free/open-source syllabi
 				1. Anyone can contribute materials and get rewarded
 				2. Everyone's always remixing...building on each other's works
+
+### Draft 2
+
+1. **How digital natives learn outside of schools**
+	1. Introduction
+		1. "You'll find the future wherever people are having the most fun." - Steven Johnson, *Wonderland: How Play Made the Modern World*
+		2. Talk about own personal story 
+			1. As a kid, I had fun in the Internet through games and art communities -> all about creation
+			2. E.G. creating graphics, roleplaying -> creating stories
+			3. Transition to present time, where I'm benefitting from skills I gained through fun exploration, not structured education (i.e. art and design)
+		3. Now, I see kids around me growing the same way... (cite examples)
+			1. future developers learning programming through games like Roblox + Minecraft
+			2. future artists practicing drawing + marketing through fandom communities in Twitter, Tumblr, Discord, etc.
+		4. These [Present-day hobbies will seed future industries](https://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years)
+		5. So why aren't these hobbies taken seriously? It's because schools are still seen as the #1 venue of a person's development. However, there's more to learning than what can be found in school; here's how schools fail students, and how online spaces can make up for this — especially those powered by web3.
+	4. How do schools fail students?
+		1. Packaging instruction with certification; linking instruction (not learning) to social role assignment
+		2. Most learning is the result of teaching
+	5. How do alternatives such as communities (especially those found in games) serve them?
+2. However, current systems still exploit or underserve these youth, just like in education
+3. **Finite -> infinite games**
+	1. Recap: I believe that the youth learn best in games (after all, we humans are Homo Ludens — born players). But I don't necessarily mean indicate video games. I'm talking about something more abstract: the games we play in life. 
+	2. According to James Carse, there are two types of games: finite, which is played for the purpose of winning, and infinite, which is played for the purpose of continuing play. 
+	3. Thanks to society, most of us are playing finite games
+		1. Players have to parade around their wealth and status
+		2. Examples
+			1. URL
+				1.  reaching the top of leaderboards
+				2.  getting reach: X followers, X likes, X shares, etc...
+			2. IRL 
+				1. scoring the highest salary
+				2. founding the next top startup  
+		3. This has been encouraged by our existing educational environments
+			1. Schools
+			2. Even online platforms
+	4. It's time for us to approach life as an infinite game
+		1. The pursuit of excellence is a positive-sum game, with no finish line and no losers.
+		2. Examples (according to [Kevin Kelly](https://wiki.p2pfoundation.net/Finite_vs._Infinite_Games))
+			1. Evolution, life, mind, and the technium (accumulation of inventions that humans have created)
+			2. The things in life we love most -- including life itself -- are infinite games.
+		3. Instead of playing within boundaries, players play with the boundaries.
+			1. May Li Khoe: instead of thinking of life as a series of checks, see it as a canvas which you can paint anyway you like. the status quo needs to change, and life is short. Thus, we need to [joyfully subvert the status quo](https://kernel.community/en/learn/module-1/joyful-subversion/) 
+		4. Creation + collaboration > quantification + competition
+		5. I believe that Web3 is the key to this shift
+4. **Why and how we could benefit from a Web3 powered future**
