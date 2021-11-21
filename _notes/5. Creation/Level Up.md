@@ -94,9 +94,33 @@ How can I bring in the idea of an infinite game...
 		5. So why aren't these hobbies taken seriously? It's because schools are still seen as the #1 venue of a person's development. However, there's more to learning than what can be found in school; here's how schools fail students, and how online spaces can make up for this — especially those powered by web3.
 	4. How do schools fail students?
 		1. Packaging instruction with certification; linking instruction (not learning) to social role assignment
-		2. Most learning is the result of teaching
+			1. Definitions
+				1. Learning = acquiring new skill/insight 
+				2. Promotion = social role assignment, depends on others' opinions
+				3. Instruction = choice of circumstances that facilitate learning
+			2. With school, role assignment is linked to instruction, not learning
+				1. Done through a curriculum of conditions a student must meet (i.e grades)
+				2. Not reasonable: doesn't link relevant competencies to roles, but instead the process by which these are acquired
+				3. Not liberating: those who benefit the most from instruction are those who fit social norms (e.g. affulent, neurotypical)
+			3. Even alternative education models (e.g. bootcamps, accelerators) have the same faults
+				1. need to complete specified criteria in order to "graduate"
+				2. certification/brand as main value prop
+		2. Assuming that most learning is the result of teaching
+			1. Most of the time, people acquire their knowledge not from what's intentionally taught in school, but what they casually encounter outside it
+				1. Learning happens as a by-product of some other activity (e.g. reading fluency comes from frequently reading for pleasure)
+			2. Thus, the way people learn in schools isn't optimally designed for them
+				1. Centralization/standardization
+					1. the scale of a school is inversely correlated with its curriculum quality, especially creative support
+				2. Not rewarding failure (best way to learn)
+					1. students aren't able to grow as much due to lack of feedback
+					2. afraid to explore
+				3. Punitive assessments
+				4. Rewarding rote work
+				5. Atomizing subjects
+					1. we learn about topics in silos, when in real life everything is integrated with each other
 	5. How do alternatives such as communities (especially those found in games) serve them?
 2. However, current systems still exploit or underserve these youth, just like in education
+	1. 
 3. **Finite -> infinite games**
 	1. Recap: I believe that the youth learn best in games (after all, we humans are Homo Ludens — born players). But I don't necessarily mean indicate video games. I'm talking about something more abstract: the games we play in life. 
 	2. According to James Carse, there are two types of games: finite, which is played for the purpose of winning, and infinite, which is played for the purpose of continuing play. 
@@ -120,5 +144,9 @@ How can I bring in the idea of an infinite game...
 		3. Instead of playing within boundaries, players play with the boundaries.
 			1. May Li Khoe: instead of thinking of life as a series of checks, see it as a canvas which you can paint anyway you like. the status quo needs to change, and life is short. Thus, we need to [joyfully subvert the status quo](https://kernel.community/en/learn/module-1/joyful-subversion/) 
 		4. Creation + collaboration > quantification + competition
+			1. the online spaces I was a part of encouraged these values
 		5. I believe that Web3 is the key to this shift
 4. **Why and how we could benefit from a Web3 powered future**
+
+## Writing
+> "You'll find the future wherever people are having the most fun." — Steven Johnson, *Wonderland: How Play Made the Modern World*
