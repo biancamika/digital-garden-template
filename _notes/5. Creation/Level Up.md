@@ -20,6 +20,7 @@ See them all in this essay's [Are.na board](https://www.are.na/bianca-aguilar/le
 + [[Is the Metaverse Finally Emerging - Essay]]
 + [[The Internet As Your Resume - Essay]]
 + [[Computers and Creativity - Thesis]]
++ [[Video Games are the Future of Education - Essay]]
 + Ughh as much as I don't like Meta... [Education in the metaverse](https://www.youtube.com/watch?v=KLOcj5qvOio)
 
 ## Outlines
@@ -118,11 +119,25 @@ How can I bring in the idea of an infinite game...
 				4. Rewarding rote work
 				5. Atomizing subjects
 					1. we learn about topics in silos, when in real life everything is integrated with each other
-	5. How do alternatives such as communities (especially those found in games) serve them?
+	5. How do alternatives such as virtual communities (especially those found in video games) serve them?
+		1. Gives students an environment + tools where they can make discoveries themselves. 
+			1. Choose your own adventure: students can choose what they learn and how they learn it, instead of having to deal with the standardized way of learning things
+			2. Provide space, time, and autonomy that schools do not
+		2. Simulate reality + provide fast feedback loops
+			1. feedback mainly provided through real-time + async discussions with other members
+			2. outputs/outcomes are tangible, directly related to the skills you learn 
+				1. E.G. github repos to code, pieces to art, etc
+			3. digital data (e.g. social media metrics) can also help w/ feedback
 2. However, current systems still exploit or underserve these youth, just like in education
-	1. 
+	1. Creators don't get to profit from their work, only platforms
+		1. E.G. developers on Roblox find it hard to earn due to friction claiming profits + huge pay cut; creatives on social media are at the mercy of the algorithm
+	2. IRL inequality is elevated thanks to digital divide
+		1. those who can't rely on their own devices or connectivity won't be able to benefit from these spaces as much
+		2. The premium experience reserved for those who can afford it; free members don't get these benefits unless they work for it
+					1. E.G. memberships, virtual goods
+	3. how can we tackle these problems?  let's get abstract
 3. **Finite -> infinite games**
-	1. Recap: I believe that the youth learn best in games (after all, we humans are Homo Ludens — born players). But I don't necessarily mean indicate video games. I'm talking about something more abstract: the games we play in life. 
+	1. Recap: I believe that the youth learn best in games (after all, we humans are Homo Ludens — born players). But I don't necessarily just mean video games. I'm talking about the games we play in life. 
 	2. According to James Carse, there are two types of games: finite, which is played for the purpose of winning, and infinite, which is played for the purpose of continuing play. 
 	3. Thanks to society, most of us are playing finite games
 		1. Players have to parade around their wealth and status
