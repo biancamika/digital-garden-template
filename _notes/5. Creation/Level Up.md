@@ -162,6 +162,27 @@ How can I bring in the idea of an infinite game...
 			1. the online spaces I was a part of encouraged these values
 		5. I believe that Web3 is the key to this shift
 4. **Why and how we could benefit from a Web3 powered future**
+	1. In a Web3 powered future, education is an (infinite) game. What does this even mean? Or look like?
+		1. What does web3-powered mean?
+			1. In web3, users reclaim ownership of the internet
+			2. Every interaction happens through one's wallet
+		2. Educational metaverse as ultimate digital creative tool
+	2. How can we create this future?
+		1. Education must be a public good
+			1. Non-rivalrous
+			2. Non-excludable
+		2. Other characteristics
+	3. What challenges must be overcome?
+		1. Technological challenges
+			1. Internet infrastructure
+			2. Feasability of having large numbers of participants interact with one another in real-time
+			3. Language barriers
+			4. Latency issues
+		2. Misc. challenges (i.e. social, economic)
+			1. Personal privacy
+			2. Marketplace competition
+			3. Misinformation
+	4. What does living this future looks like? (speculative)
 
 ## Writing
 > "You'll find the future wherever people are having the most fun." — Steven Johnson, *Wonderland: How Play Made the Modern World*
