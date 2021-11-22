@@ -183,7 +183,20 @@ How can I bring in the idea of an infinite game...
 				1.  immersive; simulates reality
 					1.  instead of reading about a topic, you experience it for yourself
 				2.  brings together people wth diverse ideas and interests, without the barriers of physical location
-		4. Educational metaverse as ultimate digital creative tool
+		4. An educational metaverse would be the ultimate digital creative tool (according to [[Computers and Creativity - Thesis]])
+			1. To foster optimal human innovation, digital creative tools need to be interoperable, moldable, efficient, and community-driven.
+				1. Interopability: the ability for different computers to connect and exchange information
+					1. people's works are no longer confined to singular platforms/tools
+					2. this allows for more collaboration and innovation
+				2. Moldability: the ability for the user to tailor their software to better address the problem they are trying to solve
+					1. customizability enables creativity
+				3. Efficiency
+					1. [The metaverse is infrastructure](https://venturebeat.com/2021/11/18/the-metaverse-is-infrastructure/)
+					2. Makes real-time communication, managing presence, earning money, etc. easier
+				4. Community-driven
+					1. the people within in the metaverse is what brings it to life (i.e. content generation, community building)
+			2. These tools hold potential as co-creators with human-beings. Tools of this type would lower the barrier to entry and make all users toolmakers and owners in an expanded definition of technological innovation.
+				1. 
 	2. How can we create this future?
 		1. Education must be a public good
 			1. Non-rivalrous
