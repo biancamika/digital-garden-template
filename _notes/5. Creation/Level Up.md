@@ -198,12 +198,31 @@ How can I bring in the idea of an infinite game...
 					1. the people within in the metaverse is what brings it to life (i.e. content generation, community building)
 			2. These tools hold potential as co-creators with human-beings. Tools of this type would lower the barrier to entry and make all users toolmakers and owners in an expanded definition of technological innovation.
 				1. "If the purpose of education is to inspire courage to expand our collective understanding of the world, the vision of Embedded Education is that every time we see something that inspires us, the path to actualizing this new-found dream starts right where we find it."
-	2. How can we create this future?
-		1. Education must be a public good
-			1. Non-rivalrous
-			2. Non-excludable
-		2. Other characteristics
-	3. What challenges must be overcome?
+	2. The youth are already primed for this future; being immersed in digital worlds helps us transition to virtual systems. [How?](https://twitter.com/brianjcho/status/1459176570174672897)
+		1. (Value) Creation/Contribution
+			1. used to working for status/rewards
+				1. E.G. levelling up by grinding through quests, or by commenting enough (Top Fan) 
+			2. native to virtual currencies -> tokens & wallets
+			3. used to virtual goods -> NFTs
+			4.  willing to put up with learning curve just to have fun
+			5.  constant remixing & modding -> composability
+				1. not just seen in game mods, but in social media e.g. Dribbble remixes, Tiktok duets
+		2. Community
+			1.  power-users of guilds/forums/Discord -> DAOs
+			2.  vocal + passionate user base -> community-led governance
+				1.  E.G. moderators of forums
+		3. Culture 
+			1. internet identities -> anonymity/psuedonymity/reputation
+			2. internet memes + language -> web3 memes + language
+	3. How can we create this future?
+		1. This educational metaverse must be a public good
+			1. Non-rivalrous: accessible to everybody; one person's use of the good does not impact its availability to others
+				1. intensive learning experiences like fellowships and bootcamps are inherently rivalrous, since more people = less quality interaction
+			2. Non-excludable: it should be impossible to exclude anybody from using the good
+				1. 	Cost of money, time, literacy, etc. can exclude others
+		2. Creating this metaverse needs game design (integrated), not gamification (just added-on)
+			1.  
+	4. What other challenges must be overcome?
 		1. Technological challenges
 			1. Internet infrastructure
 			2. Feasability of having large numbers of participants interact with one another in real-time
@@ -213,7 +232,7 @@ How can I bring in the idea of an infinite game...
 			1. Personal privacy
 			2. Marketplace competition
 			3. Misinformation
-	4. What does living this future looks like? (speculative)
+	5. What does living this future looks like? (speculative)
 
 ## Writing
 > "You'll find the future wherever people are having the most fun." — Steven Johnson, *Wonderland: How Play Made the Modern World*
