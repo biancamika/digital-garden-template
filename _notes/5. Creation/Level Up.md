@@ -181,8 +181,9 @@ How can I bring in the idea of an infinite game...
 				3.  Thus, learning feels more natural
 			2.  The Metaverse provides the perfect educational environment by...
 				1.  immersive; simulates reality
-					1.  instead of reading about a topic, you experience it for yourself
+					1.  shortened feedback loops from theory to practice: instead of reading about a topic, you experience it for yourself
 				2.  brings together people wth diverse ideas and interests, without the barriers of physical location
+					1.  more equitable and effective distribution of knowledge, skills, and information
 		4. An educational metaverse would be the ultimate digital creative tool (according to [[Computers and Creativity - Thesis]])
 			1. To foster optimal human innovation, digital creative tools need to be interoperable, moldable, efficient, and community-driven.
 				1. Interopability: the ability for different computers to connect and exchange information
@@ -196,7 +197,7 @@ How can I bring in the idea of an infinite game...
 				4. Community-driven
 					1. the people within in the metaverse is what brings it to life (i.e. content generation, community building)
 			2. These tools hold potential as co-creators with human-beings. Tools of this type would lower the barrier to entry and make all users toolmakers and owners in an expanded definition of technological innovation.
-				1. 
+				1. "If the purpose of education is to inspire courage to expand our collective understanding of the world, the vision of Embedded Education is that every time we see something that inspires us, the path to actualizing this new-found dream starts right where we find it."
 	2. How can we create this future?
 		1. Education must be a public good
 			1. Non-rivalrous
