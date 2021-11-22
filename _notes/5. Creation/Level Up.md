@@ -124,10 +124,11 @@ How can I bring in the idea of an infinite game...
 			1. Choose your own adventure: students can choose what they learn and how they learn it, instead of having to deal with the standardized way of learning things
 			2. Provide space, time, and autonomy that schools do not
 		2. Simulate reality + provide fast feedback loops
-			1. feedback mainly provided through real-time + async discussions with other members
-			2. outputs/outcomes are tangible, directly related to the skills you learn 
+			1. more context = deeper understanding
+			2. feedback mainly provided through real-time + async discussions with other members
+			3. outputs/outcomes are tangible, directly related to the skills you learn 
 				1. E.G. github repos to code, pieces to art, etc
-			3. digital data (e.g. social media metrics) can also help w/ feedback
+			4. digital data (e.g. social media metrics) can also help w/ feedback
 2. However, current systems still exploit or underserve these youth, just like in education
 	1. Creators don't get to profit from their work, only platforms
 		1. E.G. developers on Roblox find it hard to earn due to friction claiming profits + huge pay cut; creatives on social media are at the mercy of the algorithm
@@ -164,9 +165,25 @@ How can I bring in the idea of an infinite game...
 4. **Why and how we could benefit from a Web3 powered future**
 	1. In a Web3 powered future, education is an (infinite) game. What does this even mean? Or look like?
 		1. What does web3-powered mean?
-			1. In web3, users reclaim ownership of the internet
-			2. Every interaction happens through one's wallet
-		2. Educational metaverse as ultimate digital creative tool
+			1. [In web3, interactions in application/software are done through wallets](https://twitter.com/gaby_goldberg/status/1449002871706501133)
+			2. In web3, users reclaim ownership of the internet due to decentralization
+				1. Web2: "Our consumption is driven by black-box algorithmic feeds, our work and property are only ours to borrow, and our value creation has been severely discredited. We don't own any of our digital properties, and we've been wired to accept it."
+				2. Web3: now we can have control over...
+					1. our work + property -> NFTs
+					2. platforms we participate in ->  protocols, and the way they structure incentives
+		2. Web3 is helping build the foundation of the Metaverse
+			1. What is the Metaverse? "the next iteration of the Internet that brings a sense of place and facilitates rich human connection."
+			2. Already being done in Web2 through social [spatial software](https://darkblueheaven.com/spatialsoftware/) E.G. platforms like Gather and games like Roblox and Fornite
+		3. How is education connected with this?
+			1.  We're now entering an age of [embedded education](https://fakepixels.substack.com/p/fkpxls-special-volume-embedded-education), where learning happens everywhere instead of being limited to individual platforms
+				1.  People learn through encounters they have through systems that may exist for non-educational purposes 
+				2.  E.G. Communities centered around products, teaching others how to make the most out of it through shared resources, discussions, etc -> Figma, Notion
+				3.  Thus, learning feels more natural
+			2.  The Metaverse provides the perfect educational environment by...
+				1.  immersive; simulates reality
+					1.  instead of reading about a topic, you experience it for yourself
+				2.  brings together people wth diverse ideas and interests, without the barriers of physical location
+		4. Educational metaverse as ultimate digital creative tool
 	2. How can we create this future?
 		1. Education must be a public good
 			1. Non-rivalrous
