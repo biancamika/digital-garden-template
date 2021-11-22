@@ -221,7 +221,14 @@ How can I bring in the idea of an infinite game...
 			2. Non-excludable: it should be impossible to exclude anybody from using the good
 				1. 	Cost of money, time, literacy, etc. can exclude others
 		2. Creating this metaverse needs game design (integrated), not gamification (just added-on)
-			1.  
+			1. Gamification is often pointsification, which is all about external motivation
+				1.  E.G. points, badges, leaderboards; a.k.a. a finite game
+				2.  this isn't sustainable; doesn't work for building actual skills long-term
+			2.  Games are their best when they're played out of genuine interest; same should apply for participants of this metaverse. There must be:
+				1.  A goal/specific outcome that provides players with a sense of purpose
+				2.  Rules that place limitations on how players can achieve the goal
+				3.  A feedback system that tells players how close they are to achieving their goal
+				4.  Voluntary participation
 	4. What other challenges must be overcome?
 		1. Technological challenges
 			1. Internet infrastructure
@@ -230,9 +237,26 @@ How can I bring in the idea of an infinite game...
 			4. Latency issues
 		2. Misc. challenges (i.e. social, economic)
 			1. Personal privacy
+				1. Do we really want to make everything we learn visible on the blockchain?
 			2. Marketplace competition
 			3. Misinformation
 	5. What does living this future looks like? (speculative)
+		1. Told through the perspective of a  teacher onboarding students into this metaverse
+			1. Vibes: The Magic School Bus? Hhahahaha
+			2. This teacher doesn't have a traditional background; even if they weren't professionally licensed as a teacher, their IRL experience + skills made them qualified
+		2. They get started with creating their identity. Thanks to wallets, they have their own profile and inventory
+			1. This is a dynamic resume: everything you learn is shown on-chain
+			2. This is a passport to web3 applications; whether it's through consumption, curation, publication, or investing, it'll show your online travels
+		3. How to build identity: students are able to explore by completing quests/bounties that interest them, and getting rewarded 
+		4. The teacher transports them to an introductory quest (that they designed themselves), an immersive environment where they do a Giant [Tower Building Challenge](https://www.wickedproblemsolver.com/blog-2/blog-post-title-two-tk47y), where they have to build the tallest freestanding structure
+		5. This experience introduces them to collaboration, and how the metaverse is driven by community-driven culture
+			1. DAOs acting like guilds, onboarding new students and helping them level up in this game
+			2. Free/open-source syllabi
+				1. Anyone can contribute materials and get rewarded
+				2. Everyone's always remixing...building on each other's works
+					1. Info overload + quality control is a problem...curators are elevated, can also become teachers
+		6. All students get a POAP (Proof of Attendance Protocol) for completing onboarding!
+		7. Ends on a hopeful note? Maybe the teacher saying how they're excited to see their students' journeys of lifelong learning? ahhaha
 
 ## Writing
 > "You'll find the future wherever people are having the most fun." — Steven Johnson, *Wonderland: How Play Made the Modern World*
