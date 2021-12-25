@@ -261,6 +261,28 @@ How can I bring in the idea of an infinite game...
 ## Writing
 > "You'll find the future wherever people are having the most fun." — Steven Johnson, *Wonderland: How Play Made the Modern World*
 
+As a kid who grew up on the Internet, creating was a way of living.  I remember spending hours telling stories online, whether it be through drawing fanart or roleplaying fantasies. It got to the point when my mother enforced a limit, worried that I was getting addicted to the computer. Now, I've found myself being gifted various opportunities (e.g. a prestigious scholarship, international freelance gigs, exciting Web3 projects) thanks to being well-versed in design, art, and writing: these are skills that I primarily gained not through sitting in school, but through having fun online.
+
+Around me, I see kids growing up the same way. At one end, there are developers learning programming through creation games like Roblox and Minecraft. At another, there are artists cultivating their craft in fandom communities on Twitter and Discord. I believe that these kids aren't just making their own futures, but the world's as well; investor Chris Dixon says that these [present-day hobbies will seed future industries](https://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years). Today's youth will be tomorrow's innovators.
+
+So why aren't these hobbies taken seriously? It's because schools are still seen as the main venue of a person's development. However, there's more to learning than what can be found in school; here's how schools fail students, and how online spaces make up for this.
+
+How do schools fail students?
+Our educational institutions are designed to benefit the system, not the student. 
+They are influenced by what sociologist George Ritzer calls "McDonaldization".
+
+How do alternatives such as virtual communities (especially those found in video games) serve them?
+
+So how do virtual spaces — ==EXAMPLE== — serve them? First, they give students the environment and tools to make discoveries themselves. 
+
+
+However, current systems still exploit or underserve these youth, just like in education
+
+
+
+
+
+
 
 
 
