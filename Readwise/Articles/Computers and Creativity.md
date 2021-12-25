@@ -1,0 +1,72 @@
+---
+title: Computers and Creativity
+---
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
+
+## Metadata
+- Author: [[mollymielke.com]]
+- Full Title: Computers and Creativity
+- Category: #articles
+- URL: https://www.mollymielke.com/cc?cmdid=VK73W8HIS7F5WR
+
+## Highlights
+- to foster optimal human innovation, digital creative tools need to be interoperable, moldable, efficient, and community-driven.
+    - Tags: [[tools_for_thought]] [[tech]] [[humanist]] 
+- Throughout the history of digital tools, a common theme is the technological advancement spurred by artists pushing the limits of the existing tools and creating their own adjacent tools to better serve their needs.
+    - Tags: [[tools_for_thought]] [[tech]] [[history]] [[art]] 
+- ‘If the nature of innovation is distorted toward selling to an incumbent, you’re going to get more feature-driven innovation rather than systemic disruption.’
+    - Tags: [[tech]] [[innovation]] 
+- Today’s projects need to accommodate a multitude of different media types within cross-functional spaces, yet editing each piece is still largely constrained to whichever tool it was created in.
+    - Tags: [[tools_for_thought]] [[tech]] 
+- This business-driven innovation fails to invest in the creativity of human beings themselves, instead streamlining our ability to act as an execution machine.
+    - Tags: [[innovation]] [[humanist]] [[creativity]] [[business]] 
+- Despite the technology industry’s widespread investment in recreating human intelligence, the computer’s capacity to be creative is still entirely dependent upon the human’s ability to program that prescriptive creativity step-by-step into a machine.
+    - Tags: [[tech]] [[humanist]] [[creativity]] 
+- this truth identifies an opportunity for computers to more fully assume the role of co-creator — not idea-generator, but actualizer.
+    - Tags: [[tech]] [[humanist]] [[creativity]] 
+- human creativity and innovation is not a solitary sport. In fact, most great digital innovations are the product of a commitment to collaboration and the melding of many different perspectives.
+    - Tags: [[tech]] [[innovation]] [[creativity]] 
+- Facilitating collaboration in a digital tool is a key multiplier for creativity.
+    - Tags: [[tools_for_thought]] [[tech]] [[creativity]] 
+- This framing steers our attention away from automating digital tools to become creators themselves. Instead, we can reconfigure our goal towards aiming to construct software intelligent enough to figure out the steps needed to produce a desired outcome in service of the human or group's broader creative vision.
+    - Tags: [[tools_for_thought]] [[tech]] [[humanist]] [[creativity]] 
+- “Intelligence Augmentation (IA), is all about empowering humans with tools that make them more capable and more intelligent, while Artificial Intelligence (AI) has been about removing humans fully from the loop.”
+    - Tags: [[tech]] [[humanist]] [[ai]] 
+- If tools are meant to amplify the power of our brains and take over the mechanical aspects of human thought, limiting creation to a single piece of software’s capabilities is clearly antithetical to creativity.
+    - Tags: [[tools_for_thought]] [[tech]] [[humanist]] [[creativity]] 
+- the development community’s prioritization of functional standardization has led to far greater leaps in collaboration and wider scale public ownership over innovation. A culture of building things with the express purpose to be shared and built upon has created a baseline standard of interoperability within these communities.
+    - Tags: [[tech]] [[systems]] [[programming]] [[innovation]] [[community]] 
+- Interoperability can often slow down improvements and lead to inconsistent adoption of open standards.
+    - Tags: [[tech]] [[systems]] 
+- Another consideration is the risk that standardization may commoditize a set of tools, thus diminishing the innovation made possible by healthy competition.
+    - Tags: [[tech]] [[systems]] [[innovation]] 
+- software moldability, or the ability for the user to tailor their software to better address the problem they are trying to solve.
+    - Tags: [[tech]] [[programming]] [[product]] 
+- “The designer’s role in this is not like that of a doctor, prescribing cures for people’s ills; nor is the designer a kind of servant, developing technologies that people know they want. Instead, designers should be provocateurs, seeking out new possibilities for play and crafting technologies that entice people to explore them.”
+    - Tags: [[design]] 
+- Pioneering users that share their creations and anecdotally attest to the tool’s viability and promise can be seen as toolmakers. Toolmakers are essential to bringing moldable software building blocks to the average user—the toolmaker’s shared creations serve as invitations for the average user to join and create something themself.
+    - Tags: [[tech]] [[creator_economy]] [[creativity]] [[community]] 
+- The computer’s execution skill set lends itself to minimizing the need for any sort of repetitive or monotonous work that might hinder the creative process. This truth refocuses our attention on fostering creative thought (such as ideation) as opposed to linear thought (such as creating a functional architecture), seeing as the computer is already highly adept at accommodating the latter.
+    - Tags: [[tools_for_thought]] [[tech]] [[creativity]] 
+- The challenge lies in training the computer to understand and execute a user’s specific and often unique intent, with the goal of diminishing repetitive work and instead inspiring creativity and play.
+    - Tags: [[tools_for_thought]] [[tech]] [[humanist]] [[creativity]] 
+- abstraction, or the dumbing down of something technical in order to reduce complexity and omit unnecessary information.
+    - Tags: [[tech]] [[systems]] [[cognition]] 
+- While creative tools today offer components and other efficiency features, the contrast between the efficiency of creative tools and engineering tools is stark. Concepts such as abstract classes in development allow the programmer to apply objectified attributes while hiding the irrelevant details. In contrast, creative tools often require the construction of applied properties and details from scratch every time.
+    - Tags: [[tools_for_thought]] [[tech]] [[creativity]] [[cognition]] 
+- The “elements-on-a-canvas” convention that we see at the core of creative tools such as Adobe Creative Suite products, Figma, and Sketch replicates the physical process of assembly that the digital tool has replaced. This approach has proven its worth: it allows for exploration and spatial orientation in a seemingly endless way.
+    - Tags: [[tools_for_thought]] [[tech]] [[creativity]] 
+- While iteration on the digital canvas provides a broadly understood medium for creativity, it also necessitates humans act as machines to produce versions in the precise way the tool allows, which requires time and creative energy.
+    - Tags: [[tools_for_thought]] [[tech]] [[creativity]] 
+- Offering predefined elements (shapes, text, symbols) directly exemplifies how a digital tool can augment human intelligence by allowing the user to get into the creative flow faster and minimize unnecessary construction work.
+    - Tags: [[tools_for_thought]] [[tech]] [[systems]] [[creativity]] 
+- The goal of increasing abstraction is to keep pace with human thought and provide the user with everything they need to articulate that thought without interruption. By simplifying the experience of using the tool, it invites in far more people than previously had access to the creative process.
+    - Tags: [[tools_for_thought]] [[tech]] [[systems]] [[creativity]] 
+- Logic shifts much of the needless production work back on the computer to follow linearly, as opposed to the human user working as a linear machine.
+    - Tags: [[tools_for_thought]] [[tech]] [[systems]] [[humanist]] [[creativity]] [[cognition]] 
+- programming by demonstration; this technique involves teaching a computer what to do by exemplifying exactly what you want to have happen. This method means that the computer effectively infers and creates the logic needed to reproduce your demonstration.
+    - Tags: [[tools_for_thought]] [[tech]] [[programming]] [[creativity]] 
+- “The purpose of computation is insight, not numbers.”
+    - Tags: [[humanist]] 
+- Interoperable, moldable, efficient, and community-driven digital creative tools hold immeasurable potential as co-creators with human beings. Tools of this type would lower the barrier to entry and make all users toolmakers and owners in an expanded definition of technological innovation.
+    - Tags: [[tools_for_thought]] [[tech]] [[innovation]] [[creator_economy]] [[creativity]] 

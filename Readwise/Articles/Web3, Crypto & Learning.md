@@ -1,0 +1,19 @@
+---
+title: Web3, Crypto & Learning
+---
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
+
+## Metadata
+- Author: [[mirror.xyz]]
+- Full Title: Web3, Crypto & Learning
+- Category: #articles
+- URL: https://mirror.xyz/0x11f8329Df0fE061bB745D6A8ad9c2FfdBEf74281/wYzQcjLG-xM3jhCiT_mfVEYAx3MEIfFjq_JhLuBvmnE
+
+## Highlights
+- L2E models could have a real basis in encouraging students to take the actions that lead toward better learning.
+- Elements of top designed L2E models will include: 1. payment for online and offline behaviors that support learning 2. ability to integrate with other services that track supporting behaviors (e.g. contributing to a community, habit formation) 3. ability to assess depth of learning and weight credential appropriately - teaching someone else is a far stronger retention method than reading about something
+- Here’s a few things the best learning DAOs will need to get right: 1. scholarships & admissions - many DAOs today are pay-your-way-in and clearly that’s not equitable. many DAOs are also first-come-first-serve which means great potential members who arrive later may never get the chance to buy the initial set of limited tokens 2. trusty & safety - so many things can go awry while running a social, living, breathing community. a robust set of standards with community escalation policies is crucial to ensure a thriving social community 3. choose signal v. skill priority - the problem with many higher education institutions is that they have chosen to prioritize the signal of their credential versus specific skills as what brands them in the market. It is easy to fall into this trap if assessment, admissions, and brand aren’t thought through. 4. proof-of-skill creep - many universities experience grade inflation, which makes differentiation difficult. For a learning DAO to maintain the value of it’s credentials, it will need to ensure decentralized management holds the same bar
+- Another exciting potential in credentials is real-time skill acquisition and display. Given crypto credentials can be earned for individual tasks, a student wouldn't need to wait 4 years to get credit for their knowledge. Real-time progress of their degree could be visible for all anytime. If an employer decides xyz skills or 75% is enough, the learner may not need to go further.
+- "competency based education" = a movement in education that has tried to give learners credit for what they know, not just butt-in-seat or Carnegie hours which are based off of hours spent in class.
+- Here’s a few things crypto credentialing platforms will need to get right: 1. partnerships with employers - new forms of credentials have long been hard to establish because adoption by employers is slow. it’s easy for them to rely on top college rankings 2. review sites for DAOs and crypto credential issuer - as any new industry emerges, consumers and employers need to sift through the noise. There are already nearly 1M DAO members today 3. public education and category creation - the hardest part of any new credential is acceptance by the public. new credentials will need to collaborate and share where they are finding pockets of acceptance so the whole industry can succeed.
+- But there are some categories of work, especially those in the creative fields, where education takes the form of experimentation and exploration. Music, Art, and indeed any form of content creation, whether it be on Tiktok or movie screens can all fall into this category. But this experimentation needs resources. That’s what makes creator coins and securitized music such an interesting area of web3. These new categories allow supporters to invest in their favorite creators and receive a stake of their future income as a result, an area that turns patronage into investment, and is directly adjacent to education.
