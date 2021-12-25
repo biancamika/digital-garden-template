@@ -296,11 +296,7 @@ According to [James Carse](https://www.goodreads.com/en/book/show/189989.Finite_
 
 What if we approached life as an infinite game? Success doesn't have to be stressful; in fact, [the pursuit of excellence can be a positive-sum game, with no finish line and no losers](https://www.weareworldquant.com/en/thought-leadership/playing-the-infinite-game/). According to writer [Kevin Kelly](https://wiki.p2pfoundation.net/Finite_vs._Infinite_Games), evolution, life, the mind, and the technium (the accumulation of all inventions that humans have ever created) are infinite games. The things in life we love most can be played the same way. How to start: instead of playing within boundaries, play with them. Technologist May-Li Khoe advises: "...instead of thinking of life as a series of checks, see it as a canvas which you can paint anyway you like. the status quo needs to change, and life is short. Thus, we need to [joyfully subvert the status quo](https://kernel.community/en/learn/module-1/joyful-subversion/)."
 
-What attracted me to video games and art communities were the values they encouraged: creation and collaboration. People weren't motivated by BLANK, they just wanted to keep creating and sharing
-I feel like this has changed in our current web, all quantification and competition
-
-
-I believe Web3 is key to this shift
+What attracted me to video games and art communities were the values they encouraged: creation and collaboration. All people wanted to do was to keep making things and sharing them with others.  This wholesome culture changed with the [advent of platforms](https://www.artsy.net/article/artsy-editorial-rise-fall-internet-art-communities); now, interactions are quantifiable and people are motivated by competition. If we want to make learning feel like play, we need to revive the culture of the early web, so that creation feels like an infinite game once again. And I believe that the key to this shift lies in a whole new web: Web3. 
 
 
 
