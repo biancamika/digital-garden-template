@@ -283,7 +283,11 @@ However, these spaces are still capable of exploiting or underserving the youth,
 
 One, most creators don't get to benefit from their work, since majority of profit goes to the platforms. For example: [it is challenging for game developers to make money on Roblox, and the platform profits from people trying](https://www.wired.com/story/on-roblox-kids-learn-its-hard-to-earn-money-making-games/).  Developers only get a 25 percent cut of revenue, which is one third of the industry standard. If they want to take out their earnings, they must have a premium subscription ($5 a month) and earn a minimum of 100,000 Robux. This disincentivizes them from withdrawing. 
 
+Two, real life inequality is elevated due to the digital divide. Those who can't rely on their own devices or connectivity won't be able to benefit from these spaces as much as people who can. Even worse, these spaces can also bar people financially. [In many MMO games, the premium experience (i.e. exclusive items, more user privileges) is reserved for those who can afford a membership](https://nancyzuo.substack.com/p/capitalism-in-virtual-worlds?r=8kghs&utm_campaign=post&utm_medium=web&utm_source=). Free members can't get these unless they work for it (a.k.a. putting in more time for less pay). 
 
+Overall, this leaves the youth
+
+How can we tackle these problems? It's time to get abstract.
 
 
 
