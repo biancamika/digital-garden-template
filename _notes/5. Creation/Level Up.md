@@ -270,18 +270,17 @@ So why aren't these hobbies taken seriously? It's because schools are still seen
 
 ### Section 1
 
-How do schools fail students?
-Our educational institutions are designed to benefit the system, not the student. 
+First, our educational institutions are designed to benefit the system, not the student. 
 They are influenced by what sociologist George Ritzer calls "McDonaldization".
 
 
 So how do virtual spaces — like video games and online communities — serve them? In ["Video Games are the Future of Education"](https://nabeelqu.co/education), Nabeel Qureshi gives multiple conclusions. 
 
-One, they give students the environment and tools to make discoveries themselves. This is because they provide space, time, and autonomy, which enables students to *choose* what they learn and how they learn it. Schools cannot provide this level of freedom. That's why kids remember what they encounter through engaging in these spaces, and forget what is taught to them in classes. They need to feel like it's *play*.
+One, they give students the environment and tools to make discoveries themselves. This is because they provide space, time, and autonomy, which enables students to *choose* what they learn and how they learn it. Schools cannot provide this level of freedom. That's why kids remember what they encounter through engaging in these spaces, and forget what is taught to them in classes. They need to feel like it's just *play*.
 
-Two, these spaces provide deep understanding of subjects. This is because they give additional context by simulating reality and providing fast feedback loops, thanks to innovative features like immersive  environments and real-time communication. Outputs are tangible to students, and directly related to the skills they learn (e.g. Git repositories to code, published pieces to art); this applies to the response their works get as well (e.g. comments, metrics). Compare this to the typical school experience, which is quite shallow; when you're focused on memorizing information just to pass exams, you don't have the capacity to dive deep into a topic.
+Two, these spaces provide deep understanding of subjects. This is because they simulate reality and provide fast feedback loops, thanks to innovative features like immersive  environments and real-time communication. Outputs are tangible to students, and directly related to the skills they learn (e.g. Git repositories to code, published pieces to art); this applies to the response their works get as well (e.g. comments, metrics). Compare this to the typical school experience, which is quite shallow; when you're focused on memorizing information just to pass exams, you don't have the capacity to dive deep into a topic.
 
-However, these spaces are still capable of exploiting or underserving the youth, just like in traditional education. 
+In short, virtual spaces are optimal learning environments because they provide additional context and creative freedom. This empowers students. However, these spaces are still capable of exploiting or undersering the youth, just like in traditional education. 
 
 One, real life inequality is elevated due to the digital divide. Those who can't rely on their own devices or connectivity won't be able to benefit from these spaces as much as people who can. Even worse, these spaces can also bar people financially. [In many MMO games, the premium experience (i.e. exclusive items, more user privileges) is reserved for those who can afford a membership](https://nancyzuo.substack.com/p/capitalism-in-virtual-worlds?r=8kghs&utm_campaign=post&utm_medium=web&utm_source=). Free members can't get these unless they work for it (a.k.a. putting in more time for less pay). 
 
@@ -296,7 +295,7 @@ According to [James Carse](https://www.goodreads.com/en/book/show/189989.Finite_
 
 What if we approached life as an infinite game? Success doesn't have to be stressful; in fact, [the pursuit of excellence can be a positive-sum game, with no finish line and no losers](https://www.weareworldquant.com/en/thought-leadership/playing-the-infinite-game/). According to writer [Kevin Kelly](https://wiki.p2pfoundation.net/Finite_vs._Infinite_Games), evolution, life, the mind, and the technium (the accumulation of all inventions that humans have ever created) are infinite games. The things in life we love most can be played the same way. How to start: instead of playing within boundaries, play with them. Technologist May-Li Khoe advises: "...instead of thinking of life as a series of checks, see it as a canvas which you can paint anyway you like. the status quo needs to change, and life is short. Thus, we need to [joyfully subvert the status quo](https://kernel.community/en/learn/module-1/joyful-subversion/)."
 
-What attracted me to video games and art communities were the values they encouraged: creation and collaboration. All people wanted to do was to keep making things and sharing them with others.  This wholesome culture changed with the [advent of platforms](https://www.artsy.net/article/artsy-editorial-rise-fall-internet-art-communities); now, interactions are quantifiable and people are motivated by competition. If we want to make learning feel like play, we need to revive the culture of the early web, so that creation feels like an infinite game once again. And I believe that the key to this shift lies in a whole new web: Web3. 
+What attracted me to MMO games and art communities were the values they encouraged: creation and collaboration. All people wanted to do was to keep making things and sharing them with others.  This wholesome culture changed with the [advent of platforms](https://www.artsy.net/article/artsy-editorial-rise-fall-internet-art-communities); now, interactions are quantifiable and people are motivated by competition. If we want to make learning feel like play, we need to revive the culture of the early web, so that creation feels like an infinite game once again. And I believe that the key to this shift lies in a whole new web: Web3. 
 
 
 
