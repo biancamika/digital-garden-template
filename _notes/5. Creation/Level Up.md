@@ -271,9 +271,12 @@ How do schools fail students?
 Our educational institutions are designed to benefit the system, not the student. 
 They are influenced by what sociologist George Ritzer calls "McDonaldization".
 
-How do alternatives such as virtual communities (especially those found in video games) serve them?
 
-So how do virtual spaces — ==EXAMPLE== — serve them? First, they give students the environment and tools to make discoveries themselves. 
+So how do virtual spaces — like video games and online communities — serve them? In ["Video Games are the Future of Education"](https://nabeelqu.co/education), Nabeel Qureshi gives multiple conclusions. 
+
+One, they give students the environment and tools to make discoveries themselves. This is because they provide space, time, and autonomy, which enables students to *choose* what they learn and how they learn it. Schools cannot provide this level of freedom. That's why kids remember what they encounter through engaging in these spaces, and forget what is taught to them in classes. 
+
+Two, these spaces provide deep understanding of subjects. This is because they give additional context by simulating reality and providing fast feedback loops, thanks to innovative features like immersive  environments and real-time communication. Outputs are tangible to students, and directly related to the skills they learn (e.g. Git repositories to code, published pieces to art); this applies to the response their works get as well (e.g. comments, metrics). Compare this to the typical school experience, which is quite shallow; when you're focused on memorizing information just to pass exams, you don't have the capacity to dive deep into a topic.
 
 
 However, current systems still exploit or underserve these youth, just like in education
