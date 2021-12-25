@@ -267,6 +267,9 @@ Around me, I see kids growing up the same way. At one end, there are developers 
 
 So why aren't these hobbies taken seriously? It's because schools are still seen as the main venue of a person's development. However, there's more to learning than what can be found in school; here's how schools fail students, and how online spaces make up for this.
 
+
+### Section 1
+
 How do schools fail students?
 Our educational institutions are designed to benefit the system, not the student. 
 They are influenced by what sociologist George Ritzer calls "McDonaldization".
@@ -274,10 +277,9 @@ They are influenced by what sociologist George Ritzer calls "McDonaldization".
 
 So how do virtual spaces — like video games and online communities — serve them? In ["Video Games are the Future of Education"](https://nabeelqu.co/education), Nabeel Qureshi gives multiple conclusions. 
 
-One, they give students the environment and tools to make discoveries themselves. This is because they provide space, time, and autonomy, which enables students to *choose* what they learn and how they learn it. Schools cannot provide this level of freedom. That's why kids remember what they encounter through engaging in these spaces, and forget what is taught to them in classes. 
+One, they give students the environment and tools to make discoveries themselves. This is because they provide space, time, and autonomy, which enables students to *choose* what they learn and how they learn it. Schools cannot provide this level of freedom. That's why kids remember what they encounter through engaging in these spaces, and forget what is taught to them in classes. They need to feel like it's *play*.
 
 Two, these spaces provide deep understanding of subjects. This is because they give additional context by simulating reality and providing fast feedback loops, thanks to innovative features like immersive  environments and real-time communication. Outputs are tangible to students, and directly related to the skills they learn (e.g. Git repositories to code, published pieces to art); this applies to the response their works get as well (e.g. comments, metrics). Compare this to the typical school experience, which is quite shallow; when you're focused on memorizing information just to pass exams, you don't have the capacity to dive deep into a topic.
-
 
 However, these spaces are still capable of exploiting or underserving the youth, just like in traditional education. 
 
@@ -287,7 +289,18 @@ Two, most creators don't get to benefit from their work, since majority of profi
 
 Overall, these conditions make it difficult for youth to get value not just from these spaces, but from the work they produce in them. It's why many parents/guardians aren't accepting of their kids' spending so much time online; they see it as a waste of time and money, and are unable to see how it could be beneficial long-term. Imagine how much creators would be enabled if these barriers to participation were removed.  How can we tackle these problems? It's time to get abstract.
 
+### Changing the game
+To recap: I believe that the youth learn best when they feel like they're engaging in play; after all, we humans are [Homo Ludens](https://www.goodreads.com/en/book/show/233221.Homo_Ludens) — born players. But I don't necessarily just mean playing video games. I'm talking about the games we play in life.
 
+According to [James Carse](https://www.goodreads.com/en/book/show/189989.Finite_and_Infinite_Games), there are two types of games: finite, which is played for the purpose of winning, and infinite, which is played for the purpose of continuing play. In our current society, most of us are playing finite games. Online, people aim for getting to the top of the leaderboards, or increasing reach: X amount of followers, likes, shares, etc. Offline, people desire to score the highest salary, or acquiring that prestigious degree.  Our existing educational environments encourage this way of thinking: not just schools, but also the online platforms we occupy (e.g. social media). This zero-sum mentality is not healthy to have long-term, especially for creators. No matter what or how much you make, it would never be enough. It's a recipe for burnout. 
+
+What if we approached life as an infinite game? Success doesn't have to be stressful; in fact, [the pursuit of excellence can be a positive-sum game, with no finish line and no losers](https://www.weareworldquant.com/en/thought-leadership/playing-the-infinite-game/). According to writer [Kevin Kelly](https://wiki.p2pfoundation.net/Finite_vs._Infinite_Games), evolution, life, the mind, and the technium (the accumulation of all inventions that humans have ever created) are infinite games. The things in life we love most can be played the same way. How to start: instead of playing within boundaries, play with them. Technologist May-Li Khoe advises: "...instead of thinking of life as a series of checks, see it as a canvas which you can paint anyway you like. the status quo needs to change, and life is short. Thus, we need to [joyfully subvert the status quo](https://kernel.community/en/learn/module-1/joyful-subversion/)."
+
+What attracted me to video games and art communities were the values they encouraged: creation and collaboration. People weren't motivated by BLANK, they just wanted to keep creating and sharing
+I feel like this has changed in our current web, all quantification and competition
+
+
+I believe Web3 is key to this shift
 
 
 
