@@ -279,7 +279,9 @@ One, they give students the environment and tools to make discoveries themselves
 Two, these spaces provide deep understanding of subjects. This is because they give additional context by simulating reality and providing fast feedback loops, thanks to innovative features like immersive  environments and real-time communication. Outputs are tangible to students, and directly related to the skills they learn (e.g. Git repositories to code, published pieces to art); this applies to the response their works get as well (e.g. comments, metrics). Compare this to the typical school experience, which is quite shallow; when you're focused on memorizing information just to pass exams, you don't have the capacity to dive deep into a topic.
 
 
-However, current systems still exploit or underserve these youth, just like in education
+However, these spaces are still capable of exploiting or underserving the youth, just like in traditional education. 
+
+One, most creators don't get to benefit from their work, since majority of profit goes to the platforms. For example: [it is challenging for game developers to make money on Roblox, and the platform profits from people trying](https://www.wired.com/story/on-roblox-kids-learn-its-hard-to-earn-money-making-games/).  Developers only get a 25 percent cut of revenue, which is one third of the industry standard. If they want to take out their earnings, they must have a premium subscription ($5 a month) and earn a minimum of 100,000 Robux. This disincentivizes them from withdrawing. 
 
 
 
