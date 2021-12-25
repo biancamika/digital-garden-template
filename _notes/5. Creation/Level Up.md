@@ -268,11 +268,11 @@ Around me, I see kids growing up the same way. At one end, there are developers 
 So why aren't these hobbies taken seriously? It's because schools are still seen as the main venue of a person's development. However, there's more to learning than what can be found in school; here's how schools fail students, and how online spaces make up for this.
 
 
-### Section 1
+### Schools, spaces, and how students do in them
 
-First, our educational institutions are designed to benefit the system, not the student. 
-They are influenced by what sociologist George Ritzer calls "McDonaldization".
+First, our educational institutions are designed to benefit the system, not the student.  They are influenced by what sociologist George Ritzer calls ["McDonaldization"](https://www.cpp.edu/~ddwills/courses/ant352/readings352/McDonaldization.htm), where principles of the fast food industry, driven by “rationality,” dominate other sectors of society. It is expressed through four characteristics: efficiency, calculability, predictability, and control. Efficiency is seen in grouping students by age and replacing teachers with online lessons. Calculability is seen in ridiculous class sizes and high stakes testing. Predictability is seen in standardized curriculums and overreliance on lecture slides. Control is seen in automatic grading and using fear as incentive. 
 
+To summarize, here's a statement from [educator Shelley Wright](https://shelleywright.wordpress.com/2014/08/16/the-mcdonaldization-of-education-the-rise-of-slow/): "McDonaldization attempts to wipe out any of the messiness or inefficiencies of learning. Instead, it attempts to reduce it to a commodity that can be packaged, marketed and sold. Rather than cultivating a deep, holistic love of learning that touches every aspect of a student’s life, learning has been reduced to an assembly line. In reality, we’ve imposed a mechanistic view of life onto how people learn, which is largely an organic process, and at a great cost."
 
 So how do virtual spaces — like video games and online communities — serve them? In ["Video Games are the Future of Education"](https://nabeelqu.co/education), Nabeel Qureshi gives multiple conclusions. 
 
