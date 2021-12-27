@@ -299,6 +299,7 @@ What attracted me to MMO games and art communities were the values they encourag
 
 ### Powered by Web3
 In a Web3-powered future, learning is an (infinite) game. ==Expand on this==
+lifelong student
 
 But first, what is Web3, and what does it even mean to be powered by it? To understand this, we must first learn about Web1 and Web2. 
 
@@ -312,7 +313,7 @@ Web3 is also helping build the foundation of the Metaverse: an Internet that bri
 
 This is because the Metaverse is also the ultimate digital creative tool. In ["Computers and Creativity"](https://www.mollymielke.com/cc), designer Molly Mielke discusses how digital creative tools can potentially be co-creators with human beings; they foster innovation by lowering the barrier to entry, making all users toolmakers and owners. In order to do this, the tools need to be interoperable, moldable, efficient, and community-driven: all traits that an ideal Metaverse has. First, being able to move digital experiences/assets into different platforms increases their value, and also allows for more collaboration and innovation between people. Next, the ability to customize spaces in the Metaverse (as seen in Minecraft servers and Gather rooms) encourages people's creativity. Then, [the Metaverse itself is infrastructure](https://venturebeat.com/2021/11/18/the-metaverse-is-infrastructure/), making actions like communicating real-time, managing presence, and earning money easier. Finally, the people within the Metaverse are what bring it to life, which can be seen in content generation and community building. 
 
-Overall, the Metaverse makes creating easier for all, which in turn aids the process of learning. Stated well by [investor Tina He](https://fakepixels.substack.com/p/fkpxls-special-volume-embedded-education): "If the purpose of education is to inspire courage to expand our collective understanding of the world, the vision of Embedded Education is that every time we see something that inspires us, the path to actualizing this new-found dream starts right where we find it."
+Overall, the Metaverse makes creating easier for all, which in turn aids the process of learning. Stated well by [investor Tina He](https://fakepixels.substack.com/p/fkpxls-special-volume-embedded-education): "If the purpose of education is to inspire courage to expand our collective understanding of the world, the vision of Embedded Education is that every time we see something that inspires us, the path to actualizing this new-found dream starts right where we find it." Hopefully, this ease motivates people to learn not because they want to win something, but instead because they truly enjoy it.
 
 ### We're ready for this future
 The youth are already primed for this future; being immersed in digital worlds helps us transition to virtual systems like Web3. Founder Brian Cho discusses the advantages. 
