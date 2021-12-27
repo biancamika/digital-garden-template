@@ -297,6 +297,17 @@ What if we approached life as an infinite game? Success doesn't have to be stres
 
 What attracted me to MMO games and art communities were the values they encouraged: creation and collaboration. All people wanted to do was to keep making things and sharing them with others.  This wholesome culture changed with the [advent of platforms](https://www.artsy.net/article/artsy-editorial-rise-fall-internet-art-communities); now, interactions are quantifiable and people are motivated by competition. If we want to make learning feel like play, we need to revive the culture of the early web, so that creation feels like an infinite game once again. And I believe that the key to this shift lies in a whole new web: Web3. 
 
+### Powered by Web3
+In a Web3-powered future, learning is an (infinite) game. ==Expand on this==
+
+But first, what is Web3, and what does it even mean to be powered by it? To understand this, we must first learn about Web1 and Web2. 
+
+Web1 is all about consumption. Since the web was still in its early stages of development, most Internet users were readers of static web pages. It was difficult to produce your own web pages since it required both technical literacy and available time. Creativity was still alive though; because of technical constraints, [everything was *handmade*](https://stackingthebricks.com/how-blogs-broke-the-web/), from website navigation to image placement. No two home pages looked the same. 
+
+This changed with the arrival of Web2, which is all about creation. The invention of platforms (i.e. blogging and social media) made it easier to create content; now, anyone can be both consumer and creator. However, it can be argued that some creative power was sacrificed. One, individuality declined. Due to efficiency, users were working *inside* systems instead of *building* their own. Two, content is owned by companies operating platforms, not the users who generated all of it. This is the price they pay for using these platforms, along with their personal data. 
+
+Thankfully, Web3 is all about ownership. It's a new iteration of the Internet where [interactions in applications/software are facilitated through wallets — which serve as both verified identities and funding sources](https://twitter.com/gaby_goldberg/status/1449002871706501133).  This decentralizes the web, empowering users to own their content, data, and assets.
+
 
 
 
