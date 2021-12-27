@@ -298,8 +298,8 @@ What if we approached life as an infinite game? Success doesn't have to be stres
 What attracted me to MMO games and art communities were the values they encouraged: creation and collaboration. All people wanted to do was to keep making things and sharing them with others.  This wholesome culture changed with the [advent of platforms](https://www.artsy.net/article/artsy-editorial-rise-fall-internet-art-communities); now, interactions are quantifiable and people are motivated by competition. If we want to make learning feel like play, we need to revive the culture of the early web, so that creation feels like an infinite game once again. And I believe that the key to this shift lies in a whole new web: Web3. 
 
 ### Powered by Web3
-In a Web3-powered future, learning is an (infinite) game. ==Expand on this==
-lifelong student
+In a Web3-powered future, learning is an (infinite) game. People learn by making
+Everyone is a lifelong student, 
 
 But first, what is Web3, and what does it even mean to be powered by it? To understand this, we must first learn about Web1 and Web2. 
 
