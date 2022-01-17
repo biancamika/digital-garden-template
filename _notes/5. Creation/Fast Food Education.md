@@ -255,3 +255,22 @@ The school also advocates for cross-pollination. Their workshops are interdiscip
 Stated by Tech Learning Collective: "...Our primary inquiries in...classes consider how we can leverage our digital devices for the most immediate social good...much like the advice encouraging you to eat foods whose ingredients you can pronounce and grown on soil you have left your footprints on, we believe that our engagement with technology ought to be as directly integrated as possible with our everyday lives..." Thanks to their technological and political immersion, their students reclaim power over the work they do, getting to truly flourish. They will be truly capable of shaping the system we are all stuck in.
 
 Perhaps it's too ambitious to hold fast food education to the standards of a fine dining experience. But being responsible for the development of many is nothing to make light of, especially if they've been disenfranchised by society. [Education is not a product, but a process](https://www.insidehighered.com/blogs/just-visiting/moocs-are-dead-whats-next-uh-oh?cmdid=F31RY86F0UQCL1). What they get shouldn't be packaged shallow content, but rather building blocks to help them grow (just like nutritional food!). In short, democratizing holistic tech education is what is truly innovation. With all that the edtech industry is capable of, that hopefully won't be such a tall order to fill. ==(weak ending aaahhh)==
+
+--- 
+## Cathexis
+### Curation
+#### Amazing Art
++ **[Cognition diary:](https://www.behance.net/gallery/105592711/cognition-diary-2020)**
++ **[Classroom design explorations:](https://twitter.com/azlenelza/status/1457346877163143170)**
+#### Interesting Innovations
++ **Teaching Machines:** https://www.edsurge.com/news/2021-06-15-new-book-explores-the-long-and-surprising-history-of-teaching-machines
++ **[Khan Academy Early Product Development / Long-term Research:](https://early.khanacademy.org/)**
++ **[Para-/Extra-Institutional Schools:](https://www.are.na/shannon-mattern/para-extra-institutional-schools)**
+#### Rabbit Hole Reads
++ **[Ten Expeditionary Learning Principles:](https://en.wikipedia.org/wiki/Kurt_Hahn#Ten_Expeditionary_Learning_Principles)** hi
++ **[We Don't Need No Innovation:](https://logicmag.io/kids/we-dont-need-no-innovation/)** 
++ **[The Future of Education:](https://www.youtube.com/watch?v=j0uw7Xc0fLk&list=TLPQMTQxMDIwMjFLzdGjbz6JuQ&index=4)** talk
++ **[Education in Posthuman Times:](https://twitter.com/KaySocLearn/status/1463904737821143047)** lecture
+#### Wise Words
++ a
+https://twitter.com/mollyfmielke/status/1452719727550222337
