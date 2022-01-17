@@ -260,17 +260,27 @@ Perhaps it's too ambitious to hold fast food education to the standards of a fin
 ## Cathexis
 ### Curation
 #### Amazing Art
-+ **[Cognition diary:](https://www.behance.net/gallery/105592711/cognition-diary-2020)**
-+ **[Classroom design explorations:](https://twitter.com/azlenelza/status/1457346877163143170)**
++ **[Cognition diary:](https://www.behance.net/gallery/105592711/cognition-diary-2020)** A speculative design project by Lera Ganicheva, Cognition diary is a personalized learning tool and a knowledge base designed by people individually throughout their lives. It takes the form of a customizable VR space where buildings represent disciplines studied by the user. I love embodied learning (thanks to being both an educator and a dancer), so I also loved the concept behind this project! I hope to create a speculative design project of my own one day as well. Check out the full project here.
++ **[Classroom design explorations:](https://twitter.com/azlenelza/status/1457346877163143170)** What would a classroom look like if it wasn't teacher-led, but instead teacher-curated? Azlen Ezla explores this in these sketches, rethinking learning environments. As someone who struggles to sit still in a typical classroom, I am excited by the possibilities these sketches offer. 
 #### Interesting Innovations
-+ **Teaching Machines:** https://www.edsurge.com/news/2021-06-15-new-book-explores-the-long-and-surprising-history-of-teaching-machines
-+ **[Khan Academy Early Product Development / Long-term Research:](https://early.khanacademy.org/)**
-+ **[Para-/Extra-Institutional Schools:](https://www.are.na/shannon-mattern/para-extra-institutional-schools)**
++ **Teaching Machines:** https://www.edsurge.com/news/2021-06-15-new-book-explores-the-long-and-surprising-history-of-teaching-machines Automation is no stranger to education. Way before the advent of personal computers, inventors and researchers created "teaching machines" for revolutionizing education. In her book Teaching Machines, Audrey Watters argues  that this history is important for current educators & policy leaders to know. This quote of hers from an interview particularly struck me:
+
+> “I wanted to tell a story that didn’t have anything to do with computers,” she says, noting how mechanical early teaching machines were. “Because I think that too often in edtech, we get so hung up on the tech,” she adds. “We're so committed to talking about the latest gadget, the new software, this or that app, that we really act as though somehow it's that the tech is all there is to talk about. That the tech is the driving force of change. That the tech is the driving force of history.”
+
+You can check out the whole book here. 
++ **[Khan Academy Early Product Development / Long-term Research:](https://early.khanacademy.org/)** Combining practices from product design, academic research, and pedagogy, Khan Academy's experimental R&D group sought to explore and uncover future possibilities in education. 3 years of experimentation resulted in interesting reports on building complex reasoning skills, exploring creative math, and more! I admire how 1.) intersectional this research is (I want to do similar work in the future) and 2.) it's open-source! Read all the reports here.
++ **[Para-/Extra-Institutional Schools:](https://www.are.na/shannon-mattern/para-extra-institutional-schools)** Curated by Shannon Mattern, this channel is a wealth of initiatives that seek to reimagine education. I don't know about you, but I'm nerding out over these; I get excited thinking about how these alternative models of education can be brought over to the Philippines! Check out the full channel here. 
 #### Rabbit Hole Reads
-+ **[Ten Expeditionary Learning Principles:](https://en.wikipedia.org/wiki/Kurt_Hahn#Ten_Expeditionary_Learning_Principles)** hi
-+ **[We Don't Need No Innovation:](https://logicmag.io/kids/we-dont-need-no-innovation/)** 
-+ **[The Future of Education:](https://www.youtube.com/watch?v=j0uw7Xc0fLk&list=TLPQMTQxMDIwMjFLzdGjbz6JuQ&index=4)** talk
-+ **[Education in Posthuman Times:](https://twitter.com/KaySocLearn/status/1463904737821143047)** lecture
++ **[Ten Expeditionary Learning Principles:](https://en.wikipedia.org/wiki/Kurt_Hahn#Ten_Expeditionary_Learning_Principles)** Drawn from the ideas of Kurt Hahn and other education leaders, The Ten Expeditionary Learning Principles seek to describe a caring, adventurous school culture and approach to learning. I love how concise these are, and I plan to incorporate them into my own learning philosophy. You can check out all the principles here. 
++ **[We Don't Need No Innovation:](https://logicmag.io/kids/we-dont-need-no-innovation/)** Written by Phil Nichols, this essay illustrates how a fight over school reforms in West Philadelphia revealed the pathologies and possibilities of disrupting education. Reading this made me rethink what it means to be innovative. I particularly like this last line: 
+> "If 'innovation' is to be anything more than a buzzword—or a Trojan horse for austerity measures, urban development, and workforce production—it must be rooted in such a commitment to the self-determination and flourishing of the publics that schools are meant to serve."
+
+Read the whole essay here. 
++ **[The Future of Education:](https://www.youtube.com/watch?v=j0uw7Xc0fLk&list=TLPQMTQxMDIwMjFLzdGjbz6JuQ&index=4)** In this talk with Russell Brand, Yuval Noah Harari shared his thoughts on the future of humanity, talking about the challenges facing the next generation (and how they might be overcome). This whole conversation was a delight to listen to! A lot of gems, like this line: "Many jobs are not worth saving - what we need to protect is not the jobs but the humans." You can watch the full talk here.
++ **[Education in Posthuman Times:](https://twitter.com/KaySocLearn/status/1463904737821143047)** A lecture intertwining education and philosophy? Sign me up! To be honest, I haven't fully listened to this yet, but I'm already intrigued by what I've seen, especially this quote from a 'becoming-manifesto' for posthuman education at the beginning:
+> "Posthuman education...creates spaces where we can be outside ourselves, be inside ourselves, be something else, be outside, be inside, be elsewhere but there, be not ourselves, be not a self at all but something and nothing all at the same time. Where a learner feels the learning somewhere along the pain to joy spectrum but sees the neurons fire either way; where the trees speak and the earth groans and the machines and the selves hear and listen to the wisdom of all of it and everything that is and sometimes is not."
+
+You can watch the full lecture here.
 #### Wise Words
-+ a
++ Wondering what the current state of humanity would be like if schools weren't designed to limit us...
 https://twitter.com/mollyfmielke/status/1452719727550222337
