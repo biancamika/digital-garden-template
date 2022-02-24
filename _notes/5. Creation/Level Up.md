@@ -449,7 +449,21 @@ Imagine also collaboratively creating our curricula. Educational materials (i.e.
 To summarize, Mielke writes that standardization would fundamentally improve digital creative tools by ["...allowing in more collaborators, making space for greater tooling innovation, and expanding a project's creative constraints beyond any one tool itself."](https://www.mollymielke.com/cc#stan) A Web3-powered Metaverse cannot be built alone; standardization brings both the giant manpower and diverse perspectives needed to bring it to life.
 
 #### Moldability
+What if...**learning was like a Choose Your Own Adventure?** Players customize their character by choosing what they want to acquire, from learned skills to supported works. This may lead to the emergence of different classes; the profile of an artist will look different from a community builder. Self-expression is the path to levelling up online; McCormick writes: ["... the more you signal who you are and what you care about, the more you open yourself up to new possibilities."](https://www.notboring.co/p/the-great-online-game)  These new possibilities are opportunities (e.g. partnerships, offers, projects) that come because people are attracted to your presence.
 
+What if...**we could design our learning experience?** Nowadays, in an era of mass-produced software, our workflows are dictated by the tools we use. However, everyone is unique in their thought process. A Web3-powered Metaverse acknowledges this by enabling us [ to own the ways we learn and create.](https://thesephist.com/posts/tools/) We're already used to customizing our digital presence, whether it's through the profile pictures we use or the personal websites we make. So why can't we have this for our digital experiences as well? 
+
+The teachers of the future will also be designers. They'll be designing not just content and delivery, but also environment (where are students learning?) and mechanics (what systems/rules do they have to follow?). In the Metaverse, the forms a classroom can take are endless: [an art gallery](https://oncyber.io/), [a theme park](https://www.animocabrands.com/the-sandbox-partners-with-atari), [a shopping district](https://www.republicrealm.com/metajuku)...anything you want it to be. With more people from diverse backgrounds becoming teachers, classrooms will be greatly transformed in order to fit a variety of learning styles. See [Azlen Elza's classroom design explorations.](https://twitter.com/azlenelza/status/1457346877163143170) Teachers can also incorporate tokens into the learning experience; these can track almost anything that can be tracked with a smart contract (e.g. reputation on a social platform, skills of a video game character).
+
+What if...**learning was like a multiplayer game?**
+- Passionate communities
+	- toolmakers
+	- DAOs
+		- choose your school
+		- Guilds 
+
+
+Overall, a Web3-powered Metaverse is not just a digital creative tool -- it is powerful enough to be a *medium* for creative expression. This is because of customization and the support of collaborative communities. This educational platform cannot serve everyone if it cannot adapt to anyone's needs.
 #### Abstraction
 
 
