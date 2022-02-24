@@ -258,7 +258,7 @@ How can I bring in the idea of an infinite game...
 		6. All students get a POAP (Proof of Attendance Protocol) for completing onboarding!
 		7. Ends on a hopeful note? Maybe the teacher saying how they're excited to see their students' journeys of lifelong learning? ahhaha
 
-## Writing
+## Draft 1
 > "You'll find the future wherever people are having the most fun." — Steven Johnson, *Wonderland: How Play Made the Modern World*
 
 As a kid who grew up on the Internet, creating was a way of living.  I remember spending hours telling stories online, whether it be through drawing fanart or roleplaying fantasies. It got to the point when my mother enforced a limit, worried that I was getting addicted to the computer. Now, I've found myself being gifted various opportunities (e.g. a prestigious scholarship, international freelance gigs, exciting Web3 projects) thanks to being well-versed in design, art, and writing: these are skills that I primarily gained not through sitting in school, but through having fun online.
@@ -429,6 +429,29 @@ The ways we're learning and creating are no longer serving us; both traditional 
 However, this is only possible because virtual spaces (i.e. games, communities) were open to these youth, being both accessible and engaging. We need to ensure that a Web3-powered Metaverse will be the same. If it's closed off to all but a select few, we'd be closing off potential creators who hold new possibilities for human innovation.
 
 If life is a game, we all want to level up. We choose the type of game we want to play. Do you want to upgrade only yourself, or also help upgrade our world? Your success is up to you.
+
+## Draft 2
+### A Whole New Web
+#### Welcome to the Metaverse
+- we are now living in a metaverse paragraph
+- back with web3? (no need to describe in detail; can be expounded in later sections)
+- the ultimate digital creative tool
+
+#### Standardization
+What if...**[every player could have their own profile?](https://www.rushil2cents.com/the-internet-as-your-resume/)** Right now, we have multiple social media accounts because the applications we use aren't connected to one another; this confines one's activity to the platform it was done on. A Web3-powered Metaverse is built for interoperability, freeing users from being restricted to platforms. Thanks to wallets, [everyone can have their own inventory](https://darkblueheaven.com/newinternetlogic), enabling them to bring their data, content, and assets with them wherever they go. These inventories are the basis of profiles. They can act as dynamic resumes/passports, where everything you learn and make is automatically shown on-chain. 
+
+For instance, you could get a badge for every educational experience you've attended. This is made possible through [Proof of Attendance Protocols (POAPs)](https://poap.xyz/), NFTs that serve as reliable records of life experiences. Experiments like [Free Learn](https://kernel.community/en/blog/community/free-learn/) and [LABEL](https://beincrypto.com/learn/label-blockchain-mooc/) have been exploring this. Imagine also earning tokens for learning. As a token holder, you'd be able to exchange your tokens for fiat, compensate students/teachers/creators, and make decisions regarding how the group behind the experience operates.
+
+What if...**we could co-create our classrooms?** Interoperability is only possible through standardization, which ensures compatibility. The open-source movement does this well; extensive documentation and open licensing enables a remixing culture where developers are always building upon each other's creations. Standards are already being created for our potential learning environment. For example, over 1,000 assets in the Ethereum ecosystem follow the ERC-20 token standard; meanwhile, the Metaverse ecosystem is being built by both Big Tech companies and volunteer groups (e.g. [Pixar open sourcing the Universal Scene Description file format](https://www.matthewball.vc/all/interchangemetaverse); [The Open Metaverse Interoperability Group](https://omigroup.org/home/) designing protocols for integral features like identity, social graphs, inventory, etc.).
+
+Imagine also collaboratively creating our curricula. Educational materials (i.e. syllabi, playbooks, journals) would be open-sourced. The culture of remixing will still persist; these materials will always be open to edits, comments, and updates from the general public. In order to tackle problems of information overload and quality control, curators for these materials will be needed more than ever. Profiles can be used to determine if a person has enough experience to become a curator for a certain topic.
+
+To summarize, Mielke writes that standardization would fundamentally improve digital creative tools by ["...allowing in more collaborators, making space for greater tooling innovation, and expanding a project's creative constraints beyond any one tool itself."](https://www.mollymielke.com/cc#stan) A Web3-powered Metaverse cannot be built alone; standardization brings both the giant manpower and diverse perspectives needed to bring it to life.
+
+#### Moldability
+
+#### Abstraction
+
 
 
   
