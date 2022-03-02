@@ -461,24 +461,26 @@ Imagine also collaboratively creating our curricula. Educational materials (i.e.
 To summarize, Mielke writes that standardization would fundamentally improve digital creative tools by ["...allowing in more collaborators, making space for greater tooling innovation, and expanding a project's creative constraints beyond any one tool itself."](https://www.mollymielke.com/cc#stan) A Web3-powered Metaverse cannot be built alone; standardization brings both the giant manpower and diverse perspectives needed to bring it to life.
 
 #### Moldability
-What if...**learning was like a Choose Your Own Adventure?** Players customize their character by choosing what they want to acquire, from learned skills to supported works. This may lead to the emergence of different classes; the profile of an artist will look different from a community builder. Self-expression is the path to levelling up online; McCormick writes: ["... the more you signal who you are and what you care about, the more you open yourself up to new possibilities."](https://www.notboring.co/p/the-great-online-game)  These new possibilities are opportunities (e.g. partnerships, offers, projects) that come because people are attracted to your presence.
+What if...**learning was like a Choose Your Own Adventure?** Players could customize their character by choosing what they want to acquire, from learned skills to supported works. This may lead to the emergence of different classes; the profile of an artist will look different from a community builder. Self-expression is the path to levelling up online; McCormick writes: ["... the more you signal who you are and what you care about, the more you open yourself up to new possibilities."](https://www.notboring.co/p/the-great-online-game)  These new possibilities are opportunities (e.g. partnerships, offers, projects) that come because people are attracted to your presence.
 
-What if...**we could design our learning experience?** Nowadays, in an era of mass-produced software, our workflows are dictated by the tools we use. However, everyone is unique in their thought process. A Web3-powered Metaverse acknowledges this by enabling us [to own the ways we learn and create.](https://thesephist.com/posts/tools/) We're already used to customizing our digital presence, whether it's through the profile pictures we use or the personal websites we make. So why can't we have this for our digital experiences as well? 
+If we could design our own profiles, what if **we could also design our learning experience?** Nowadays, in an era of mass-produced software, our workflows are dictated by the tools we use. However, everyone is unique in their thought process. A Web3-powered Metaverse acknowledges this by enabling us [to own the ways we learn and create.](https://thesephist.com/posts/tools/) We're already used to customizing our digital presence, whether it's through the profile pictures we use or the personal websites we make. So why can't we have this for our digital experiences as well? 
 
 It's difficult to learn how to fully customize our experiences without being exposed to how others mold them. Enter [toolmakers](https://www.mollymielke.com/cc#mold): pioneering users that share their creations and advocate for a tool's promise. They're vital for empowering average users, since the toolmakers' creations inspire average users to mold the tool themselves. Content creators and community builders are good examples of this; in their own way, they're also teachers, bringing the best out of their audiences.
 
 Thus, the teachers of the future will be full-fledged designers. They'll be designing not just content and delivery, but also environment (where are students learning?) and mechanics (what systems/rules do they have to follow?). In the Metaverse, the forms a classroom can take are endless: [an art gallery](https://oncyber.io/), [a theme park](https://www.animocabrands.com/the-sandbox-partners-with-atari), [a shopping district](https://www.republicrealm.com/metajuku)...anything you want it to be. With more people from diverse backgrounds becoming teachers, classrooms will be greatly transformed in order to fit a variety of learning styles. See [Azlen Elza's classroom design explorations.](https://twitter.com/azlenelza/status/1457346877163143170) Teachers could also incorporate tokens into the learning experience; these can track almost anything that can be tracked with a smart contract (e.g. reputation on a social platform, skills of a video game character). Imagine all the possible ways learning could happen.
 
-What if...**learning was like a multiplayer game?** As seen with toolmakers, passionate communities are vital to the learning experiences of game & SaaS platforms; imagine Minecraft without its experimental Youtubers or Notion without its productivity nerds. 
+What if...**learning was like a multiplayer game?** As seen with toolmakers, passionate communities are vital to the learning experiences of game & SaaS platforms; imagine Minecraft without its creative builders or Notion without its productivity nerds. Navigating your own education is difficult without having guides and peers supporting you. In a Web3-powered Metaverse, communities would come in the form of DAOs, or decentralized autonomous organizations (DAOs): mission-driven groups that coordinate through blockchain-enforced rules (Linda Xie). [This structure enables learners and educators alike to collaboratively steward their education](https://twitter.com/KatwellKat/status/1490428103612518400).
 
+DAOs could act as guilds, onboarding newbies and helping them level up in this game. A niche exists for every type of person: artists, developers, gamers, investors, etc., and students could choose what best suits their adventure. Membership is signified with an NFT on their profile, which in turn gives them access to the guild's content and community. Students grow by acquiring experience points and tokens through completing learning bounties or sharing knowledge with others.
 
-
-Web3 has especially grown because of decentralized autonomous organizations (DAOs): mission-driven groups that coordinate through blockchain-enforced rules. They serve as core infrastructure for the (Great Online Game) by making it easier to connect and collaborate with others online; these same processes would take even longer offline. Apply to learning DAOs (Maxwell thread)
-
-- DAOs
-	- choose your school
-	- Guilds 
-
+- Describe Learning DAO Examples:
+	- Crypto Culture Society. coined learning DAO
+		- decentralized crowdfunded form of education
+		- vote on syllabus, scholarships, guests, and more
+		- earn $LEARN tokens for working on emergent projects
+	- Curious Addy's Trading Club (community embedded within a game)
+		- NFT octopuws
+- how can i mention https://station.express/ ?
 
 Overall, a Web3-powered Metaverse is not just a digital creative tool -- it is powerful enough to be a *medium* for creative expression. This is because of customization and the support of collaborative communities. This educational platform cannot serve everyone if it cannot adapt to anyone's needs.
 #### Abstraction
