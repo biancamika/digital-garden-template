@@ -437,6 +437,18 @@ If life is a game, we all want to level up. We choose the type of game we want t
 - back with web3? (no need to describe in detail; can be expounded in later sections)
 - the ultimate digital creative tool
 
+https://ed3.mirror.xyz/0U3QG8-4K6CD_ltU6SJyKN3-uBD3x6nEFs-YeShzYmk
+good intro to ed3
+> **Web3 refers to the decentralized ecosystem of technology to support the next generation of virtual engagement.**
+
+> **Web3 enables individual users to make decisions about their online activity without having to compromise utility**.
+
+> **In ed3, learners own their education - validating their knowledge with decentralized technology in contrast to previous models.**
+
+> -   Ed1 was knowledge transfer provided by accredited institutions, such as universities and high schools
+> - Ed2 was centralized platforms distributing education, such as Udemy, Skillshare, and Outschool
+> - Ed3 is individuals gathering skills from a variety of sources and validating that knowledge in their own wallet.
+
 #### Standardization
 What if...**[every player could have their own profile?](https://www.rushil2cents.com/the-internet-as-your-resume/)** Right now, we have multiple social media accounts because the applications we use aren't connected to one another; this confines one's activity to the platform it was done on. A Web3-powered Metaverse is built for interoperability, freeing users from being restricted to platforms. Thanks to wallets, [everyone can have their own inventory](https://darkblueheaven.com/newinternetlogic), enabling them to bring their data, content, and assets with them wherever they go. These inventories are the basis of profiles. They can act as dynamic resumes/passports, where everything you learn and make is automatically shown on-chain. 
 
@@ -457,16 +469,20 @@ It's difficult to learn how to fully customize our experiences without being exp
 
 Thus, the teachers of the future will be full-fledged designers. They'll be designing not just content and delivery, but also environment (where are students learning?) and mechanics (what systems/rules do they have to follow?). In the Metaverse, the forms a classroom can take are endless: [an art gallery](https://oncyber.io/), [a theme park](https://www.animocabrands.com/the-sandbox-partners-with-atari), [a shopping district](https://www.republicrealm.com/metajuku)...anything you want it to be. With more people from diverse backgrounds becoming teachers, classrooms will be greatly transformed in order to fit a variety of learning styles. See [Azlen Elza's classroom design explorations.](https://twitter.com/azlenelza/status/1457346877163143170) Teachers could also incorporate tokens into the learning experience; these can track almost anything that can be tracked with a smart contract (e.g. reputation on a social platform, skills of a video game character). Imagine all the possible ways learning could happen.
 
-What if...**learning was like a multiplayer game?** 
-- Passionate communities
-	- aside from toolmakers
-	- DAOs
-		- choose your school
-		- Guilds 
+What if...**learning was like a multiplayer game?** As seen with toolmakers, passionate communities are vital to the learning experiences of game & SaaS platforms; imagine Minecraft without its experimental Youtubers or Notion without its productivity nerds. 
+
+
+
+Web3 has especially grown because of decentralized autonomous organizations (DAOs): mission-driven groups that coordinate through blockchain-enforced rules. They serve as core infrastructure for the (Great Online Game) by making it easier to connect and collaborate with others online; these same processes would take even longer offline. Apply to learning DAOs (Maxwell thread)
+
+- DAOs
+	- choose your school
+	- Guilds 
 
 
 Overall, a Web3-powered Metaverse is not just a digital creative tool -- it is powerful enough to be a *medium* for creative expression. This is because of customization and the support of collaborative communities. This educational platform cannot serve everyone if it cannot adapt to anyone's needs.
 #### Abstraction
+- you can mention multiplayer media here
 
 
 
