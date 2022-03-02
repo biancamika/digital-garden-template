@@ -452,7 +452,7 @@ good intro to ed3
 #### Standardization
 What if...**[every player could have their own profile?](https://www.rushil2cents.com/the-internet-as-your-resume/)** Right now, we have multiple social media accounts because the applications we use aren't connected to one another; this confines one's activity to the platform it was done on. A Web3-powered Metaverse is built for interoperability, freeing users from being restricted to platforms. Thanks to wallets, [everyone can have their own inventory](https://darkblueheaven.com/newinternetlogic), enabling them to bring their data, content, and assets with them wherever they go. These inventories are the basis of profiles. They can act as dynamic resumes/passports, where everything you learn and make is automatically shown on-chain. 
 
-For instance, you could get a badge for every educational experience you've attended. This is made possible through [Proof of Attendance Protocols (POAPs)](https://poap.xyz/), NFTs that serve as reliable records of life experiences. Experiments like [Free Learn](https://kernel.community/en/blog/community/free-learn/) and [LABEL](https://beincrypto.com/learn/label-blockchain-mooc/) have been exploring this. Imagine also earning tokens for learning. As a token holder, you'd be able to exchange your tokens for fiat, compensate students/teachers/creators, and make decisions regarding how the group behind the experience operates.
+For instance, you could get a badge for every educational experience you've attended. This is made possible through [Proof of Attendance Protocols (POAPs)](https://poap.xyz/), NFTs that serve as reliable records of life experiences. Experiments like [Free Learn](https://kernel.community/en/blog/community/free-learn/) and [LABEL](https://beincrypto.com/learn/label-blockchain-mooc/) have been exploring this. Imagine also earning tokens for learning. As a token holder, you'd be able to exchange your tokens for fiat, compensate students/teachers/creators, and make decisions regarding how the group behind the experience operates. For instance, learners in [Crypto, Culture, & Society](https://ccsdao.xyz) (liberal arts education for crypto) use their tokens for voting on the syllabus, scholarships, guests, etc.
 
 What if...**we could co-create our classrooms?** Interoperability is only possible through standardization, which ensures compatibility. The open-source movement does this well; extensive documentation and open licensing enables a remixing culture where developers are always building upon each other's creations. Standards are already being created for our potential learning environment. For example, over 1,000 assets in the Ethereum ecosystem follow the ERC-20 token standard; meanwhile, the Metaverse ecosystem is being built by both Big Tech companies and volunteer groups (e.g. [Pixar open sourcing the Universal Scene Description file format](https://www.matthewball.vc/all/interchangemetaverse); [The Open Metaverse Interoperability Group](https://omigroup.org/home/) designing protocols for integral features like identity, social graphs, inventory, etc.).
 
@@ -473,18 +473,31 @@ What if...**learning was like a multiplayer game?** As seen with toolmakers, pas
 
 DAOs could act as guilds, onboarding newbies and helping them level up in this game. A niche exists for every type of person: artists, developers, gamers, investors, etc., and students could choose what best suits their adventure. Membership is signified with an NFT on their profile, which in turn gives them access to the guild's content and community. Students grow by acquiring experience points and tokens through completing learning bounties or sharing knowledge with others.
 
-- Describe Learning DAO Examples:
-	- Crypto Culture Society. coined learning DAO
-		- decentralized crowdfunded form of education
-		- vote on syllabus, scholarships, guests, and more
-		- earn $LEARN tokens for working on emergent projects
-	- Curious Addy's Trading Club (community embedded within a game)
-		- NFT octopuws
-
 Overall, a Web3-powered Metaverse is not just a digital creative tool -- it is powerful enough to be a *medium* for creative expression. This is because of customization and the support of collaborative communities. This educational platform cannot serve everyone if it cannot adapt to anyone's needs.
 #### Abstraction
 - you can mention multiplayer media here
 - how can i mention https://station.express/. On-chain infrastructure for onboarding & coordinating contributors of the future. maybe before (when users are exploring? maybe this is better to put in abstraction na lang)
+- Curious Addy's Trading Club, an NFT project where a Web3 learning community is embedded within a game.
+
+-  everyday magic
+	- good software creates agency through malleable systems, playful environments, fast feedback loops, and data interopability
+		- malleable systems (abstraction?)
+			- providing building blocks
+			- more approachable than forcing ppl into rigid flows
+			- enables moldability
+		- playful environments (moldability?)
+			- learning curve is steep, so it must be fun instead of excruciating
+			- solve boring utilitarian needs by embedding fun into the core experience, rewarding experimentation and learning through doing.
+		- fast feedback loops (abstractionl)
+			- delayd can derail creative desire
+			- requirements: responsive to updating on changes and streamlining complexty
+			- E.G. no-code
+		- interoperability (standradization)
+			- Interoperability refers to the ability to transfer data between apps seamlessly. Practically, this means having easy and comprehensive flows for importing and exporting data into and out of other apps.
+			- In a world of fully interoperable software, new apps can have immediate value because individuals can bring data in from existing apps. This immediate access eliminates the moat that incumbent software has over new creations—multiplying the effectiveness of individual agency by giving full control over produced data.
+	- In the context of software, agency comes down to whether someone feels _in control_ and _powerful_ when they’re using a piece of software, rather than coerced and scared. It’s the difference between wanting to continue exploring rather than dreading continued use.
+	- Agency shifts the balance of power—from corporations and startups to everyday communities and neighbors. In the ideal world, individuals would not only have the power to reject agency-deficient and agency-depriving environments, like those with [dark design patterns](https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3), misaligned profit models, and pyramid scheme-esque incentives; they will also be responsible for using that power towards a future they want to see.
+
 
   
 
