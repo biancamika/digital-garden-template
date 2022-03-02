@@ -480,13 +480,11 @@ DAOs could act as guilds, onboarding newbies and helping them level up in this g
 		- earn $LEARN tokens for working on emergent projects
 	- Curious Addy's Trading Club (community embedded within a game)
 		- NFT octopuws
-- how can i mention https://station.express/ ?
 
 Overall, a Web3-powered Metaverse is not just a digital creative tool -- it is powerful enough to be a *medium* for creative expression. This is because of customization and the support of collaborative communities. This educational platform cannot serve everyone if it cannot adapt to anyone's needs.
 #### Abstraction
 - you can mention multiplayer media here
-
-
+- how can i mention https://station.express/. On-chain infrastructure for onboarding & coordinating contributors of the future. maybe before (when users are exploring? maybe this is better to put in abstraction na lang)
 
   
 
