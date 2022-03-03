@@ -475,6 +475,35 @@ DAOs could act as guilds, onboarding newbies and helping them level up in this g
 
 Overall, a Web3-powered Metaverse is not just a digital creative tool -- it is powerful enough to be a *medium* for creative expression. This is because of customization and the support of collaborative communities. This educational platform cannot serve everyone if it cannot adapt to anyone's needs.
 #### Abstraction
+What if...**learning was truly hands-on?** In order to enable more people's creativity online, the technical work required of them must be abstracted. Enaging with technology is still too complex and confusing because it still requires a ton of cognitive effort, whether you're an everyday user or an experienced developer. This can be seen in learning Web3, where transactions must be understood before being approved, and programming, where [the problem must be visualized before working on it.](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/) As the most immersive learning environment, a Web3-powered Metaverse would take on the burden of comprehension — leaving learners to focus on critical thinking. At the same time, it would encourage them to have fun, making the steep learning curve less excruciating. 
+
+This is why games are the new classrooms. For instance, see "programming by demonstration". Khan Academy already teaches like this; in their exercises, the left-hand side contains the code while the right-hand side contains the simulation of it. The Metaverse would upgrade this simulation, turning outputs on a screen to a whole world you can interact with, like Minecraft. [It encourages computational thinking in kids through their advanced elements, like redstone and command blocks.](https://www.nytimes.com/2016/04/17/magazine/the-minecraft-generation.html) This can also be done for investing in crypto and NFTs. Why read instructional modules when you can experience trading instead? You can do this in [Curious Addy's Trading Club](https://www.curiousaddys.com/), where players can simulate trading cryptocurrencies and NFTs risk-free. Imagine learning other subjects through games!
+
+
+
+    
+
+
+fast feedback loops
+- Metaverse as an interface reduces friction in UX
+
+“Creators need an immediate connection to what they’re creating.”
+
+What if...**you didn't have to start from scratch?** 
+- composability
+	- malleable systems; building blocks
+		- template for everything
+		- learning pathway suggestions
+- efficiency
+	- infrastructure
+		- E.G. Station
+	- metaverse itself is infrastructure
+
+
+
+To summarize, abstraction makes tools fully responsible for executing tedious tasks, which allows people to fully focus on the act of creation. If the Metaverse gives form to Web3, more people will be enabled to make use of this powerful technology. This would help them gain ownership over the web in their own ways.
+
+
 - you can mention multiplayer media here
 - how can i mention https://station.express/. On-chain infrastructure for onboarding & coordinating contributors of the future. maybe before (when users are exploring? maybe this is better to put in abstraction na lang)
 - Curious Addy's Trading Club, an NFT project where a Web3 learning community is embedded within a game.
