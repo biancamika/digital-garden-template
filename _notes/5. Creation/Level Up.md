@@ -507,6 +507,46 @@ To summarize, abstraction makes tools fully responsible for executing tedious ta
 	- In the context of software, agency comes down to whether someone feels _in control_ and _powerful_ when they’re using a piece of software, rather than coerced and scared. It’s the difference between wanting to continue exploring rather than dreading continued use.
 	- Agency shifts the balance of power—from corporations and startups to everyday communities and neighbors. In the ideal world, individuals would not only have the power to reject agency-deficient and agency-depriving environments, like those with [dark design patterns](https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3), misaligned profit models, and pyramid scheme-esque incentives; they will also be responsible for using that power towards a future they want to see.
 
+## Draft 3
+### The Great Online Game
+I believe that the youth learn best when they feel like they're engaging in play; after all, we humans are [Homo Ludens](https://www.goodreads.com/en/book/show/233221.Homo_Ludens) — born players. But I don't necessarily just mean playing video games. I'm talking about the games we play in life. According to [writer James Carse](https://www.goodreads.com/en/book/show/189989.Finite_and_Infinite_Games), there are two types of games: finite, which is played for the purpose of winning, and infinite, which is played for the purpose of continuing play. Even if infinite games are best for learning, most of our educational environments are designed as finite games. Offline, we're optimizing for name-brand schools and 4.0 GPAs; online, we're grinding for topping leaderboards and increasing our reach. What if we approached education as an infinite game? 
+
+The Internet already serves as the venue for the biggest infinite game ever: [The Great Online Game](https://www.notboring.co/p/the-great-online-game). Coined by investor Packy McCormick, this is a game where you play as yourself, racking up points, skills, and attributes that can be applied to your online and offline lives. Levelling up here is simple: the more you provide value (without expecting anything in return), the more you'll be rewarded. The best part is that anyone can play this game; it's nearly free to play, and leveling up is easier since your financial and social capital isn't tightly tied to real life credentials and connections. Playing this game is the ultimate way to experience learning by doing.
+
+People have always been learning this way, but thanks to the Internet, this approach has been given the spotlight it deserves. We've arrived at an age of [embedded education](https://fakepixels.substack.com/p/fkpxls-special-volume-embedded-education), where learning happens everywhere instead of being limited to individual platforms. Now, people are learning through encounters they have in systems that may have been created for non-educational purposes. On one hand, it looks like teenage girls learning about  [HTML/CSS](https://sea.mashable.com/life/19346/from-tumblr-girl-to-engineer-how-the-platform-inspired-a-generation-of-women-to-code) and [feminism](https://magdalene.co/story/feminism-on-tumblr-third-wave-feminism-in-action) on Tumblr; on the other, it looks like productivity nerds creating resources and tutorials for Notion. 
+
+However, the current state of the web isn't designed for the new ways we're learning. This must change; in the future, **I believe that the future of education will look like an infinite game that rewards learning by doing.** This meta-game might be composed of multiple sub-games, where learning takes many forms: going to events (e.g. lectures, workshops, panels), creating insightful content, taking on job experiences, and working on side projects. Thus, everyone becomes a lifelong student; why would you want to stop learning when there are so many opportunities for it?
+
+**I believe that a Metaverse powered by Web3 has the potential to bring this vision to life**; however, if we're not careful, it can easily fall into the same traps of modern education. In this essay, I'll be illustrating what this vision looks like, and how we can design this intentionally.
+
+
+
+
+
+
+### How do we play this game? (Tentative)
+#### Single-Player Learning
+- Hands-on
+- Choose Your Own Adventure
+- Profile
+- CYOA -> Designing your own learning experience
+
+
+
+
+**Notes:**
+- need to fit in scaffolded learning in here somewhere...maybe in CYOA? or learning experience aprt...
+
+#### Multiplayer Learning
+- multiplayer game
+	- DAOs
+- co-creation
+	- no need to start from scratch
+- level up: teachers...design learning experiences not just for yourself, but for all
+	- it's a flywheel! give back to the community
+
+**Notes:**
+- A
 
   
 
