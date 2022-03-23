@@ -508,6 +508,15 @@ To summarize, abstraction makes tools fully responsible for executing tedious ta
 	- Agency shifts the balance of power—from corporations and startups to everyday communities and neighbors. In the ideal world, individuals would not only have the power to reject agency-deficient and agency-depriving environments, like those with [dark design patterns](https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3), misaligned profit models, and pyramid scheme-esque incentives; they will also be responsible for using that power towards a future they want to see.
 
 ## Draft 3
+### Environments and how they enable students
+Our learning is often defined by our environment: [the invisible hand that shapes our behavior](https://jamesclear.com/power-of-environment).  In line with this, the best learning environments are **[enabling environments](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)**; according to researcher Andy Matuschak, these **significantly expand its participants’ capacity to do things they find meaningful and important.** To do this, the activities they provide must directly serve an intrinsically meaningful purpose. When participants are fuelled by an intense personal connection to a subject, they'll naturally partake in effortful engagement, which naturally leads to deep understanding. These activities must also focus on action. Compare reading about a sport versus actually playing the sport; the more isolated participants are from the action, the less likely they are to be enabled by their environment. Overall, an enabling environment enables its participants by creating opportunities for personal growth and highlighting bridges to opportunities for action based on that growth.
+
+Schools aspire to do this, but often fall short; this is because their primary purpose is knowledge/skill development, which isn't intrinsically meaningful on its own. Because of this, students depend on teachers not only for expertise but also for purpose. This dependence hinders the cultivation of an intense personal connection, making it less likely for the students to develop a deep understanding of a subject. Meanwhile, great software environments are better enabling environments for youth because they empower them in pursuing their passions (e.g. expanding range of artistic expression, distributing to millions with zero marginal cost). 
+
+Matuschak clarifies that [most games aren't enabling environments](https://notes.andymatuschak.org/z6DCZK1JtHU3waXWTk5UbNt3kXU4WRT9EwNND). Even if they're effective at developing knowledge/skills, they rarely expand players' capacity in doing things they find meaningful and important, since the primary purpose of most games is to create an aesthetic/emotional experience. However, there are a few that still count; Minecraft's creative mode enables serious creative expression, while the structured social environments of massively-multiplayer online games enable interpersonal connection and community formation. These types of games, alongside great software environments, are the new schools of today's youth.
+
+
+
 ### The Great Online Game
 I believe that the youth learn best when they feel like they're engaging in play; after all, we humans are [Homo Ludens](https://www.goodreads.com/en/book/show/233221.Homo_Ludens) — born players. But I don't necessarily just mean playing video games. I'm talking about the games we play in life. According to [writer James Carse](https://www.goodreads.com/en/book/show/189989.Finite_and_Infinite_Games), there are two types of games: finite, which is played for the purpose of winning, and infinite, which is played for the purpose of continuing play. Even if infinite games are best for learning, most of our educational environments are designed as finite games. Offline, we're optimizing for name-brand schools and 4.0 GPAs; online, we're grinding for topping leaderboards and increasing our reach. What if we approached education as an infinite game? 
 
@@ -519,10 +528,21 @@ However, the current state of the web isn't designed for the new ways we're lear
 
 **I believe that a Metaverse powered by Web3 has the potential to bring this vision to life**; however, if we're not careful, it can easily fall into the same traps of modern education. In this essay, I'll be illustrating what this vision looks like, and how we can design this intentionally.
 
+### A Whole New Web
+This future is defined by freedom; people would be free to choose what they learn and how they learn it. This may only be achievable on an [open web](https://www.yearofopen.org/november-open-perspective-what-is-open-web/what-is-the-open-web-and-why-is-it-important-submitted-by-mark-surman-executive-director-of-the-mozilla-foundation/): one that is by and for all of its users, not select figures or institutions. A closed web is an unequitable world for education; only a few people will have access to opportunities for their personal growth. Together, Web3 and the Metaverse have the potential to open the internet to all.
 
+#### Web3
+An open internet indicates that everyone gets to have ownership over it, and 
+[Web3](https://eshita.mirror.xyz/H5bNIXATsWUv_QbbEz6lckYcgAa2rhXEPDRkecOlCOI) is the infrastructure that enables this. It's a new vision for the Internet where interactions in applications/software are facilitated through wallets; these replace accounts by [serving as both verified identities and funding sources](https://twitter.com/gaby_goldberg/status/1449002871706501133).  This mechanic decentralizes the web, empowering users to own their content, data, and assets. This frees them from being shackled to any given platform (e.g. Facebook, Twitter, Instagram). By making platforms obsolete, Web3 disincentivizes the creation of finite games; clout-chasing and wealth-creation no longer seems appealing when it's limited to a single platform. 
 
+Web3 is reshaping education into [Ed3](https://ed3.mirror.xyz/0U3QG8-4K6CD_ltU6SJyKN3-uBD3x6nEFs-YeShzYmk), where learners own their education; instead of relying on accredited institutions and centralized distributors (e.g. universities and Udemy), they get to gather skills from a variety of sources and validate this knowledge in their own wallets. 
+- what does this look like???
+- benefits: democratize access
 
+Overall, Web3 brings the Internet closer to people than ever before.  However, due to its complexity, Web3 is in need of an interface that can bring it to its fullest potential. Enter the Metaverse.
+- incorporate ed3
 
+#### Metaverse
 
 ### How do we play this game? (Tentative)
 #### Single-Player Learning
