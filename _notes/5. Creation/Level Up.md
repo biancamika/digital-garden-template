@@ -542,10 +542,26 @@ In short, Web3 empowers people to own their digital identities; this in turn ena
 
 
 #### Metaverse
-At the same time, the Metaverse also unlocks the value of Web3. Web3 excels at giving digital assets physical characteristics (e.g. cryptocurrencies behaving like cash, NFTs behaving like physical items); the Metaverse doubles down on this, portraying the internet as a tapestry of rich, immersive environments.
-- this can help people truly understand ownership
+At the same time, the Metaverse also unlocks the value of Web3. Web3 excels at giving digital assets physical characteristics (e.g. cryptocurrencies behaving like cash, NFTs behaving like physical items); the Metaverse doubles down on this, portraying the internet as a tapestry of rich, immersive environments. This visual experience abstracts away Web3's complexity, helping people truly understand and utilize the power of ownership. 
 
-- embedding education?
+- embedding education? (i should probably expand this...how does the metaverse enable this?)
+	-  learning by doing
+		- encounters are platform-native...short feedback loop......more effective way to change behaviors...
+	- accessibility
+		- breaks down walls built by technical complexity
+		- open metaverse = free from platforms/institutions...
+
+ > embedded education delivers learning at the point of getting the job done. From content delivery all the way to community engagement
+
+> The learnings are available for all, but the specific lessons learned wouldn’t provide as much value to people that are not users of the platform, therefore creating scarcity around particular skill sets. The carrier of the knowledge also becomes a stakeholder of the platform, and the more the platform scales, the more valuable the knowledge becomes.
+
+> By creating real platform-native encounters rather than broadcasting information, embedded education is a more effective way to change behaviors. By shortening the feedback loop from theory to practice, it engages people to more deeply internalize what they’ve just learned.
+
+> Language, in the form of jargon, flowery rhetoric, and corporate buzzwords, has created walls that accrue knowledge and power. Embedded Education is an attempt to break down these walls, redistribute information and knowledge through what we already do every day.
+
+> What if the future education is no longer defined by institutions but is distributed and embedded in the everyday experience that’s already most familiar to us?
+
+
 - ultimate digital creative tool (or move to next part na?)
 	- summarize standardization, moldability, and abstraction into one paragraph each
 	- this will serve as general overview before going into specifics
