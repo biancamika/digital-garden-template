@@ -535,16 +535,22 @@ This future is defined by freedom; people would be free to choose what they lear
 An open internet indicates that everyone gets to have ownership over it, and 
 [Web3](https://eshita.mirror.xyz/H5bNIXATsWUv_QbbEz6lckYcgAa2rhXEPDRkecOlCOI) is the infrastructure that enables this. It's a new vision for the Internet where interactions in applications/software are facilitated through wallets; these replace accounts by [serving as both verified identities and funding sources](https://twitter.com/gaby_goldberg/status/1449002871706501133).  This mechanic decentralizes the web, empowering users to own their content, data, and assets. This frees them from being shackled to any given platform (e.g. Facebook, Twitter, Instagram). By making platforms obsolete, Web3 disincentivizes the creation of finite games; clout-chasing and wealth-creation no longer seems appealing when it's limited to a single platform. 
 
-Web3 is reshaping education into [Ed3](https://ed3.mirror.xyz/0U3QG8-4K6CD_ltU6SJyKN3-uBD3x6nEFs-YeShzYmk), where learners own their education; instead of relying on accredited institutions and centralized distributors (e.g. universities and Udemy), they get to gather skills from a variety of sources and validate this knowledge in their own wallets. 
-- what does this look like???
-- benefits: democratize access
+Web3 is reshaping education into [Ed3](https://ed3.mirror.xyz/0U3QG8-4K6CD_ltU6SJyKN3-uBD3x6nEFs-YeShzYmk), where learners own their education; instead of relying on accredited institutions and centralized distributors (e.g. universities and Udemy), they get to gather skills from a variety of sources and validate this knowledge in their own wallets. Decentralized technology can help education solve its challenges with access, affordability, and accreditation. Learners will no longer be inhibited by their time, location, and money; the credentials they gain will not just serve as signalling, but actually guarantee competency.
 
-Overall, Web3 brings the Internet closer to people than ever before.  However, due to its complexity, Web3 is in need of an interface that can bring it to its fullest potential. Enter the Metaverse.
-- incorporate ed3
+In short, Web3 empowers people to own their digital identities; this in turn enables them to own their education. However, Web3 is still too complex  and confusing for the typical learner. It can't be navigated without a high degree of technical literacy. In order to make this accessible to all, this infrastructure needs a paradigm-shifting interface. McCormick writes that it needs to ["...add order to the...chaos of decentralization, and give obvious and meaningful utility to digital assets...it will need to...hide complexity beneath the surface, and deliver clean experiences. It will need to create a canvas for both developers and users themselves to create the next million new apps."](https://www.notboring.co/p/the-interface-phase?s=r)Basically: what interface is capable of enabling people to freely navigate Web3? Enter the Metaverse.
+
+
 
 #### Metaverse
+At the same time, the Metaverse also unlocks the value of Web3. Web3 excels at giving digital assets physical characteristics (e.g. cryptocurrencies behaving like cash, NFTs behaving like physical items); the Metaverse doubles down on this, portraying the internet as a tapestry of rich, immersive environments.
+- this can help people truly understand ownership
 
-### How do we play this game? (Tentative)
+- embedding education?
+- ultimate digital creative tool (or move to next part na?)
+	- summarize standardization, moldability, and abstraction into one paragraph each
+	- this will serve as general overview before going into specifics
+
+### What does this game look like? (Tentative)
 #### Single-Player Learning
 - Hands-on
 - Choose Your Own Adventure
