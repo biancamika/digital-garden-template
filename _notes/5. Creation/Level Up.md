@@ -544,42 +544,40 @@ In short, Web3 empowers people to own their digital identities; this in turn ena
 #### Metaverse
 At the same time, the Metaverse also unlocks the value of Web3. Web3 excels at giving digital assets physical characteristics (e.g. cryptocurrencies behaving like cash, NFTs behaving like physical items); the Metaverse doubles down on this, portraying the internet as a tapestry of rich, immersive environments. This visual experience abstracts away Web3's complexity, helping people truly understand and utilize the power of ownership. 
 
-- embedding education? (i should probably expand this...how does the metaverse enable this?)
-	-  learning by doing
-		- encounters are platform-native...short feedback loop......more effective way to change behaviors...
-	- accessibility
-		- breaks down walls built by technical complexity
-		- open metaverse = free from platforms/institutions...
+As the ultimate virtual space, the ideal Metaverse would be the perfect environment for embedding education. Its immersive nature enables learning by doing. Platform-native encounters shorten the feedback loop from theory to practice, which helps people deeply internalize their learnings. This is characteristic of an enabling environment; reading about anatomy can't compare to [doing virtual surgery](https://aithority.com/technology/blockchain/immersivetouch-metaverse-set-to-revolutionize-vr-based-surgeries-in-india/). The Metaverse would also help make education more accessible. Knowledge and information have often been gatekept by platforms and institutions. To tackle this problem, embedded education aims to redistribute and embed these into our everyday experience. We're already familiar with the Internet, thinking of it as a place; why not see it as one big university too? An open metaverse could be the new school campus.
 
- > embedded education delivers learning at the point of getting the job done. From content delivery all the way to community engagement
+If Web3 enables people to own their education, the Metaverse encourages them to deeply engage with it. It does this by freeing people from Web3's complexity and connecting them with like-minded learners. Currently, it's difficult to see the potential these technologies hold because most mainstream use cases seem frivolous: from collecting expensive animal JPEGs to playing in clunky 3D worlds. However, [the next big thing in technology often looks like a toy](https://www.youtube.com/watch?v=dp2gbWsPFgY). This was the case with the Internet. It was initially dismissed by others; but after improving over time (i.e. lower cost, better UX), it was able to achieve widespread adoption to the point that it entrenches our daily lives. I believe a Web3-powered Metaverse is on this same path. But we still need to ensure that it's on the right track.
 
-> The learnings are available for all, but the specific lessons learned wouldn’t provide as much value to people that are not users of the platform, therefore creating scarcity around particular skill sets. The carrier of the knowledge also becomes a stakeholder of the platform, and the more the platform scales, the more valuable the knowledge becomes.
-
-> By creating real platform-native encounters rather than broadcasting information, embedded education is a more effective way to change behaviors. By shortening the feedback loop from theory to practice, it engages people to more deeply internalize what they’ve just learned.
-
-> Language, in the form of jargon, flowery rhetoric, and corporate buzzwords, has created walls that accrue knowledge and power. Embedded Education is an attempt to break down these walls, redistribute information and knowledge through what we already do every day.
-
-> What if the future education is no longer defined by institutions but is distributed and embedded in the everyday experience that’s already most familiar to us?
-
-
-- ultimate digital creative tool (or move to next part na?)
-	- summarize standardization, moldability, and abstraction into one paragraph each
-	- this will serve as general overview before going into specifics
 
 ### What does this game look like? (Tentative)
-#### Single-Player Learning
-- Hands-on
-- Choose Your Own Adventure
-- Profile
-- CYOA -> Designing your own learning experience
+#### Principles
+If the future of education looks like a game, then it must also be a digital creative tool. In ["Computers and Creativity"](https://www.mollymielke.com/cc), designer Molly Mielke discusses how digital creative tools can potentially be co-creators with human beings; they foster innovation by lowering the barrier to entry, making all users toolmakers and owners. Cultivating human creativity and collaboration should also be the aspiration of an ideal education. How can this purpose be tackled by the technologies we have at our disposal? Mielke names three core concepts, which I'll apply to education:
 
+1.  Educational technology must be **standardized.** Mielke writes that standardization would fundamentally improve digital creative tools by ["...allowing in more collaborators, making space for greater tooling innovation, and expanding a project's creative constraints beyond any one tool itself."](https://www.mollymielke.com/cc#stan) The future of education cannot be built alone; standardization brings both the giant manpower and diverse perspectives needed to bring it to life.
+2.  Educational technology must be **moldable.** It shouldn't just be a digital creative tool — it must be powerful enough to be a medium for creative expression. This can be done through providing learners options for customization and support from collaborative communities. The future of education cannot serve everyone if it cannot adapt to anyone's needs.
+3.  Educational technology must be **abstracted.** By being fully responsible for executing tedious tasks, it'll allow learners to fully focus on creativity and play. The future of education cannot only target an enlightened few; for maximum accessibility, it must be hands-on, comprehensible, and participatory. 
+
+Overall, in order to bring out learners' full potential, educational technology must be interoperable, moldable, efficient, and community-driven. These are all traits that a Web3-powered Metaverse has. Here's how I see this being developed to its fullest potential, especially for education.
+
+#### Single-Player Learning
+In this Game, **learning is hands-on**. If one's objective is to master a topic, they can only prove this competency through practical experience. Currently, learners struggle to gain technical skills because the gap between theory and practice is too wide; whether you're an everyday user or an experienced developer, engaging (and building) with technology requires a ton of cognitive effort. This can be seen in learning Web3, where transactions must be understood before being approved, and programming, where [the problem must be visualized before working on it.](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/) The Game takes on the burden of comprehension by making abstract concepts feel more concrete, leaving learners to focus on critical thinking. At the same time, it would encourage them to have fun, making the steep learning curve less excruciating.
+
+Let's apply this to "programming by demonstration". Khan Academy already teaches like this; in their exercises, the left-hand side contains the code while the right-hand side contains the simulation of it. The Game would upgrade this simulation, turning outputs on a screen to a whole world you can interact with, like Minecraft; [it encourages computational thinking in kids through their advanced elements, like redstone and command blocks.](https://www.nytimes.com/2016/04/17/magazine/the-minecraft-generation.html) Another example is investing in crypto and NFTs: a wealth-building skill that anyone can benefit from. Why read instructional modules when you can experience trading instead? You can do this in [Curious Addy's Trading Club](https://www.curiousaddys.com/), where players can simulate trading cryptocurrencies and NFTs risk-free. Imagine learning other subjects through games too!
+
+In this Game, you can **Choose Your Own Adventure.** The only requirement for leveling up is practical experience, but it's up to the player to decide how they'll gain this experience. So they customize themselves by choosing what they want to acquire, from learned skills to supported works. This is all shown on [**their own profile.**](https://www.rushil2cents.com/the-internet-as-your-resume/) Wallets could serve as the basis of profiles because they enable [everyone to have their own inventory](https://darkblueheaven.com/newinternetlogic); learners could bring their creations and credentials to whatever platform they go to. Thus, a profile can act as a dynamic resume/passport, where everything you learn and make is automatically shown on-chain.
+
+For instance, you could get a badge for every educational experience you've attended. This is made possible through [Proof of Attendance Protocols (POAPs)](https://poap.xyz/), NFTs that serve as reliable records of life experiences. Imagine also earning tokens for learning. As a token holder, you'd be able to exchange your tokens for fiat, compensate students/teachers/creators, and make decisions regarding how the group behind the experience operates. For instance, learners in [Crypto, Culture, & Society](https://ccsdao.xyz) (liberal arts education for crypto) use their tokens for voting on the syllabus, scholarships, guests, etc. Thanks to badges and tokens, passive students become active stakeholders. By helping scale their learning platform, they increase the value of its knowledge; this impact shows on their profile, which helps in leveling up.
+
+Profiles may lead to the emergence of different classes; the profile of an artist will look different from a community builder. Self-expression is the path to leveling up online; McCormick writes: ["... the more you signal who you are and what you care about, the more you open yourself up to new possibilities."](https://www.notboring.co/p/the-great-online-game) These new possibilities are opportunities (e.g. partnerships, offers, projects) that come because people are attracted to your presence. By cultivating your profile, you can **design your own learning experience.**
 
 
 
 **Notes:**
+- how to end: transition to the community. you can't learn alone
 - need to fit in scaffolded learning in here somewhere...maybe in CYOA? or learning experience aprt...
 
 #### Multiplayer Learning
+- you can't learn alone
 - multiplayer game
 	- DAOs
 - co-creation
