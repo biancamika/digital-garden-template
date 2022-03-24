@@ -572,12 +572,10 @@ Profiles may lead to the emergence of different classes; the profile of an artis
 
 In line with this, the teachers of this Game will be full-fledged designers. They'll be designing not just content and delivery, but also environment (where are students learning?) and mechanics (what systems/rules do they have to follow?). In the Metaverse, the forms a classroom can take are endless: [an art gallery](https://oncyber.io/), [a theme park](https://www.animocabrands.com/the-sandbox-partners-with-atari), [a shopping district](https://www.republicrealm.com/metajuku)...anything you want it to be. With more people from diverse backgrounds becoming teachers, classrooms will be greatly transformed in order to fit a variety of learning styles (see [Azlen Elza's classroom design explorations).](https://twitter.com/azlenelza/status/1457346877163143170) Teachers could also incorporate tokens into the learning experience; these can track almost anything that can be tracked with a smart contract (e.g. reputation on a social platform, skills of a video game character). They could apply this to scaffolded learning: the gradual decrease of support for learners as they increase their understanding. For example, learning opportunities could come in the form of [quests and bounties](https://twitter.com/KatwellKat/status/1502302838537527302); teachers could choose to offer these for specified difficulty levels (e.g. # of XP in skill), and adjust rewards for these accordingly. Imagine all the possible ways learning could happen in this Game.
 
-But how does one become a teacher in the first place?
+But how does one become a teacher in the first place? This isn't just the result of gaining experience; it happens by engaging with a community. After all, what is a teacher without their students? In this Game, you can't level up without playing with others. 
 
 **Notes:**
-
 - put more contrasts: how is suggested innovation better than what currently exists?
-- how to end: how does one become a teacher? level up? transition to the community. you can't learn alone
 
 #### Multiplayer Learning
 - you can't learn alone
@@ -586,6 +584,7 @@ But how does one become a teacher in the first place?
 - co-creation
 	- no need to start from scratch
 - level up: teachers...design learning experiences not just for yourself, but for all
+	- toolmakers?
 	- it's a flywheel! give back to the community
 
 **Notes:**
