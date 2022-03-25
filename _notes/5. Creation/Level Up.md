@@ -532,8 +532,7 @@ However, the current state of the web isn't designed for the new ways we're lear
 This future is defined by freedom; people would be free to choose what they learn and how they learn it. This may only be achievable on an [open web](https://www.yearofopen.org/november-open-perspective-what-is-open-web/what-is-the-open-web-and-why-is-it-important-submitted-by-mark-surman-executive-director-of-the-mozilla-foundation/): one that is by and for all of its users, not select figures or institutions. A closed web is an unequitable world for education; only a few people will have access to opportunities for their personal growth. Together, Web3 and the Metaverse have the potential to open the internet to all.
 
 #### Web3
-An open internet indicates that everyone gets to have ownership over it, and 
-[Web3](https://eshita.mirror.xyz/H5bNIXATsWUv_QbbEz6lckYcgAa2rhXEPDRkecOlCOI) is the infrastructure that enables this. It's a new vision for the Internet where interactions in applications/software are facilitated through wallets; these replace accounts by [serving as both verified identities and funding sources](https://twitter.com/gaby_goldberg/status/1449002871706501133).  This mechanic decentralizes the web, empowering users to own their content, data, and assets. This frees them from being shackled to any given platform (e.g. Facebook, Twitter, Instagram). By making platforms obsolete, Web3 disincentivizes the creation of finite games; clout-chasing and wealth-creation no longer seems appealing when it's limited to a single platform. 
+An open internet indicates that everyone gets to have ownership over it, and [Web3](https://eshita.mirror.xyz/H5bNIXATsWUv_QbbEz6lckYcgAa2rhXEPDRkecOlCOI) is the infrastructure that enables this. It's a new vision for the Internet where interactions in applications/software are facilitated through wallets; these replace accounts by [serving as both verified identities and funding sources](https://twitter.com/gaby_goldberg/status/1449002871706501133).  This mechanic decentralizes the web, empowering users to own their content, data, and assets. This frees them from being shackled to any given platform (e.g. Facebook, Twitter, Instagram). By making platforms obsolete, Web3 disincentivizes the creation of finite games; clout-chasing and wealth-creation no longer seems appealing when it's limited to a single platform. 
 
 Web3 is reshaping education into [Ed3](https://ed3.mirror.xyz/0U3QG8-4K6CD_ltU6SJyKN3-uBD3x6nEFs-YeShzYmk), where learners own their education; instead of relying on accredited institutions and centralized distributors (e.g. universities and Udemy), they get to gather skills from a variety of sources and validate this knowledge in their own wallets. Decentralized technology can help education solve its challenges with access, affordability, and accreditation. Learners will no longer be inhibited by their time, location, and money; the credentials they gain will not just serve as signalling, but actually guarantee competency.
 
@@ -546,7 +545,16 @@ At the same time, the Metaverse also unlocks the value of Web3. Web3 excels at g
 
 As the ultimate virtual space, the ideal Metaverse would be the perfect environment for embedding education. Its immersive nature enables learning by doing. Platform-native encounters shorten the feedback loop from theory to practice, which helps people deeply internalize their learnings. This is characteristic of an enabling environment; reading about anatomy can't compare to [doing virtual surgery](https://aithority.com/technology/blockchain/immersivetouch-metaverse-set-to-revolutionize-vr-based-surgeries-in-india/). The Metaverse would also help make education more accessible. Knowledge and information have often been gatekept by platforms and institutions. To tackle this problem, embedded education aims to redistribute and embed these into our everyday experience. We're already familiar with the Internet, thinking of it as a place; why not see it as one big university too? An open metaverse could be the new school campus.
 
-If Web3 enables people to own their education, the Metaverse encourages them to deeply engage with it. It does this by freeing people from Web3's complexity and connecting them with like-minded learners. Currently, it's difficult to see the potential these technologies hold because most mainstream use cases seem frivolous: from collecting expensive animal JPEGs to playing in clunky 3D worlds. However, [the next big thing in technology often looks like a toy](https://www.youtube.com/watch?v=dp2gbWsPFgY). This was the case with the Internet. It was initially dismissed by others; but after improving over time (i.e. lower cost, better UX), it was able to achieve widespread adoption to the point that it entrenches our daily lives. I believe a Web3-powered Metaverse is on this same path. But we still need to ensure that it's on the right track.
+To summarize: if Web3 enables people to own their education, the Metaverse encourages them to deeply engage with it. It does this by freeing people from Web3's complexity and connecting them with like-minded learners. 
+
+#### We're ready for this future
+Modern youth are already primed for this future; being immersed in digital worlds helps us transition to virtual systems like Web3. [Founder Brian Cho](https://twitter.com/brianjcho/status/1459176570174672897) discusses their advantages:
+- (Value) creation/contribution:
+- Community:
+- Culture:
+
+
+Currently, it's difficult to see the potential these technologies hold because most mainstream use cases seem frivolous: from collecting expensive animal JPEGs to playing in clunky 3D worlds. However, [the next big thing in technology often looks like a toy](https://www.youtube.com/watch?v=dp2gbWsPFgY). This was the case with the Internet. It was initially dismissed by others; but after improving over time (i.e. lower cost, better UX), it was able to achieve widespread adoption to the point that it entrenches our daily lives. I believe a Web3-powered Metaverse is on this same path. But we still need to ensure that it's on the right track.
 
 
 ### What does this game look like? (Tentative)
@@ -595,16 +603,26 @@ However, before a learner can start getting involved in a community/project, it'
 
 One Web3 startup working on this solution is [Station](https://www.station.express/vision-track-ahead), which is building "on-chain infrastructure for onboarding & coordinating contributors of the future." DAOs have their own terminals, which feature all their initiatives; each initiative has information on required commitment, reward(s) for contribution, recommended skills, etc. After someone applies to an initiative, they can get endorsed by existing contributors. I'm excited for the network that'll emerge on Station. It'll not only help develop an ecosystem that enables connection, but also the future of profiles: one's relationships, reputation, and identity would be represented through the on-chain contribution and relational data accrued on the platform. 
 
+#### The Main Quest
+Overall, this Game is all about owning our education. The more people benefit from our learning experiences — from designing for yourself to designing for others, the more we level up.
 
 
+I believe that a Web3-powered Metaverse can bring this game to life
+
+Stated well by [investor Tina He](https://fakepixels.substack.com/p/fkpxls-special-volume-embedded-education): "If the purpose of education is to inspire courage to expand our collective understanding of the world, the vision of Embedded Education is that every time we see something that inspires us, the path to actualizing this new-found dream starts right where we find it." 
 
 
+- how does web3 + metaverse play into this?
+	- Tina He quote
+- never ending cycle
+- Open world
+- main quest. infinite game: creating the universe
 
 **Notes:**
 - level up: teachers...design learning experiences not just for yourself, but for all
-	- toolmakers?
+	- everyone can become a toolmaker
 	- it's a flywheel! give back to the community
-	- maybe mention loot project here instead? the first community owned gaming platform
+	- maybe mention Loot Project here instead? the first community owned gaming platform
 
 
 
