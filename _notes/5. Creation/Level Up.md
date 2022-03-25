@@ -607,22 +607,18 @@ One Web3 startup working on this solution is [Station](https://www.station.expre
 Overall, this Game is all about owning our education. The more people benefit from our learning experiences — from designing for yourself to designing for others, the more we level up.
 
 
+
+
+I'm inspired by [Loot Project](https://www.lootproject.com/), the first community-owned NFT gaming platform. This started out as NFTs that only consisted of 8 phrases, which depicted "randomized adventurer gear".  The community built on top of this, creating everything from [visual renditions of their gear](https://www.lootproject.com/#chapter2) to complex systems they can play in (e.g. [levelling infrasturcture](https://rift.live/), [society and politics](https://bannersnft.com/)). 
+
+
 I believe that a Web3-powered Metaverse can bring this game to life
+- community creation
+- storytelling
+- worldbuilding
+
 
 Stated well by [investor Tina He](https://fakepixels.substack.com/p/fkpxls-special-volume-embedded-education): "If the purpose of education is to inspire courage to expand our collective understanding of the world, the vision of Embedded Education is that every time we see something that inspires us, the path to actualizing this new-found dream starts right where we find it." 
-
-
-- how does web3 + metaverse play into this?
-	- Tina He quote
-- never ending cycle
-- Open world
-- main quest. infinite game: creating the universe
-
-**Notes:**
-- level up: teachers...design learning experiences not just for yourself, but for all
-	- everyone can become a toolmaker
-	- it's a flywheel! give back to the community
-	- maybe mention Loot Project here instead? the first community owned gaming platform
 
 
 
