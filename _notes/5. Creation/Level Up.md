@@ -603,22 +603,12 @@ However, before a learner can start getting involved in a community/project, it'
 
 One Web3 startup working on this solution is [Station](https://www.station.express/vision-track-ahead), which is building "on-chain infrastructure for onboarding & coordinating contributors of the future." DAOs have their own terminals, which feature all their initiatives; each initiative has information on required commitment, reward(s) for contribution, recommended skills, etc. After someone applies to an initiative, they can get endorsed by existing contributors. I'm excited for the network that'll emerge on Station. It'll not only help develop an ecosystem that enables connection, but also the future of profiles: one's relationships, reputation, and identity would be represented through the on-chain contribution and relational data accrued on the platform. 
 
+By enabling co-creation, the Game shows learners that they have the power to create their own universe. A major inspiration for this vision is [Loot Project](https://www.lootproject.com/), the first community-owned NFT gaming platform. It started out as loot bags: NFTs that only consisted of 8 phrases, which depicted "randomized adventurer gear".  The community built on top of this, creating everything from [visual renditions of their gear](https://www.lootproject.com/#chapter2) to complex systems they can play in (e.g. [levelling infrasturcture](https://rift.live/), [society and politics](https://bannersnft.com/)). This project is why I'm a believer in Web3-powered Metaverse, showing its potential in community creation, storytelling, and world-building. This is kind of environment that best fosters learning.
+
 #### The Main Quest
-Overall, this Game is all about owning our education. The more people benefit from our learning experiences — from designing for yourself to designing for others, the more we level up.
+Overall, this Game is all about owning our education. The more people benefit from our learning experiences — from designing for yourself to designing for others, the more we level up. We're playing an infinite game where school never ends; we'll always be students and teachers, learning from each other. Together, we can take on our main quest: creating a world where everyone is free to [flourish](https://en.unesco.org/futuresofeducation/sites/default/files/2021-03/Flourishing%20and%20Education_ISEEA%20Research%20Brief.pdf).
 
-
-
-
-I'm inspired by [Loot Project](https://www.lootproject.com/), the first community-owned NFT gaming platform. This started out as NFTs that only consisted of 8 phrases, which depicted "randomized adventurer gear".  The community built on top of this, creating everything from [visual renditions of their gear](https://www.lootproject.com/#chapter2) to complex systems they can play in (e.g. [levelling infrasturcture](https://rift.live/), [society and politics](https://bannersnft.com/)). 
-
-
-I believe that a Web3-powered Metaverse can bring this game to life
-- community creation
-- storytelling
-- worldbuilding
-
-
-Stated well by [investor Tina He](https://fakepixels.substack.com/p/fkpxls-special-volume-embedded-education): "If the purpose of education is to inspire courage to expand our collective understanding of the world, the vision of Embedded Education is that every time we see something that inspires us, the path to actualizing this new-found dream starts right where we find it." 
+If life is a game, we all want to level up. We choose the type of game we want to play. But for too long, we've been playing finite games. We've played by the rules set by our environments, assuming that winning is the only path we can take. Now, in an technological era that encourages participation and ownership, we're starting to realize that we are free to simply play. And instead of playing against others, we can play together. So do you want to upgrade only yourself, or also help upgrade our world? Your success is up to you.
 
 
 
